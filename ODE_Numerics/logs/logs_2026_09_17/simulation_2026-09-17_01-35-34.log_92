@@ -1,0 +1,88 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 1560
+
+This is the code with full unbound wavefunctions.
+92/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.00268 and xi=3.35
+(0.0155223,-2.47783e-05)
+(4.26574e-05,2.06223e-05)
+
+This is the code with full unbound wavefunctions.
+222/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.00284 and xi=3.55
+(0.0141637,-2.29117e-05)
+(3.87453e-05,1.86438e-05)
+
+This is the code with full unbound wavefunctions.
+352/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.003 and xi=3.75
+(0.0127979,-2.07292e-05)
+(3.49181e-05,1.67435e-05)
+
+This is the code with full unbound wavefunctions.
+482/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.003296 and xi=4.12
+(0.0103376,-1.66678e-05)
+(2.81844e-05,1.34588e-05)
+
+This is the code with full unbound wavefunctions.
+612/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.0034 and xi=4.25
+(0.00951399,-1.53324e-05)
+(2.59583e-05,1.23846e-05)
+
+This is the code with full unbound wavefunctions.
+742/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.003496 and xi=4.37
+(0.00877951,-1.41557e-05)
+(2.39797e-05,1.14333e-05)
+
+This is the code with full unbound wavefunctions.
+872/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.0036 and xi=4.5
+(0.0080434,9.26118e-06)
+(4.9228e-05,2.36242e-05)
+
+This is the code with full unbound wavefunctions.
+1002/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.003696 and xi=4.62
+(0.00736795,9.4637e-06)
+(4.51749e-05,2.16713e-05)
+
+This is the code with full unbound wavefunctions.
+1132/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.0038 and xi=4.75
+(0.00667305,9.46846e-06)
+(4.10055e-05,1.96659e-05)
+
+This is the code with full unbound wavefunctions.
+1262/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.003896 and xi=4.87
+(0.00606719,9.3162e-06)
+(3.73682e-05,1.79188e-05)
+
+This is the code with full unbound wavefunctions.
+1392/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.00424 and xi=5.3
+(0.00418794,7.99359e-06)
+(2.60463e-05,1.24907e-05)
+
+This is the code with full unbound wavefunctions.
+1522/1560 
+Total matrix element for 211+k1-k2=321=211+k1-k2:
+At alpha=0.0048 and xi=6
+(0.00207274,5.019e-06)
+(1.31429e-05,6.31208e-06)
+
+Program completed after 4271 s

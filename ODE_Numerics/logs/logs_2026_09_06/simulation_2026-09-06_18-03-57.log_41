@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+41/820 
+Total matrix element for 21/+k1-100=k2=21/+k1-100:
+At alpha=0.00448 and xi=5.6
+(0.486755,0.000193787)
+(0.000843513,0.000302817)
+
+This is the code with full unbound wavefunctions.
+123/820 
+Total matrix element for 21/+k1-100=k2=21/+k1-100:
+At alpha=0.00536 and xi=6.7
+(0.483338,0.000185477)
+(0.000820734,0.000300022)
+
+This is the code with full unbound wavefunctions.
+205/820 
+Total matrix element for 21/+k1-100=k2=21/+k1-100:
+At alpha=0.00568 and xi=7.1
+(0.482448,0.000183234)
+(0.000814458,0.0002993)
+
+This is the code with full unbound wavefunctions.
+287/820 
+Total matrix element for 21/+k1-100=k2=21/+k1-100:
+At alpha=0.006 and xi=7.5
+(0.481689,0.0001813)
+(0.000808954,0.000298687)
+
+This is the code with full unbound wavefunctions.
+369/820 
+Total matrix element for 21/+k1-100=k2=21/+k1-100:
+At alpha=0.0072 and xi=9
+(0.479662,0.000176014)
+(0.000793263,0.000297042)
+
+This is the code with full unbound wavefunctions.
+451/820 
+Total matrix element for 21/+k1-100=k2=21/+k1-100:
+At alpha=0.036 and xi=45
+(0.47732,0.000165658)
+(0.000742165,0.000294065)
+
+This is the code with full unbound wavefunctions.
+533/820 
+Total matrix element for 21/+k1-100=k2=21/+k1-100:
+At alpha=0.0424 and xi=53
+(0.478208,0.000165621)
+(0.000741211,0.000294448)
+
+This is the code with full unbound wavefunctions.
+615/820 
+Total matrix element for 21/+k1-100=k2=21/+k1-100:
+At alpha=0.0448 and xi=56
+(0.478585,0.000165598)
+(0.000741005,0.000294617)
+
+This is the code with full unbound wavefunctions.
+697/820 
+Total matrix element for 21/+k1-100=k2=21/+k1-100:
+At alpha=0.048 and xi=60
+(0.479124,0.000165556)
+(0.000740833,0.000294863)
+
+This is the code with full unbound wavefunctions.
+779/820 
+Total matrix element for 21/+k1-100=k2=21/+k1-100:
+At alpha=0.0568 and xi=71
+(0.4808,0.000165387)
+(0.000740829,0.000295646)
+
+Program completed after 981 s

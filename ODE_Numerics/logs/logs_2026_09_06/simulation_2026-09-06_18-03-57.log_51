@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+51/820 
+Total matrix element for 211+k1-k2=200=211+k1-k2:
+At alpha=0.00448 and xi=5.6
+(0.0864813,-4.18763e-05)
+(0.00023748,0.000102484)
+
+This is the code with full unbound wavefunctions.
+133/820 
+Total matrix element for 211+k1-k2=200=211+k1-k2:
+At alpha=0.00536 and xi=6.7
+(0.0813608,-2.48464e-05)
+(0.000229348,9.91411e-05)
+
+This is the code with full unbound wavefunctions.
+215/820 
+Total matrix element for 211+k1-k2=200=211+k1-k2:
+At alpha=0.00568 and xi=7.1
+(0.0799913,-2.05869e-05)
+(0.000227458,9.82786e-05)
+
+This is the code with full unbound wavefunctions.
+297/820 
+Total matrix element for 211+k1-k2=200=211+k1-k2:
+At alpha=0.006 and xi=7.5
+(0.0788093,-1.69924e-05)
+(0.000225924,9.75437e-05)
+
+This is the code with full unbound wavefunctions.
+379/820 
+Total matrix element for 211+k1-k2=200=211+k1-k2:
+At alpha=0.0072 and xi=9
+(0.0755513,-7.36194e-06)
+(0.000222146,9.5559e-05)
+
+This is the code with full unbound wavefunctions.
+461/820 
+Total matrix element for 211+k1-k2=200=211+k1-k2:
+At alpha=0.036 and xi=45
+(0.0144304,1.63956e-05)
+(7.18764e-05,3.11083e-05)
+
+This is the code with full unbound wavefunctions.
+543/820 
+Total matrix element for 211+k1-k2=200=211+k1-k2:
+At alpha=0.0424 and xi=53
+(0.00286538,4.5817e-06)
+(1.72002e-05,7.52115e-06)
+
+This is the code with full unbound wavefunctions.
+625/820 
+Total matrix element for 211+k1-k2=200=211+k1-k2:
+At alpha=0.0448 and xi=56
+(0.0011993,2.1511e-06)
+(7.69069e-06,3.37612e-06)
+
+This is the code with full unbound wavefunctions.
+707/820 
+Total matrix element for 211+k1-k2=200=211+k1-k2:
+At alpha=0.048 and xi=60
+(0.000283006,5.8605e-07)
+(1.97292e-06,8.70577e-07)
+
+This is the code with full unbound wavefunctions.
+789/820 
+Total matrix element for 211+k1-k2=200=211+k1-k2:
+At alpha=0.0568 and xi=71
+(6.32684e-07,1.86608e-09)
+(5.39839e-09,2.41445e-09)
+
+Program completed after 940 s

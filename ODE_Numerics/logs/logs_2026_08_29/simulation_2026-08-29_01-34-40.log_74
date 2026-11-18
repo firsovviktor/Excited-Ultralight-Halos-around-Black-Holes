@@ -1,0 +1,179 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 2050
+
+This is the code with full unbound wavefunctions.
+74/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=8e-05 and xi=0.1
+(0.556057,3.92022e-05)
+(0.00108164,0.000261803)
+
+This is the code with full unbound wavefunctions.
+156/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.0004 and xi=0.5
+(0.528372,4.97831e-05)
+(0.00045989,7.34703e-05)
+
+This is the code with full unbound wavefunctions.
+238/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.000504 and xi=0.63
+(0.501399,4.98471e-05)
+(0.000395813,5.93737e-05)
+
+This is the code with full unbound wavefunctions.
+320/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.00064 and xi=0.8
+(0.457801,1.07869e-05)
+(0.000340987,4.76171e-05)
+
+This is the code with full unbound wavefunctions.
+402/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.0008 and xi=1
+(0.398211,1.87595e-05)
+(0.000292552,3.82394e-05)
+
+This is the code with full unbound wavefunctions.
+484/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.001 and xi=1.25
+(0.317608,2.27712e-05)
+(0.000238902,2.94392e-05)
+
+This is the code with full unbound wavefunctions.
+566/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.00128 and xi=1.6
+(0.208326,7.70118e-06)
+(0.000237958,3.90404e-05)
+
+This is the code with full unbound wavefunctions.
+648/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.0016 and xi=2
+(0.108841,8.10092e-06)
+(0.000135024,2.12932e-05)
+
+This is the code with full unbound wavefunctions.
+730/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.002 and xi=2.5
+(0.0367493,3.27342e-06)
+(5.03365e-05,7.69526e-06)
+
+This is the code with full unbound wavefunctions.
+812/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.00252 and xi=3.15
+(0.00549521,5.24031e-07)
+(8.42391e-06,1.25625e-06)
+
+This is the code with full unbound wavefunctions.
+894/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.0032 and xi=4
+(0.000190461,2.00106e-08)
+(3.29704e-07,4.82326e-08)
+
+This is the code with full unbound wavefunctions.
+976/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.004 and xi=5
+(9.72798e-07,2.671e-10)
+(4.23029e-09,6.11885e-10)
+
+This is the code with full unbound wavefunctions.
+1058/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.00504 and xi=6.3
+(1.16941e-10,4.23371e-14)
+(5.73437e-13,8.2031e-14)
+
+This is the code with full unbound wavefunctions.
+1140/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.0064 and xi=8
+(2.04654e-17,1.0431e-20)
+(1.13627e-19,1.61132e-20)
+
+This is the code with full unbound wavefunctions.
+1222/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.008 and xi=10
+(9.44401e-28,6.6174e-31)
+(5.88759e-30,8.29604e-31)
+
+This is the code with full unbound wavefunctions.
+1304/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.01 and xi=12.5
+(2.54366e-44,2.38196e-47)
+(1.78026e-46,2.49555e-47)
+
+This is the code with full unbound wavefunctions.
+1386/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.0128 and xi=16
+(2.29288e-74,2.83856e-77)
+(1.82351e-76,2.54398e-77)
+
+This is the code with full unbound wavefunctions.
+1468/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.016 and xi=20
+(1.55039e-118,2.38412e-121)
+(1.38378e-120,1.92341e-121)
+
+This is the code with full unbound wavefunctions.
+1550/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.02 and xi=25
+(1.36179e-188,2.52697e-191)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1632/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.0252 and xi=31.5
+(1.52058e-304,3.33572e-307)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1714/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.032 and xi=40
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1796/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.04 and xi=50
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1878/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.0504 and xi=63
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1960/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.064 and xi=80
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+2042/2050 
+Total matrix element for 100+k1-k2=200=100+k1-k2:
+At alpha=0.08 and xi=100
+(0,0)
+(0,0)
+
+Program completed after 27502 s

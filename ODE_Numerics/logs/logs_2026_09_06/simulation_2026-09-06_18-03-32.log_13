@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+13/820 
+Total matrix element for 210+21/-100=k1=210+21/-100:
+At alpha=0.00448 and xi=5.6
+(0.000164093,2.05086e-08)
+(1.23393e-07,5.59272e-08)
+
+This is the code with full unbound wavefunctions.
+95/820 
+Total matrix element for 210+21/-100=k1=210+21/-100:
+At alpha=0.00536 and xi=6.7
+(0.000164097,2.05103e-08)
+(1.23396e-07,5.5929e-08)
+
+This is the code with full unbound wavefunctions.
+177/820 
+Total matrix element for 210+21/-100=k1=210+21/-100:
+At alpha=0.00568 and xi=7.1
+(0.000164099,2.0511e-08)
+(1.23397e-07,5.59297e-08)
+
+This is the code with full unbound wavefunctions.
+259/820 
+Total matrix element for 210+21/-100=k1=210+21/-100:
+At alpha=0.006 and xi=7.5
+(0.000164101,2.05118e-08)
+(1.23398e-07,5.59304e-08)
+
+This is the code with full unbound wavefunctions.
+341/820 
+Total matrix element for 210+21/-100=k1=210+21/-100:
+At alpha=0.0072 and xi=9
+(0.000164108,2.05149e-08)
+(1.23404e-07,5.59336e-08)
+
+This is the code with full unbound wavefunctions.
+423/820 
+Total matrix element for 210+21/-100=k1=210+21/-100:
+At alpha=0.036 and xi=45
+(0.000164675,2.0751e-08)
+(1.23807e-07,5.61833e-08)
+
+This is the code with full unbound wavefunctions.
+505/820 
+Total matrix element for 210+21/-100=k1=210+21/-100:
+At alpha=0.0424 and xi=53
+(0.000164896,2.08404e-08)
+(1.23964e-07,5.62826e-08)
+
+This is the code with full unbound wavefunctions.
+587/820 
+Total matrix element for 210+21/-100=k1=210+21/-100:
+At alpha=0.0448 and xi=56
+(0.000164988,2.08767e-08)
+(1.2403e-07,5.63237e-08)
+
+This is the code with full unbound wavefunctions.
+669/820 
+Total matrix element for 210+21/-100=k1=210+21/-100:
+At alpha=0.048 and xi=60
+(0.000165116,2.09273e-08)
+(1.24121e-07,5.63819e-08)
+
+This is the code with full unbound wavefunctions.
+751/820 
+Total matrix element for 210+21/-100=k1=210+21/-100:
+At alpha=0.0568 and xi=71
+(0.000165504,2.10769e-08)
+(1.24399e-07,5.65609e-08)
+
+Program completed after 856 s

@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+40/820 
+Total matrix element for 210+k1-100=k2=210+k1-100:
+At alpha=0.00448 and xi=5.6
+(0.577069,-0.00017254)
+(0.000922448,0.000323891)
+
+This is the code with full unbound wavefunctions.
+122/820 
+Total matrix element for 210+k1-100=k2=210+k1-100:
+At alpha=0.00536 and xi=6.7
+(0.580661,-0.000180703)
+(0.000895527,0.000322697)
+
+This is the code with full unbound wavefunctions.
+204/820 
+Total matrix element for 210+k1-100=k2=210+k1-100:
+At alpha=0.00568 and xi=7.1
+(0.581614,-0.000183444)
+(0.000887773,0.00032243)
+
+This is the code with full unbound wavefunctions.
+286/820 
+Total matrix element for 210+k1-100=k2=210+k1-100:
+At alpha=0.006 and xi=7.5
+(0.582432,-0.000186043)
+(0.000880835,0.00032222)
+
+This is the code with full unbound wavefunctions.
+368/820 
+Total matrix element for 210+k1-100=k2=210+k1-100:
+At alpha=0.0072 and xi=9
+(0.584656,-0.000194299)
+(0.00086028,0.000321744)
+
+This is the code with full unbound wavefunctions.
+450/820 
+Total matrix element for 210+k1-100=k2=210+k1-100:
+At alpha=0.036 and xi=45
+(0.59177,-0.000226074)
+(0.000780795,0.00032272)
+
+This is the code with full unbound wavefunctions.
+532/820 
+Total matrix element for 210+k1-100=k2=210+k1-100:
+At alpha=0.0424 and xi=53
+(0.592637,-0.000228869)
+(0.000778477,0.000323243)
+
+This is the code with full unbound wavefunctions.
+614/820 
+Total matrix element for 210+k1-100=k2=210+k1-100:
+At alpha=0.0448 and xi=56
+(0.592988,-0.000229959)
+(0.000777851,0.000323457)
+
+This is the code with full unbound wavefunctions.
+696/820 
+Total matrix element for 210+k1-100=k2=210+k1-100:
+At alpha=0.048 and xi=60
+(0.593478,-0.000231459)
+(0.000777175,0.000323757)
+
+This is the code with full unbound wavefunctions.
+778/820 
+Total matrix element for 210+k1-100=k2=210+k1-100:
+At alpha=0.0568 and xi=71
+(0.594961,-0.000235919)
+(0.000776039,0.000324674)
+
+Program completed after 890 s

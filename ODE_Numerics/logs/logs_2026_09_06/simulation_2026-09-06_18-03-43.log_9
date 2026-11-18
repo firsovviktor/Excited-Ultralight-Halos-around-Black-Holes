@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+9/820 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.00448 and xi=5.6
+(0.000240519,1.08086e-07)
+(2.75279e-07,1.20063e-07)
+
+This is the code with full unbound wavefunctions.
+91/820 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.00536 and xi=6.7
+(0.000240526,1.08082e-07)
+(2.75289e-07,1.20068e-07)
+
+This is the code with full unbound wavefunctions.
+173/820 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.00568 and xi=7.1
+(0.000240529,1.08081e-07)
+(2.75294e-07,1.2007e-07)
+
+This is the code with full unbound wavefunctions.
+255/820 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.006 and xi=7.5
+(0.000240532,1.08079e-07)
+(2.75298e-07,1.20072e-07)
+
+This is the code with full unbound wavefunctions.
+337/820 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0072 and xi=9
+(0.000240545,1.08072e-07)
+(2.75318e-07,1.20081e-07)
+
+This is the code with full unbound wavefunctions.
+419/820 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.036 and xi=45
+(0.000241515,1.07469e-07)
+(2.76829e-07,1.20798e-07)
+
+This is the code with full unbound wavefunctions.
+501/820 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0424 and xi=53
+(0.000241896,1.07211e-07)
+(2.77428e-07,1.21083e-07)
+
+This is the code with full unbound wavefunctions.
+583/820 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0448 and xi=56
+(0.000242053,1.07102e-07)
+(2.77677e-07,1.21201e-07)
+
+This is the code with full unbound wavefunctions.
+665/820 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.048 and xi=60
+(0.000242274,1.06944e-07)
+(2.78027e-07,1.21368e-07)
+
+This is the code with full unbound wavefunctions.
+747/820 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0568 and xi=71
+(0.000242945,1.06435e-07)
+(2.79103e-07,1.21882e-07)
+
+Program completed after 708 s

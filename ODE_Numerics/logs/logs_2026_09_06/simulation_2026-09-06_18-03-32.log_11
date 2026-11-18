@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+11/820 
+Total matrix element for 211+210-100=k1=211+210-100:
+At alpha=0.00448 and xi=5.6
+(0.000163832,2.12149e-09)
+(1.23522e-07,5.59017e-08)
+
+This is the code with full unbound wavefunctions.
+93/820 
+Total matrix element for 211+210-100=k1=211+210-100:
+At alpha=0.00536 and xi=6.7
+(0.000163836,2.12585e-09)
+(1.23525e-07,5.59035e-08)
+
+This is the code with full unbound wavefunctions.
+175/820 
+Total matrix element for 211+210-100=k1=211+210-100:
+At alpha=0.00568 and xi=7.1
+(0.000163837,2.12763e-09)
+(1.23526e-07,5.59042e-08)
+
+This is the code with full unbound wavefunctions.
+257/820 
+Total matrix element for 211+210-100=k1=211+210-100:
+At alpha=0.006 and xi=7.5
+(0.000163839,2.12951e-09)
+(1.23527e-07,5.5905e-08)
+
+This is the code with full unbound wavefunctions.
+339/820 
+Total matrix element for 211+210-100=k1=211+210-100:
+At alpha=0.0072 and xi=9
+(0.000163846,2.13749e-09)
+(1.23533e-07,5.59082e-08)
+
+This is the code with full unbound wavefunctions.
+421/820 
+Total matrix element for 211+210-100=k1=211+210-100:
+At alpha=0.036 and xi=45
+(0.000164412,2.76834e-09)
+(1.23936e-07,5.61571e-08)
+
+This is the code with full unbound wavefunctions.
+503/820 
+Total matrix element for 211+210-100=k1=211+210-100:
+At alpha=0.0424 and xi=53
+(0.000164633,3.0251e-09)
+(1.24094e-07,5.6256e-08)
+
+This is the code with full unbound wavefunctions.
+585/820 
+Total matrix element for 211+210-100=k1=211+210-100:
+At alpha=0.0448 and xi=56
+(0.000164723,3.13259e-09)
+(1.24159e-07,5.62971e-08)
+
+This is the code with full unbound wavefunctions.
+667/820 
+Total matrix element for 211+210-100=k1=211+210-100:
+At alpha=0.048 and xi=60
+(0.000164851,3.2855e-09)
+(1.24251e-07,5.63551e-08)
+
+This is the code with full unbound wavefunctions.
+749/820 
+Total matrix element for 211+210-100=k1=211+210-100:
+At alpha=0.0568 and xi=71
+(0.000165238,3.76325e-09)
+(1.24529e-07,5.65336e-08)
+
+Program completed after 862 s

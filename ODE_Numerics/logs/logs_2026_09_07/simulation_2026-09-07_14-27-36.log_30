@@ -1,0 +1,25 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 246
+
+This is the code with full unbound wavefunctions.
+30/246 
+Total matrix element for k1+k2-211=k3=k1+k2-211:
+At alpha=0.0456 and xi=57
+(2216.93,24.8312)
+(10.4644,8.51957)
+
+This is the code with full unbound wavefunctions.
+112/246 
+Total matrix element for k1+k2-211=k3=k1+k2-211:
+At alpha=0.0464 and xi=58
+(2216.94,24.829)
+(10.4637,8.51873)
+
+This is the code with full unbound wavefunctions.
+194/246 
+Total matrix element for k1+k2-211=k3=k1+k2-211:
+At alpha=0.0472 and xi=59
+(2216.96,24.8266)
+(10.463,8.51794)
+
+Program completed after 327 s

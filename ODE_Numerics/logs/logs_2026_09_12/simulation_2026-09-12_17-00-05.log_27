@@ -1,0 +1,39 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 410
+
+This is the code with full unbound wavefunctions.
+27/410 
+Total matrix element for 200+k1-211=k2=200+k1-211:
+At alpha=0.00068 and xi=0.85
+(0.54738,0.000458887)
+(0.00333323,0.000905851)
+
+This is the code with full unbound wavefunctions.
+109/410 
+Total matrix element for 200+k1-211=k2=200+k1-211:
+At alpha=0.00072 and xi=0.9
+(0.543231,0.000307445)
+(0.0031367,0.0008382)
+
+This is the code with full unbound wavefunctions.
+191/410 
+Total matrix element for 200+k1-211=k2=200+k1-211:
+At alpha=0.00074 and xi=0.925
+(0.541292,0.000475328)
+(0.00304646,0.000808553)
+
+This is the code with full unbound wavefunctions.
+273/410 
+Total matrix element for 200+k1-211=k2=200+k1-211:
+At alpha=0.00076 and xi=0.95
+(0.539534,0.000669459)
+(0.00296126,0.000780539)
+
+This is the code with full unbound wavefunctions.
+355/410 
+Total matrix element for 200+k1-211=k2=200+k1-211:
+At alpha=0.00078 and xi=0.975
+(0.537703,0.000869483)
+(0.0028806,0.00075439)
+
+Program completed after 23186 s

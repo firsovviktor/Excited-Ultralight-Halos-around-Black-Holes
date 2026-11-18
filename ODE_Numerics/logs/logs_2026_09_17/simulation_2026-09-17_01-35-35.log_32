@@ -1,0 +1,88 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 1560
+
+This is the code with full unbound wavefunctions.
+32/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.00268 and xi=3.35
+(2239.1,7.32951)
+(8.59608,7.6954)
+
+This is the code with full unbound wavefunctions.
+162/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.00284 and xi=3.55
+(2241.38,6.86043)
+(8.11005,7.20691)
+
+This is the code with full unbound wavefunctions.
+292/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.003 and xi=3.75
+(2243.04,3.63572)
+(7.72062,6.80302)
+
+This is the code with full unbound wavefunctions.
+422/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.003296 and xi=4.12
+(2246.07,3.5855)
+(7.15988,6.23157)
+
+This is the code with full unbound wavefunctions.
+552/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.0034 and xi=4.25
+(2246.99,4.56909)
+(7.00234,6.07024)
+
+This is the code with full unbound wavefunctions.
+682/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.003496 and xi=4.37
+(2247.42,4.96196)
+(6.8704,5.93836)
+
+This is the code with full unbound wavefunctions.
+812/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.0036 and xi=4.5
+(2257.91,-7.21161)
+(15.3618,12.939)
+
+This is the code with full unbound wavefunctions.
+942/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.003696 and xi=4.62
+(2257.87,-6.02215)
+(15.1432,12.7021)
+
+This is the code with full unbound wavefunctions.
+1072/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.0038 and xi=4.75
+(2256.99,-4.80285)
+(14.9324,12.4597)
+
+This is the code with full unbound wavefunctions.
+1202/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.003896 and xi=4.87
+(2255.71,-4.0097)
+(14.7524,12.2543)
+
+This is the code with full unbound wavefunctions.
+1332/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.00424 and xi=5.3
+(2251.51,-5.38776)
+(14.1641,11.6819)
+
+This is the code with full unbound wavefunctions.
+1462/1560 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.0048 and xi=6
+(2243.07,-9.59319)
+(13.3283,11.1593)
+
+Program completed after 4212 s

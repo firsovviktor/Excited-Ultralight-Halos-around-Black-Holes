@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+44/820 
+Total matrix element for 21/+k1-200=k2=21/+k1-200:
+At alpha=0.00448 and xi=5.6
+(0.391175,-1.58332e-05)
+(0.000809574,0.000342663)
+
+This is the code with full unbound wavefunctions.
+126/820 
+Total matrix element for 21/+k1-200=k2=21/+k1-200:
+At alpha=0.00536 and xi=6.7
+(0.382289,1.01026e-06)
+(0.000790087,0.000331836)
+
+This is the code with full unbound wavefunctions.
+208/820 
+Total matrix element for 21/+k1-200=k2=21/+k1-200:
+At alpha=0.00568 and xi=7.1
+(0.37986,6.592e-07)
+(0.000785773,0.000329182)
+
+This is the code with full unbound wavefunctions.
+290/820 
+Total matrix element for 21/+k1-200=k2=21/+k1-200:
+At alpha=0.006 and xi=7.5
+(0.377748,-1.73491e-06)
+(0.000782368,0.00032698)
+
+This is the code with full unbound wavefunctions.
+372/820 
+Total matrix element for 21/+k1-200=k2=21/+k1-200:
+At alpha=0.0072 and xi=9
+(0.371886,-1.68391e-05)
+(0.000774567,0.000321365)
+
+This is the code with full unbound wavefunctions.
+454/820 
+Total matrix element for 21/+k1-200=k2=21/+k1-200:
+At alpha=0.036 and xi=45
+(0.357256,-0.000153392)
+(0.000764826,0.000311018)
+
+This is the code with full unbound wavefunctions.
+536/820 
+Total matrix element for 21/+k1-200=k2=21/+k1-200:
+At alpha=0.0424 and xi=53
+(0.357054,-0.000169067)
+(0.000764328,0.000311471)
+
+This is the code with full unbound wavefunctions.
+618/820 
+Total matrix element for 21/+k1-200=k2=21/+k1-200:
+At alpha=0.0448 and xi=56
+(0.356998,-0.00017464)
+(0.000764105,0.000311694)
+
+This is the code with full unbound wavefunctions.
+700/820 
+Total matrix element for 21/+k1-200=k2=21/+k1-200:
+At alpha=0.048 and xi=60
+(0.356936,-0.000181826)
+(0.000763779,0.000312033)
+
+This is the code with full unbound wavefunctions.
+782/820 
+Total matrix element for 21/+k1-200=k2=21/+k1-200:
+At alpha=0.0568 and xi=71
+(0.356816,-0.000200271)
+(0.000762718,0.00031318)
+
+Program completed after 952 s

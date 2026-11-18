@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+10/820 
+Total matrix element for 21/+21/-100=k1=21/+21/-100:
+At alpha=0.00448 and xi=5.6
+(0.000328308,1.60467e-07)
+(2.48217e-07,1.11589e-07)
+
+This is the code with full unbound wavefunctions.
+92/820 
+Total matrix element for 21/+21/-100=k1=21/+21/-100:
+At alpha=0.00536 and xi=6.7
+(0.000328316,1.60479e-07)
+(2.48223e-07,1.11593e-07)
+
+This is the code with full unbound wavefunctions.
+174/820 
+Total matrix element for 21/+21/-100=k1=21/+21/-100:
+At alpha=0.00568 and xi=7.1
+(0.000328319,1.60483e-07)
+(2.48225e-07,1.11594e-07)
+
+This is the code with full unbound wavefunctions.
+256/820 
+Total matrix element for 21/+21/-100=k1=21/+21/-100:
+At alpha=0.006 and xi=7.5
+(0.000328323,1.60489e-07)
+(2.48227e-07,1.11595e-07)
+
+This is the code with full unbound wavefunctions.
+338/820 
+Total matrix element for 21/+21/-100=k1=21/+21/-100:
+At alpha=0.0072 and xi=9
+(0.000328338,1.6051e-07)
+(2.48238e-07,1.11602e-07)
+
+This is the code with full unbound wavefunctions.
+420/820 
+Total matrix element for 21/+21/-100=k1=21/+21/-100:
+At alpha=0.036 and xi=45
+(0.000329472,1.62196e-07)
+(2.49047e-07,1.12086e-07)
+
+This is the code with full unbound wavefunctions.
+502/820 
+Total matrix element for 21/+21/-100=k1=21/+21/-100:
+At alpha=0.0424 and xi=53
+(0.000329915,1.62869e-07)
+(2.49364e-07,1.12278e-07)
+
+This is the code with full unbound wavefunctions.
+584/820 
+Total matrix element for 21/+21/-100=k1=21/+21/-100:
+At alpha=0.0448 and xi=56
+(0.000330098,1.63148e-07)
+(2.49495e-07,1.12358e-07)
+
+This is the code with full unbound wavefunctions.
+666/820 
+Total matrix element for 21/+21/-100=k1=21/+21/-100:
+At alpha=0.048 and xi=60
+(0.000330354,1.63543e-07)
+(2.49678e-07,1.12471e-07)
+
+This is the code with full unbound wavefunctions.
+748/820 
+Total matrix element for 21/+21/-100=k1=21/+21/-100:
+At alpha=0.0568 and xi=71
+(0.000331131,1.6476e-07)
+(2.50236e-07,1.12819e-07)
+
+Program completed after 798 s

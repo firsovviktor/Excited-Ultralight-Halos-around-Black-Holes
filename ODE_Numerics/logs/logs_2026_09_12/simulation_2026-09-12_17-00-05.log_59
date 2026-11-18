@@ -1,0 +1,39 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 410
+
+This is the code with full unbound wavefunctions.
+59/410 
+Total matrix element for 100+k1-k2=21/=100+k1-k2:
+At alpha=0.00068 and xi=0.85
+(0.173959,-1.20588e-05)
+(0.000166693,3.42105e-05)
+
+This is the code with full unbound wavefunctions.
+141/410 
+Total matrix element for 100+k1-k2=21/=100+k1-k2:
+At alpha=0.00072 and xi=0.9
+(0.164453,-7.38566e-06)
+(0.000153986,3.17863e-05)
+
+This is the code with full unbound wavefunctions.
+223/410 
+Total matrix element for 100+k1-k2=21/=100+k1-k2:
+At alpha=0.00074 and xi=0.925
+(0.159802,-5.10096e-06)
+(0.000148084,3.06677e-05)
+
+This is the code with full unbound wavefunctions.
+305/410 
+Total matrix element for 100+k1-k2=21/=100+k1-k2:
+At alpha=0.00076 and xi=0.95
+(0.155222,-3.14008e-06)
+(0.000142452,2.96038e-05)
+
+This is the code with full unbound wavefunctions.
+387/410 
+Total matrix element for 100+k1-k2=21/=100+k1-k2:
+At alpha=0.00078 and xi=0.975
+(0.150712,-1.60619e-06)
+(0.000137069,2.85898e-05)
+
+Program completed after 10878 s

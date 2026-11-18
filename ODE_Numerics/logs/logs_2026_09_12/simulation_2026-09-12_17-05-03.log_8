@@ -1,0 +1,144 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 1640
+
+This is the code with full unbound wavefunctions.
+8/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.00112 and xi=1.4
+(0.000328022,-1.51635e-08)
+(7.32053e-08,2.45709e-08)
+
+This is the code with full unbound wavefunctions.
+90/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.00136 and xi=1.7
+(0.000328088,5.7719e-08)
+(1.10967e-07,4.9817e-08)
+
+This is the code with full unbound wavefunctions.
+172/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0014 and xi=1.75
+(0.000328088,5.77191e-08)
+(1.10967e-07,4.98171e-08)
+
+This is the code with full unbound wavefunctions.
+254/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.00144 and xi=1.8
+(0.000328088,5.77192e-08)
+(1.10967e-07,4.98171e-08)
+
+This is the code with full unbound wavefunctions.
+336/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.00148 and xi=1.85
+(0.000328088,5.77193e-08)
+(1.10967e-07,4.98171e-08)
+
+This is the code with full unbound wavefunctions.
+418/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.00152 and xi=1.9
+(0.000328088,5.77195e-08)
+(1.10967e-07,4.98171e-08)
+
+This is the code with full unbound wavefunctions.
+500/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.00156 and xi=1.95
+(0.000328088,5.77196e-08)
+(1.10967e-07,4.98171e-08)
+
+This is the code with full unbound wavefunctions.
+582/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.001648 and xi=2.06
+(0.000328089,5.77198e-08)
+(1.10967e-07,4.98172e-08)
+
+This is the code with full unbound wavefunctions.
+664/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.001696 and xi=2.12
+(0.000328089,5.772e-08)
+(1.10967e-07,4.98172e-08)
+
+This is the code with full unbound wavefunctions.
+746/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.001744 and xi=2.18
+(0.000328089,5.77201e-08)
+(1.10967e-07,4.98172e-08)
+
+This is the code with full unbound wavefunctions.
+828/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.001792 and xi=2.24
+(0.000328089,5.77203e-08)
+(1.10967e-07,4.98173e-08)
+
+This is the code with full unbound wavefunctions.
+910/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.00224 and xi=2.8
+(0.000328091,5.7722e-08)
+(1.10968e-07,4.98176e-08)
+
+This is the code with full unbound wavefunctions.
+992/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0436 and xi=54.5
+(0.000329712,2.02722e-07)
+(2.49401e-07,1.1198e-07)
+
+This is the code with full unbound wavefunctions.
+1074/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.045 and xi=56.25
+(0.000329819,2.02683e-07)
+(2.49478e-07,1.12027e-07)
+
+This is the code with full unbound wavefunctions.
+1156/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0452 and xi=56.5
+(0.000329835,2.02677e-07)
+(2.49489e-07,1.12034e-07)
+
+This is the code with full unbound wavefunctions.
+1238/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0454 and xi=56.75
+(0.000329851,2.02672e-07)
+(2.49501e-07,1.12041e-07)
+
+This is the code with full unbound wavefunctions.
+1320/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0458 and xi=57.25
+(0.000329882,2.0266e-07)
+(2.49523e-07,1.12055e-07)
+
+This is the code with full unbound wavefunctions.
+1402/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.046 and xi=57.5
+(0.000329898,2.02654e-07)
+(2.49534e-07,1.12062e-07)
+
+This is the code with full unbound wavefunctions.
+1484/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0462 and xi=57.75
+(0.000329914,2.02648e-07)
+(2.49546e-07,1.12069e-07)
+
+This is the code with full unbound wavefunctions.
+1566/1640 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0468 and xi=58.5
+(0.000329962,2.02631e-07)
+(2.4958e-07,1.12091e-07)
+
+Program completed after 7151 s

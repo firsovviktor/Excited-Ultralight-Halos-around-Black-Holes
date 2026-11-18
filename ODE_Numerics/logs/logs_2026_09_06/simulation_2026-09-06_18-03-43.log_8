@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+8/820 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.00448 and xi=5.6
+(0.000328319,-4.33909e-08)
+(2.48233e-07,1.11441e-07)
+
+This is the code with full unbound wavefunctions.
+90/820 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.00536 and xi=6.7
+(0.000328327,-4.3379e-08)
+(2.48239e-07,1.11444e-07)
+
+This is the code with full unbound wavefunctions.
+172/820 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.00568 and xi=7.1
+(0.00032833,-4.33741e-08)
+(2.48241e-07,1.11446e-07)
+
+This is the code with full unbound wavefunctions.
+254/820 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.006 and xi=7.5
+(0.000328334,-4.33689e-08)
+(2.48244e-07,1.11447e-07)
+
+This is the code with full unbound wavefunctions.
+336/820 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0072 and xi=9
+(0.000328348,-4.3347e-08)
+(2.48254e-07,1.11453e-07)
+
+This is the code with full unbound wavefunctions.
+418/820 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.036 and xi=45
+(0.000329481,-4.16167e-08)
+(2.4906e-07,1.11939e-07)
+
+This is the code with full unbound wavefunctions.
+500/820 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0424 and xi=53
+(0.000329924,-4.09137e-08)
+(2.49375e-07,1.12133e-07)
+
+This is the code with full unbound wavefunctions.
+582/820 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0448 and xi=56
+(0.000330106,-4.06196e-08)
+(2.49505e-07,1.12213e-07)
+
+This is the code with full unbound wavefunctions.
+664/820 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.048 and xi=60
+(0.000330361,-4.02015e-08)
+(2.49688e-07,1.12326e-07)
+
+This is the code with full unbound wavefunctions.
+746/820 
+Total matrix element for 211+211-100=k1=211+211-100:
+At alpha=0.0568 and xi=71
+(0.000331138,-3.88969e-08)
+(2.50243e-07,1.12675e-07)
+
+Program completed after 795 s

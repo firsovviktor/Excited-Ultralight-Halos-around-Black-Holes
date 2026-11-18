@@ -1,0 +1,179 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 2050
+
+This is the code with full unbound wavefunctions.
+9/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=8e-05 and xi=0.1
+(0.000240416,1.43767e-08)
+(4.63947e-08,1.50625e-08)
+
+This is the code with full unbound wavefunctions.
+91/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0004 and xi=0.5
+(0.000240451,-1.39422e-08)
+(8.04028e-08,2.60923e-08)
+
+This is the code with full unbound wavefunctions.
+173/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.000504 and xi=0.63
+(0.000240451,-1.39422e-08)
+(8.04028e-08,2.60923e-08)
+
+This is the code with full unbound wavefunctions.
+255/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.00064 and xi=0.8
+(0.000240451,-1.39422e-08)
+(8.04029e-08,2.60923e-08)
+
+This is the code with full unbound wavefunctions.
+337/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0008 and xi=1
+(0.000240451,-1.39423e-08)
+(8.0403e-08,2.60924e-08)
+
+This is the code with full unbound wavefunctions.
+419/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.001 and xi=1.25
+(0.000240452,-1.39423e-08)
+(8.04031e-08,2.60924e-08)
+
+This is the code with full unbound wavefunctions.
+501/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.00128 and xi=1.6
+(0.000240764,-1.33084e-07)
+(1.23095e-07,5.37686e-08)
+
+This is the code with full unbound wavefunctions.
+583/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0016 and xi=2
+(0.000240764,-1.33086e-07)
+(1.23096e-07,5.37689e-08)
+
+This is the code with full unbound wavefunctions.
+665/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.002 and xi=2.5
+(0.000240766,-1.33087e-07)
+(1.23097e-07,5.37693e-08)
+
+This is the code with full unbound wavefunctions.
+747/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.00252 and xi=3.15
+(0.000240767,-1.3309e-07)
+(1.23098e-07,5.37699e-08)
+
+This is the code with full unbound wavefunctions.
+829/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0032 and xi=4
+(0.00024077,-1.33095e-07)
+(1.231e-07,5.37709e-08)
+
+This is the code with full unbound wavefunctions.
+911/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.004 and xi=5
+(0.000240926,4.90401e-09)
+(2.7549e-07,1.2025e-07)
+
+This is the code with full unbound wavefunctions.
+993/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.00504 and xi=6.3
+(0.000240934,4.89619e-09)
+(2.75502e-07,1.20255e-07)
+
+This is the code with full unbound wavefunctions.
+1075/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0064 and xi=8
+(0.000240946,4.88325e-09)
+(2.75521e-07,1.20264e-07)
+
+This is the code with full unbound wavefunctions.
+1157/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.008 and xi=10
+(0.000240965,4.86409e-09)
+(2.75549e-07,1.20278e-07)
+
+This is the code with full unbound wavefunctions.
+1239/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.01 and xi=12.5
+(0.000240993,4.83416e-09)
+(2.75594e-07,1.20299e-07)
+
+This is the code with full unbound wavefunctions.
+1321/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0128 and xi=16
+(0.000241044,4.78109e-09)
+(2.75672e-07,1.20335e-07)
+
+This is the code with full unbound wavefunctions.
+1403/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.016 and xi=20
+(0.000241117,4.7045e-09)
+(2.75786e-07,1.20389e-07)
+
+This is the code with full unbound wavefunctions.
+1485/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.02 and xi=25
+(0.00024123,4.5849e-09)
+(2.75963e-07,1.20472e-07)
+
+This is the code with full unbound wavefunctions.
+1567/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0252 and xi=31.5
+(0.000241414,4.38987e-09)
+(2.7625e-07,1.20606e-07)
+
+This is the code with full unbound wavefunctions.
+1649/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.032 and xi=40
+(0.000241716,4.06765e-09)
+(2.76723e-07,1.20829e-07)
+
+This is the code with full unbound wavefunctions.
+1731/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.04 and xi=50
+(0.000242156,3.59179e-09)
+(2.77417e-07,1.21155e-07)
+
+This is the code with full unbound wavefunctions.
+1813/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.0504 and xi=63
+(0.000242856,2.81891e-09)
+(2.78533e-07,1.21681e-07)
+
+This is the code with full unbound wavefunctions.
+1895/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.064 and xi=80
+(0.000243968,1.55218e-09)
+(2.80336e-07,1.22534e-07)
+
+This is the code with full unbound wavefunctions.
+1977/2050 
+Total matrix element for 210+210-100=k1=210+210-100:
+At alpha=0.08 and xi=100
+(0.000245509,-2.89095e-10)
+(2.82906e-07,1.23758e-07)
+
+Program completed after 16155 s

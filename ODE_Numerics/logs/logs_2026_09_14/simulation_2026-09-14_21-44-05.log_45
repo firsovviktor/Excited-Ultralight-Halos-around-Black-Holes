@@ -1,0 +1,480 @@
+Threads used: 26
+Points to calculate: 6e+09@0.2/2e+09@1.5/5e+08@4.5/5e+08@1e+09/ x 3264
+
+This is the code with full unbound wavefunctions.
+45/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=8e-05 and xi=0.1
+(0.0590005,-0.0197364)
+(0.00572194,0.00569702)
+
+This is the code with full unbound wavefunctions.
+93/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0004 and xi=0.5
+(0.0496266,0.000366367)
+(0.000532108,0.0004419)
+
+This is the code with full unbound wavefunctions.
+141/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.000504 and xi=0.63
+(0.0496487,7.57812e-05)
+(0.000386685,0.000298158)
+
+This is the code with full unbound wavefunctions.
+189/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00064 and xi=0.8
+(0.0496633,-0.000112195)
+(0.000287314,0.000205354)
+
+This is the code with full unbound wavefunctions.
+237/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0008 and xi=1
+(0.0483804,0.000205052)
+(0.000223617,0.000150747)
+
+This is the code with full unbound wavefunctions.
+285/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.001 and xi=1.25
+(0.0460774,0.000241818)
+(0.000177361,0.000114606)
+
+This is the code with full unbound wavefunctions.
+333/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00128 and xi=1.6
+(0.0415989,-0.000397894)
+(0.000267058,0.0002118)
+
+This is the code with full unbound wavefunctions.
+381/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0016 and xi=2
+(0.0364774,-0.000225148)
+(0.000214715,0.000167471)
+
+This is the code with full unbound wavefunctions.
+429/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.002 and xi=2.5
+(0.0299808,-0.000152505)
+(0.0001736,0.000133357)
+
+This is the code with full unbound wavefunctions.
+477/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00252 and xi=3.15
+(0.0220604,-0.000117049)
+(0.000132824,0.000101207)
+
+This is the code with full unbound wavefunctions.
+525/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0032 and xi=4
+(0.0133002,-6.15602e-05)
+(8.68297e-05,6.60201e-05)
+
+This is the code with full unbound wavefunctions.
+573/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.004 and xi=5
+(0.00613772,-2.4299e-05)
+(4.40126e-05,3.35502e-05)
+
+This is the code with full unbound wavefunctions.
+621/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00504 and xi=6.3
+(0.00161244,-6.21649e-06)
+(1.28327e-05,9.83426e-06)
+
+This is the code with full unbound wavefunctions.
+669/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0064 and xi=8
+(0.000150693,-6.49555e-07)
+(1.33828e-06,1.03162e-06)
+
+This is the code with full unbound wavefunctions.
+717/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.008 and xi=10
+(3.56126e-06,-1.80786e-08)
+(3.50493e-08,2.71415e-08)
+
+This is the code with full unbound wavefunctions.
+765/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.01 and xi=12.5
+(7.34127e-09,-4.46878e-11)
+(8.01277e-11,6.22485e-11)
+
+This is the code with full unbound wavefunctions.
+813/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0128 and xi=16
+(7.2946e-14,-5.48134e-16)
+(8.94383e-16,6.96113e-16)
+
+This is the code with full unbound wavefunctions.
+861/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.016 and xi=20
+(2.22474e-21,-2.04472e-23)
+(3.03716e-23,2.3646e-23)
+
+This is the code with full unbound wavefunctions.
+909/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.02 and xi=25
+(1.68472e-33,-1.91696e-35)
+(2.5673e-35,1.99722e-35)
+
+This is the code with full unbound wavefunctions.
+957/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0252 and xi=31.5
+(7.77955e-54,-1.11456e-55)
+(1.33221e-55,1.03455e-55)
+
+This is the code with full unbound wavefunctions.
+1005/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.032 and xi=40
+(2.36557e-88,-4.30561e-90)
+(4.58344e-90,3.54974e-90)
+
+This is the code with full unbound wavefunctions.
+1053/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.04 and xi=50
+(1.06414e-140,-2.40148e-142)
+(2.31981e-142,1.791e-142)
+
+This is the code with full unbound wavefunctions.
+1101/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0504 and xi=63
+(2.55147e-228,-7.0653e-230)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1149/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.064 and xi=80
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1197/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.08 and xi=100
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1245/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00448 and xi=5.6
+(0.00347804,-1.33144e-05)
+(2.62362e-05,2.00481e-05)
+
+This is the code with full unbound wavefunctions.
+1293/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00536 and xi=6.7
+(0.000985364,-3.86939e-06)
+(8.06624e-06,6.19112e-06)
+
+This is the code with full unbound wavefunctions.
+1341/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00568 and xi=7.1
+(0.000578726,-2.32965e-06)
+(4.86525e-06,3.73967e-06)
+
+This is the code with full unbound wavefunctions.
+1389/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.006 and xi=7.5
+(0.00032647,-1.35277e-06)
+(2.81456e-06,2.16632e-06)
+
+This is the code with full unbound wavefunctions.
+1437/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0072 and xi=9
+(2.64283e-05,-1.23729e-07)
+(2.47775e-07,1.91488e-07)
+
+This is the code with full unbound wavefunctions.
+1485/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.036 and xi=45
+(6.40115e-113,-1.30723e-114)
+(1.3195e-114,1.02029e-114)
+
+This is the code with full unbound wavefunctions.
+1533/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0424 and xi=53
+(6.27764e-159,-1.49478e-160)
+(1.41183e-160,1.08903e-160)
+
+This is the code with full unbound wavefunctions.
+1581/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0448 and xi=56
+(2.41874e-178,-6.05158e-180)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1629/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.048 and xi=60
+(4.30327e-206,-1.14347e-207)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1677/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0568 and xi=71
+(1.24407e-293,-3.7918e-295)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1725/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0456 and xi=57
+(4.434e-185,-1.12686e-186)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1773/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0464 and xi=58
+(5.97787e-192,-1.54255e-193)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1821/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0472 and xi=59
+(5.92069e-199,-1.55066e-200)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1869/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00068 and xi=0.85
+(0.0493052,1.27082e-05)
+(0.000268127,0.000188031)
+
+This is the code with full unbound wavefunctions.
+1917/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00072 and xi=0.9
+(0.0489073,-7.15317e-08)
+(0.000251217,0.000173318)
+
+This is the code with full unbound wavefunctions.
+1965/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00074 and xi=0.925
+(0.0487878,-1.16942e-05)
+(0.000243521,0.000166822)
+
+This is the code with full unbound wavefunctions.
+2013/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00076 and xi=0.95
+(0.0486856,3.42403e-05)
+(0.000236401,0.000160982)
+
+This is the code with full unbound wavefunctions.
+2061/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00078 and xi=0.975
+(0.0485513,0.000126037)
+(0.000229786,0.000155679)
+
+This is the code with full unbound wavefunctions.
+2109/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.000824 and xi=1.03
+(0.048152,0.000242368)
+(0.00021667,0.000145138)
+
+This is the code with full unbound wavefunctions.
+2157/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.000848 and xi=1.06
+(0.047914,0.000231785)
+(0.000210122,0.00013992)
+
+This is the code with full unbound wavefunctions.
+2205/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.000872 and xi=1.09
+(0.047668,0.000213443)
+(0.000203972,0.00013517)
+
+This is the code with full unbound wavefunctions.
+2253/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.000896 and xi=1.12
+(0.0474041,0.000208921)
+(0.000198284,0.000130756)
+
+This is the code with full unbound wavefunctions.
+2301/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.000944 and xi=1.18
+(0.0468173,0.000221155)
+(0.000188018,0.000122766)
+
+This is the code with full unbound wavefunctions.
+2349/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00112 and xi=1.4
+(0.0444165,0.000168835)
+(0.000158353,0.000101178)
+
+This is the code with full unbound wavefunctions.
+2397/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00136 and xi=1.7
+(0.0403379,-0.000370716)
+(0.000251159,0.000198455)
+
+This is the code with full unbound wavefunctions.
+2445/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0014 and xi=1.75
+(0.0397067,-0.000353445)
+(0.000244003,0.000192426)
+
+This is the code with full unbound wavefunctions.
+2493/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00144 and xi=1.8
+(0.0390707,-0.000333437)
+(0.00023735,0.000186769)
+
+This is the code with full unbound wavefunctions.
+2541/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00148 and xi=1.85
+(0.0384288,-0.000309948)
+(0.000231154,0.000181469)
+
+This is the code with full unbound wavefunctions.
+2589/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00152 and xi=1.9
+(0.0377814,-0.000282958)
+(0.000225351,0.000176505)
+
+This is the code with full unbound wavefunctions.
+2637/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00156 and xi=1.95
+(0.0371304,-0.00025382)
+(0.000219886,0.000171849)
+
+This is the code with full unbound wavefunctions.
+2685/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.001648 and xi=2.06
+(0.0356928,-0.000195449)
+(0.000208851,0.00016254)
+
+This is the code with full unbound wavefunctions.
+2733/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.001696 and xi=2.12
+(0.0349084,-0.000173938)
+(0.000203315,0.00015791)
+
+This is the code with full unbound wavefunctions.
+2781/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.001744 and xi=2.18
+(0.0341245,-0.000160941)
+(0.000198068,0.000153534)
+
+This is the code with full unbound wavefunctions.
+2829/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.001792 and xi=2.24
+(0.0333419,-0.000154587)
+(0.000193071,0.000149378)
+
+This is the code with full unbound wavefunctions.
+2877/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.00224 and xi=2.8
+(0.0262236,-0.000141281)
+(0.000153868,0.000117608)
+
+This is the code with full unbound wavefunctions.
+2925/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0436 and xi=54.5
+(1.73601e-168,-4.23934e-170)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+2973/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.045 and xi=56.25
+(5.15082e-180,-1.29381e-181)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3021/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0452 and xi=56.5
+(1.07608e-181,-2.71359e-183)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3069/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0454 and xi=56.75
+(2.2054e-183,-5.58316e-185)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3117/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0458 and xi=57.25
+(8.74506e-187,-2.23105e-188)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3165/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.046 and xi=57.5
+(1.69193e-188,-4.33299e-190)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3213/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0462 and xi=57.75
+(3.21104e-190,-8.25469e-192)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3261/3264 
+Total matrix element for 200+k1-k2=320=200+k1-k2:
+At alpha=0.0468 and xi=58.5
+(1.95537e-195,-5.08357e-197)
+(0,0)
+
+Program completed after 5246 s

@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+39/820 
+Total matrix element for 211+k1-100=k2=211+k1-100:
+At alpha=0.00448 and xi=5.6
+(0.485554,-0.000120059)
+(0.000841135,0.00030213)
+
+This is the code with full unbound wavefunctions.
+121/820 
+Total matrix element for 211+k1-100=k2=211+k1-100:
+At alpha=0.00536 and xi=6.7
+(0.482117,-0.000153088)
+(0.00081838,0.000299346)
+
+This is the code with full unbound wavefunctions.
+203/820 
+Total matrix element for 211+k1-100=k2=211+k1-100:
+At alpha=0.00568 and xi=7.1
+(0.481223,-0.000162401)
+(0.000812112,0.000298625)
+
+This is the code with full unbound wavefunctions.
+285/820 
+Total matrix element for 211+k1-100=k2=211+k1-100:
+At alpha=0.006 and xi=7.5
+(0.480461,-0.000170612)
+(0.000806615,0.000298011)
+
+This is the code with full unbound wavefunctions.
+367/820 
+Total matrix element for 211+k1-100=k2=211+k1-100:
+At alpha=0.0072 and xi=9
+(0.478425,-0.000194111)
+(0.000790947,0.00029636)
+
+This is the code with full unbound wavefunctions.
+449/820 
+Total matrix element for 211+k1-100=k2=211+k1-100:
+At alpha=0.036 and xi=45
+(0.476047,-0.000275969)
+(0.000739926,0.000293295)
+
+This is the code with full unbound wavefunctions.
+531/820 
+Total matrix element for 211+k1-100=k2=211+k1-100:
+At alpha=0.0424 and xi=53
+(0.476927,-0.000280547)
+(0.000738967,0.000293665)
+
+This is the code with full unbound wavefunctions.
+613/820 
+Total matrix element for 211+k1-100=k2=211+k1-100:
+At alpha=0.0448 and xi=56
+(0.477301,-0.000282184)
+(0.000738759,0.00029383)
+
+This is the code with full unbound wavefunctions.
+695/820 
+Total matrix element for 211+k1-100=k2=211+k1-100:
+At alpha=0.048 and xi=60
+(0.477834,-0.000284337)
+(0.000738583,0.000294068)
+
+This is the code with full unbound wavefunctions.
+777/820 
+Total matrix element for 211+k1-100=k2=211+k1-100:
+At alpha=0.0568 and xi=71
+(0.479495,-0.000290252)
+(0.000738564,0.000294831)
+
+Program completed after 948 s

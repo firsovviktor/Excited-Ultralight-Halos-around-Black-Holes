@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+42/820 
+Total matrix element for 211+k1-200=k2=211+k1-200:
+At alpha=0.00448 and xi=5.6
+(0.390216,-0.000206248)
+(0.00080838,0.000343176)
+
+This is the code with full unbound wavefunctions.
+124/820 
+Total matrix element for 211+k1-200=k2=211+k1-200:
+At alpha=0.00536 and xi=6.7
+(0.381224,-0.000190062)
+(0.000788994,0.000332278)
+
+This is the code with full unbound wavefunctions.
+206/820 
+Total matrix element for 211+k1-200=k2=211+k1-200:
+At alpha=0.00568 and xi=7.1
+(0.378759,-0.000188718)
+(0.000784684,0.000329602)
+
+This is the code with full unbound wavefunctions.
+288/820 
+Total matrix element for 211+k1-200=k2=211+k1-200:
+At alpha=0.006 and xi=7.5
+(0.376614,-0.000187908)
+(0.000781272,0.000327385)
+
+This is the code with full unbound wavefunctions.
+370/820 
+Total matrix element for 211+k1-200=k2=211+k1-200:
+At alpha=0.0072 and xi=9
+(0.370657,-0.000181389)
+(0.000773414,0.000321744)
+
+This is the code with full unbound wavefunctions.
+452/820 
+Total matrix element for 211+k1-200=k2=211+k1-200:
+At alpha=0.036 and xi=45
+(0.355833,-6.92151e-06)
+(0.000763298,0.000311249)
+
+This is the code with full unbound wavefunctions.
+534/820 
+Total matrix element for 211+k1-200=k2=211+k1-200:
+At alpha=0.0424 and xi=53
+(0.355619,4.72541e-06)
+(0.000762804,0.000311646)
+
+This is the code with full unbound wavefunctions.
+616/820 
+Total matrix element for 211+k1-200=k2=211+k1-200:
+At alpha=0.0448 and xi=56
+(0.355559,8.35085e-06)
+(0.000762584,0.000311847)
+
+This is the code with full unbound wavefunctions.
+698/820 
+Total matrix element for 211+k1-200=k2=211+k1-200:
+At alpha=0.048 and xi=60
+(0.35549,1.2696e-05)
+(0.000762261,0.000312154)
+
+This is the code with full unbound wavefunctions.
+780/820 
+Total matrix element for 211+k1-200=k2=211+k1-200:
+At alpha=0.0568 and xi=71
+(0.355351,2.24502e-05)
+(0.000761211,0.000313208)
+
+Program completed after 870 s

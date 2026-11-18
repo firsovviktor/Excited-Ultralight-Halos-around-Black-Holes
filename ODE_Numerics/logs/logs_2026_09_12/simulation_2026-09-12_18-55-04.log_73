@@ -1,0 +1,144 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 1640
+
+This is the code with full unbound wavefunctions.
+73/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.00112 and xi=1.4
+(2449.57,35.3219)
+(33.3101,31.1153)
+
+This is the code with full unbound wavefunctions.
+155/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.00136 and xi=1.7
+(2524.07,-45.993)
+(55.3722,53.8043)
+
+This is the code with full unbound wavefunctions.
+237/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.0014 and xi=1.75
+(2551.2,-46.2081)
+(51.5528,50.5728)
+
+This is the code with full unbound wavefunctions.
+319/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.00144 and xi=1.8
+(2557.9,-3.62572)
+(48.4962,47.2207)
+
+This is the code with full unbound wavefunctions.
+401/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.00148 and xi=1.85
+(2547.83,-6.09614)
+(45.5954,44.3186)
+
+This is the code with full unbound wavefunctions.
+483/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.00152 and xi=1.9
+(2523.43,-39.2028)
+(43.0269,41.8438)
+
+This is the code with full unbound wavefunctions.
+565/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.00156 and xi=1.95
+(2505.93,-39.9943)
+(40.9062,39.3099)
+
+This is the code with full unbound wavefunctions.
+647/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.001648 and xi=2.06
+(2540.34,19.0457)
+(36.1124,34.7125)
+
+This is the code with full unbound wavefunctions.
+729/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.001696 and xi=2.12
+(2541.83,58.8285)
+(33.9236,32.6583)
+
+This is the code with full unbound wavefunctions.
+811/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.001744 and xi=2.18
+(2546.97,44.5156)
+(31.9233,30.9612)
+
+This is the code with full unbound wavefunctions.
+893/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.001792 and xi=2.24
+(2568.26,13.0653)
+(30.3534,29.2539)
+
+This is the code with full unbound wavefunctions.
+975/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.00224 and xi=2.8
+(2592.05,-24.6997)
+(20.356,19.4066)
+
+This is the code with full unbound wavefunctions.
+1057/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.0436 and xi=54.5
+(2470.51,-11.8137)
+(16.1655,15.0097)
+
+This is the code with full unbound wavefunctions.
+1139/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.045 and xi=56.25
+(2470.09,-11.8357)
+(16.1669,15.005)
+
+This is the code with full unbound wavefunctions.
+1221/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.0452 and xi=56.5
+(2470.03,-11.8387)
+(16.1671,15.0044)
+
+This is the code with full unbound wavefunctions.
+1303/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.0454 and xi=56.75
+(2469.97,-11.8417)
+(16.1673,15.0038)
+
+This is the code with full unbound wavefunctions.
+1385/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.0458 and xi=57.25
+(2469.85,-11.8475)
+(16.1677,15.0026)
+
+This is the code with full unbound wavefunctions.
+1467/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.046 and xi=57.5
+(2469.8,-11.8504)
+(16.1679,15.002)
+
+This is the code with full unbound wavefunctions.
+1549/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.0462 and xi=57.75
+(2469.74,-11.8533)
+(16.1681,15.0015)
+
+This is the code with full unbound wavefunctions.
+1631/1640 
+Total matrix element for k1+k2-200=k3=k1+k2-200:
+At alpha=0.0468 and xi=58.5
+(2469.57,-11.8617)
+(16.1688,14.9999)
+
+Program completed after 10075 s

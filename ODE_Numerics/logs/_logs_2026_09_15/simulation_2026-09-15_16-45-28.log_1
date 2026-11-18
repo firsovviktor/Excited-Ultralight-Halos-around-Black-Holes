@@ -1,0 +1,74 @@
+Threads used: 26
+Points to calculate: 6e+09@0.2/2e+09@1.5/5e+08@4.5/5e+08@1e+09/ x 10
+
+This is the code with full unbound wavefunctions.
+1/10 
+Total matrix element for 200+k1-210=<00=200+k1-210:
+At alpha=0.072 and xi=90
+(2.51588e-11,-8.18692e-16)
+(7.95408e-14,4.24272e-15)
+
+This is the code with full unbound wavefunctions.
+2/10 
+Total matrix element for 200+k1-210=<00=200+k1-210:
+At alpha=0.076 and xi=95
+(3.85611e-10,-9.83827e-15)
+(1.153e-12,5.08977e-14)
+
+This is the code with full unbound wavefunctions.
+3/10 
+Total matrix element for 200+k1-210=<00=200+k1-210:
+At alpha=0.08 and xi=100
+(1.25039e-08,-2.05674e-13)
+(3.34734e-11,1.05066e-12)
+
+This is the code with full unbound wavefunctions.
+4/10 
+Total matrix element for 200+k1-210=<00=200+k1-210:
+At alpha=0.0816 and xi=102
+(5.38537e-08,-6.34837e-13)
+(1.32183e-10,3.16667e-12)
+
+This is the code with full unbound wavefunctions.
+5/10 
+Total matrix element for 200+k1-210=<00=200+k1-210:
+At alpha=0.0832 and xi=104
+(1.65231e-07,-1.13064e-12)
+(3.14466e-10,3.65975e-12)
+
+This is the code with full unbound wavefunctions.
+6/10 
+Total matrix element for 200+k1-210=<00=200+k1-210:
+At alpha=0.0848 and xi=106
+(9.93839e-08,-9.02222e-13)
+(2.27938e-10,4.28683e-12)
+
+This is the code with full unbound wavefunctions.
+7/10 
+Total matrix element for 200+k1-210=<00=200+k1-210:
+At alpha=0.0864 and xi=108
+(1.60848e-08,-2.34877e-13)
+(4.256e-11,1.1975e-12)
+
+This is the code with full unbound wavefunctions.
+8/10 
+Total matrix element for 200+k1-210=<00=200+k1-210:
+At alpha=0.088 and xi=110
+(1.46712e-09,-2.86962e-14)
+(4.23744e-12,1.48085e-13)
+
+This is the code with full unbound wavefunctions.
+9/10 
+Total matrix element for 200+k1-210=<00=200+k1-210:
+At alpha=0.092 and xi=115
+(6.00717e-13,-1.86213e-17)
+(2.01242e-15,9.63234e-17)
+
+This is the code with full unbound wavefunctions.
+10/10 
+Total matrix element for 200+k1-210=<00=200+k1-210:
+At alpha=0.096 and xi=120
+(2.2505e-17,-9.57572e-22)
+(8.37662e-20,4.8657e-21)
+
+Program completed after 247 s

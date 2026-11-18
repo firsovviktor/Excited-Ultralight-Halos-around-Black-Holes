@@ -1,0 +1,144 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 1640
+
+This is the code with full unbound wavefunctions.
+33/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.00112 and xi=1.4
+(9.83849e-05,8.42634e-09)
+(1.60737e-08,8.4268e-09)
+
+This is the code with full unbound wavefunctions.
+115/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.00136 and xi=1.7
+(9.83954e-05,-4.52653e-08)
+(2.55752e-08,1.71036e-08)
+
+This is the code with full unbound wavefunctions.
+197/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0014 and xi=1.75
+(9.83955e-05,-4.52654e-08)
+(2.55752e-08,1.71036e-08)
+
+This is the code with full unbound wavefunctions.
+279/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.00144 and xi=1.8
+(9.83956e-05,-4.52654e-08)
+(2.55752e-08,1.71036e-08)
+
+This is the code with full unbound wavefunctions.
+361/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.00148 and xi=1.85
+(9.83957e-05,-4.52655e-08)
+(2.55752e-08,1.71036e-08)
+
+This is the code with full unbound wavefunctions.
+443/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.00152 and xi=1.9
+(9.83959e-05,-4.52655e-08)
+(2.55753e-08,1.71036e-08)
+
+This is the code with full unbound wavefunctions.
+525/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.00156 and xi=1.95
+(9.8396e-05,-4.52656e-08)
+(2.55753e-08,1.71036e-08)
+
+This is the code with full unbound wavefunctions.
+607/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.001648 and xi=2.06
+(9.83963e-05,-4.52657e-08)
+(2.55754e-08,1.71037e-08)
+
+This is the code with full unbound wavefunctions.
+689/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.001696 and xi=2.12
+(9.83965e-05,-4.52658e-08)
+(2.55754e-08,1.71037e-08)
+
+This is the code with full unbound wavefunctions.
+771/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.001744 and xi=2.18
+(9.83967e-05,-4.52659e-08)
+(2.55755e-08,1.71037e-08)
+
+This is the code with full unbound wavefunctions.
+853/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.001792 and xi=2.24
+(9.83969e-05,-4.52659e-08)
+(2.55755e-08,1.71037e-08)
+
+This is the code with full unbound wavefunctions.
+935/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.00224 and xi=2.8
+(9.83989e-05,-4.52667e-08)
+(2.5576e-08,1.71039e-08)
+
+This is the code with full unbound wavefunctions.
+1017/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0436 and xi=54.5
+(0.000100524,-8.71814e-08)
+(5.83376e-08,3.86758e-08)
+
+This is the code with full unbound wavefunctions.
+1099/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.045 and xi=56.25
+(0.000100663,-8.72376e-08)
+(5.84085e-08,3.87022e-08)
+
+This is the code with full unbound wavefunctions.
+1181/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0452 and xi=56.5
+(0.000100683,-8.72458e-08)
+(5.84188e-08,3.8706e-08)
+
+This is the code with full unbound wavefunctions.
+1263/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0454 and xi=56.75
+(0.000100703,-8.7254e-08)
+(5.84292e-08,3.87099e-08)
+
+This is the code with full unbound wavefunctions.
+1345/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0458 and xi=57.25
+(0.000100744,-8.72704e-08)
+(5.845e-08,3.87176e-08)
+
+This is the code with full unbound wavefunctions.
+1427/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.046 and xi=57.5
+(0.000100765,-8.72787e-08)
+(5.84605e-08,3.87215e-08)
+
+This is the code with full unbound wavefunctions.
+1509/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0462 and xi=57.75
+(0.000100785,-8.7287e-08)
+(5.84711e-08,3.87254e-08)
+
+This is the code with full unbound wavefunctions.
+1591/1640 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0468 and xi=58.5
+(0.000100848,-8.73122e-08)
+(5.85029e-08,3.87373e-08)
+
+Program completed after 6517 s

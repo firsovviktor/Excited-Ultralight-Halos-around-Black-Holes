@@ -1,0 +1,179 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 2050
+
+This is the code with full unbound wavefunctions.
+65/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=8e-05 and xi=0.1
+(209.385,101.612)
+(1221.53,1223.68)
+
+This is the code with full unbound wavefunctions.
+147/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.0004 and xi=0.5
+(666.88,13.7226)
+(19.194,17.8451)
+
+This is the code with full unbound wavefunctions.
+229/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.000504 and xi=0.63
+(608.897,8.33077)
+(10.4501,9.30729)
+
+This is the code with full unbound wavefunctions.
+311/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.00064 and xi=0.8
+(576.547,8.11303)
+(5.85447,4.8685)
+
+This is the code with full unbound wavefunctions.
+393/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.0008 and xi=1
+(524.422,0.158074)
+(3.53453,2.74459)
+
+This is the code with full unbound wavefunctions.
+475/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.001 and xi=1.25
+(462.187,-2.18433)
+(2.22189,1.60909)
+
+This is the code with full unbound wavefunctions.
+557/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.00128 and xi=1.6
+(381.413,4.128)
+(2.70223,2.31573)
+
+This is the code with full unbound wavefunctions.
+639/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.0016 and xi=2
+(293.403,-0.526767)
+(1.66394,1.37188)
+
+This is the code with full unbound wavefunctions.
+721/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.002 and xi=2.5
+(198.3,0.402064)
+(0.985437,0.805097)
+
+This is the code with full unbound wavefunctions.
+803/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.00252 and xi=3.15
+(105.721,0.141043)
+(0.504845,0.409185)
+
+This is the code with full unbound wavefunctions.
+885/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.0032 and xi=4
+(36.9047,-0.0176914)
+(0.181606,0.147691)
+
+This is the code with full unbound wavefunctions.
+967/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.004 and xi=5
+(7.22268,0.0854284)
+(0.0866116,0.070689)
+
+This is the code with full unbound wavefunctions.
+1049/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.00504 and xi=6.3
+(0.461448,0.00660242)
+(0.00626923,0.00513602)
+
+This is the code with full unbound wavefunctions.
+1131/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.0064 and xi=8
+(0.00396592,5.84981e-05)
+(6.24755e-05,5.21868e-05)
+
+This is the code with full unbound wavefunctions.
+1213/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.008 and xi=10
+(2.57681e-06,3.67272e-08)
+(4.7095e-08,4.00892e-08)
+
+This is the code with full unbound wavefunctions.
+1295/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.01 and xi=12.5
+(1.77423e-11,2.45396e-13)
+(3.77897e-13,3.25727e-13)
+
+This is the code with full unbound wavefunctions.
+1377/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.0128 and xi=16
+(6.16594e-21,8.48024e-23)
+(1.55609e-22,1.34595e-22)
+
+This is the code with full unbound wavefunctions.
+1459/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.016 and xi=20
+(5.76833e-35,8.09923e-37)
+(1.69232e-36,1.45595e-36)
+
+This is the code with full unbound wavefunctions.
+1541/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.02 and xi=25
+(2.33405e-57,3.39338e-59)
+(7.92145e-59,6.74534e-59)
+
+This is the code with full unbound wavefunctions.
+1623/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.0252 and xi=31.5
+(1.43571e-94,2.154e-96)
+(5.6277e-96,4.7309e-96)
+
+This is the code with full unbound wavefunctions.
+1705/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.032 and xi=40
+(4.29484e-157,6.50159e-159)
+(1.93805e-158,1.60572e-158)
+
+This is the code with full unbound wavefunctions.
+1787/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.04 and xi=50
+(7.73513e-251,1.14872e-252)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1869/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.0504 and xi=63
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1951/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.064 and xi=80
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+2033/2050 
+Total matrix element for k3+k1-k2=21/=k3+k1-k2:
+At alpha=0.08 and xi=100
+(0,0)
+(0,0)
+
+Program completed after 50991 s

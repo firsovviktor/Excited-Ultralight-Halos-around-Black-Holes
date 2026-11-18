@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+12/820 
+Total matrix element for 211+21/-100=k1=211+21/-100:
+At alpha=0.00448 and xi=5.6
+(7.6521e-05,1.08908e-07)
+(8.51935e-08,5.66751e-08)
+
+This is the code with full unbound wavefunctions.
+94/820 
+Total matrix element for 211+21/-100=k1=211+21/-100:
+At alpha=0.00536 and xi=6.7
+(7.65238e-05,1.08912e-07)
+(8.51939e-08,5.66775e-08)
+
+This is the code with full unbound wavefunctions.
+176/820 
+Total matrix element for 211+21/-100=k1=211+21/-100:
+At alpha=0.00568 and xi=7.1
+(7.6525e-05,1.08913e-07)
+(8.51941e-08,5.66785e-08)
+
+This is the code with full unbound wavefunctions.
+258/820 
+Total matrix element for 211+21/-100=k1=211+21/-100:
+At alpha=0.006 and xi=7.5
+(7.65262e-05,1.08915e-07)
+(8.51943e-08,5.66795e-08)
+
+This is the code with full unbound wavefunctions.
+340/820 
+Total matrix element for 211+21/-100=k1=211+21/-100:
+At alpha=0.0072 and xi=9
+(7.65315e-05,1.08922e-07)
+(8.51951e-08,5.66838e-08)
+
+This is the code with full unbound wavefunctions.
+422/820 
+Total matrix element for 211+21/-100=k1=211+21/-100:
+At alpha=0.036 and xi=45
+(7.6935e-05,1.09468e-07)
+(8.52579e-08,5.70211e-08)
+
+This is the code with full unbound wavefunctions.
+504/820 
+Total matrix element for 211+21/-100=k1=211+21/-100:
+At alpha=0.0424 and xi=53
+(7.70942e-05,1.09678e-07)
+(8.52824e-08,5.71551e-08)
+
+This is the code with full unbound wavefunctions.
+586/820 
+Total matrix element for 211+21/-100=k1=211+21/-100:
+At alpha=0.0448 and xi=56
+(7.71599e-05,1.09763e-07)
+(8.52925e-08,5.72107e-08)
+
+This is the code with full unbound wavefunctions.
+668/820 
+Total matrix element for 211+21/-100=k1=211+21/-100:
+At alpha=0.048 and xi=60
+(7.72526e-05,1.09882e-07)
+(8.53067e-08,5.72892e-08)
+
+This is the code with full unbound wavefunctions.
+750/820 
+Total matrix element for 211+21/-100=k1=211+21/-100:
+At alpha=0.0568 and xi=71
+(7.75359e-05,1.10239e-07)
+(8.53496e-08,5.75305e-08)
+
+Program completed after 892 s

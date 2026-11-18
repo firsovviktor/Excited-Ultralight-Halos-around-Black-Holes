@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+32/820 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.00448 and xi=5.6
+(2251.42,-9.36378)
+(13.6645,11.4052)
+
+This is the code with full unbound wavefunctions.
+114/820 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.00536 and xi=6.7
+(2245.54,-11.5987)
+(12.7706,10.558)
+
+This is the code with full unbound wavefunctions.
+196/820 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.00568 and xi=7.1
+(2244.12,-11.9974)
+(12.5482,10.3389)
+
+This is the code with full unbound wavefunctions.
+278/820 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.006 and xi=7.5
+(2243.19,-12.2523)
+(12.3649,10.1466)
+
+This is the code with full unbound wavefunctions.
+360/820 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.0072 and xi=9
+(2241.65,-13.2218)
+(11.8835,9.63412)
+
+This is the code with full unbound wavefunctions.
+442/820 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.036 and xi=45
+(2209.43,-19.43)
+(10.5524,8.87172)
+
+This is the code with full unbound wavefunctions.
+524/820 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.0424 and xi=53
+(2208.76,-19.4066)
+(10.5299,8.86543)
+
+This is the code with full unbound wavefunctions.
+606/820 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.0448 and xi=56
+(2208.6,-19.3968)
+(10.5241,8.86318)
+
+This is the code with full unbound wavefunctions.
+688/820 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.048 and xi=60
+(2208.45,-19.384)
+(10.5179,8.86032)
+
+This is the code with full unbound wavefunctions.
+770/820 
+Total matrix element for k1+k2-21/=k3=k1+k2-21/:
+At alpha=0.0568 and xi=71
+(2208.26,-19.3539)
+(10.5073,8.85337)
+
+Program completed after 1126 s

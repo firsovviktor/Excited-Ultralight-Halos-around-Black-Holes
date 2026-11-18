@@ -1,0 +1,144 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 1640
+
+This is the code with full unbound wavefunctions.
+66/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.00112 and xi=1.4
+(0.00241034,-2.15413e-08)
+(5.27758e-08,3.67475e-08)
+
+This is the code with full unbound wavefunctions.
+148/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.00136 and xi=1.7
+(0.00241034,3.16506e-08)
+(1.05664e-07,7.35408e-08)
+
+This is the code with full unbound wavefunctions.
+230/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.0014 and xi=1.75
+(0.00241034,3.16506e-08)
+(1.05664e-07,7.35408e-08)
+
+This is the code with full unbound wavefunctions.
+312/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.00144 and xi=1.8
+(0.00241034,3.16506e-08)
+(1.05664e-07,7.35408e-08)
+
+This is the code with full unbound wavefunctions.
+394/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.00148 and xi=1.85
+(0.00241034,3.16506e-08)
+(1.05664e-07,7.35408e-08)
+
+This is the code with full unbound wavefunctions.
+476/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.00152 and xi=1.9
+(0.00241034,3.16506e-08)
+(1.05664e-07,7.35409e-08)
+
+This is the code with full unbound wavefunctions.
+558/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.00156 and xi=1.95
+(0.00241034,3.16505e-08)
+(1.05664e-07,7.35409e-08)
+
+This is the code with full unbound wavefunctions.
+640/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.001648 and xi=2.06
+(0.00241034,3.16505e-08)
+(1.05664e-07,7.35409e-08)
+
+This is the code with full unbound wavefunctions.
+722/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.001696 and xi=2.12
+(0.00241034,3.16505e-08)
+(1.05664e-07,7.35409e-08)
+
+This is the code with full unbound wavefunctions.
+804/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.001744 and xi=2.18
+(0.00241033,3.16505e-08)
+(1.05664e-07,7.35409e-08)
+
+This is the code with full unbound wavefunctions.
+886/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.001792 and xi=2.24
+(0.00241033,3.16505e-08)
+(1.05664e-07,7.3541e-08)
+
+This is the code with full unbound wavefunctions.
+968/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.00224 and xi=2.8
+(0.00241033,3.16502e-08)
+(1.05664e-07,7.35411e-08)
+
+This is the code with full unbound wavefunctions.
+1050/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.0436 and xi=54.5
+(0.00240764,1.46106e-07)
+(2.36422e-07,1.6478e-07)
+
+This is the code with full unbound wavefunctions.
+1132/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.045 and xi=56.25
+(0.00240745,1.46033e-07)
+(2.3643e-07,1.6481e-07)
+
+This is the code with full unbound wavefunctions.
+1214/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.0452 and xi=56.5
+(0.00240743,1.46023e-07)
+(2.36431e-07,1.64814e-07)
+
+This is the code with full unbound wavefunctions.
+1296/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.0454 and xi=56.75
+(0.0024074,1.46012e-07)
+(2.36432e-07,1.64818e-07)
+
+This is the code with full unbound wavefunctions.
+1378/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.0458 and xi=57.25
+(0.00240734,1.45991e-07)
+(2.36435e-07,1.64827e-07)
+
+This is the code with full unbound wavefunctions.
+1460/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.046 and xi=57.5
+(0.00240732,1.4598e-07)
+(2.36436e-07,1.64831e-07)
+
+This is the code with full unbound wavefunctions.
+1542/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.0462 and xi=57.75
+(0.00240729,1.45969e-07)
+(2.36437e-07,1.64836e-07)
+
+This is the code with full unbound wavefunctions.
+1624/1640 
+Total matrix element for 200+200-100=k1=200+200-100:
+At alpha=0.0468 and xi=58.5
+(0.00240721,1.45936e-07)
+(2.36441e-07,1.64849e-07)
+
+Program completed after 5799 s

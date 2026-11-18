@@ -1,0 +1,480 @@
+Threads used: 26
+Points to calculate: 6e+09@0.2/2e+09@1.5/5e+08@4.5/5e+08@1e+09/ x 3264
+
+This is the code with full unbound wavefunctions.
+9/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=8e-05 and xi=0.1
+(0.0587825,0.00170603)
+(0.00281132,0.00277735)
+
+This is the code with full unbound wavefunctions.
+57/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0004 and xi=0.5
+(0.0521236,0.00027628)
+(0.000288649,0.000232344)
+
+This is the code with full unbound wavefunctions.
+105/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.000504 and xi=0.63
+(0.0496159,-0.000168823)
+(0.000208781,0.000158909)
+
+This is the code with full unbound wavefunctions.
+153/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00064 and xi=0.8
+(0.0464122,8.21006e-06)
+(0.000154732,0.000110713)
+
+This is the code with full unbound wavefunctions.
+201/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0008 and xi=1
+(0.0426242,-5.92687e-05)
+(0.00011938,8.09482e-05)
+
+This is the code with full unbound wavefunctions.
+249/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.001 and xi=1.25
+(0.0382988,-5.43125e-05)
+(9.35845e-05,6.04689e-05)
+
+This is the code with full unbound wavefunctions.
+297/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00128 and xi=1.6
+(0.0329602,3.57153e-05)
+(0.00013035,0.000100513)
+
+This is the code with full unbound wavefunctions.
+345/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0016 and xi=2
+(0.0277249,-7.07523e-06)
+(0.000104205,7.64645e-05)
+
+This is the code with full unbound wavefunctions.
+393/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.002 and xi=2.5
+(0.0218287,-4.30273e-05)
+(8.29973e-05,5.83662e-05)
+
+This is the code with full unbound wavefunctions.
+441/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00252 and xi=3.15
+(0.0153124,-2.68051e-05)
+(6.21429e-05,4.21861e-05)
+
+This is the code with full unbound wavefunctions.
+489/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0032 and xi=4
+(0.00868993,-2.17009e-05)
+(3.94003e-05,2.60717e-05)
+
+This is the code with full unbound wavefunctions.
+537/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.004 and xi=5
+(0.00374083,-1.21506e-05)
+(1.93123e-05,1.26241e-05)
+
+This is the code with full unbound wavefunctions.
+585/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00504 and xi=6.3
+(0.000903643,-3.70779e-06)
+(5.42012e-06,3.53058e-06)
+
+This is the code with full unbound wavefunctions.
+633/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0064 and xi=8
+(7.69273e-05,-4.25676e-07)
+(5.4295e-07,3.55226e-07)
+
+This is the code with full unbound wavefunctions.
+681/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.008 and xi=10
+(1.66981e-06,-1.25266e-08)
+(1.37343e-08,9.06721e-09)
+
+This is the code with full unbound wavefunctions.
+729/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.01 and xi=12.5
+(3.19632e-09,-3.20684e-11)
+(3.05514e-11,2.04061e-11)
+
+This is the code with full unbound wavefunctions.
+777/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0128 and xi=16
+(3.00406e-14,-3.98788e-16)
+(3.37187e-16,2.2838e-16)
+
+This is the code with full unbound wavefunctions.
+825/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.016 and xi=20
+(9.13104e-22,-1.48757e-23)
+(1.1786e-23,8.08164e-24)
+
+This is the code with full unbound wavefunctions.
+873/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.02 and xi=25
+(7.5898e-34,-1.44383e-35)
+(1.12109e-35,7.7751e-36)
+
+This is the code with full unbound wavefunctions.
+921/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0252 and xi=31.5
+(4.89393e-54,-1.03507e-55)
+(8.27537e-56,5.8012e-56)
+
+This is the code with full unbound wavefunctions.
+969/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.032 and xi=40
+(3.95369e-88,-8.75904e-90)
+(7.65797e-90,5.42572e-90)
+
+This is the code with full unbound wavefunctions.
+1017/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.04 and xi=50
+(1.9028e-139,-4.10836e-141)
+(4.17162e-141,2.98688e-141)
+
+This is the code with full unbound wavefunctions.
+1065/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0504 and xi=63
+(2.25429e-224,-4.30086e-226)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1113/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.064 and xi=80
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1161/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.08 and xi=100
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1209/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00448 and xi=5.6
+(0.00203686,-7.38029e-06)
+(1.13024e-05,7.36728e-06)
+
+This is the code with full unbound wavefunctions.
+1257/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00536 and xi=6.7
+(0.00053926,-2.37696e-06)
+(3.37154e-06,2.19718e-06)
+
+This is the code with full unbound wavefunctions.
+1305/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00568 and xi=7.1
+(0.000309626,-1.46577e-06)
+(2.01369e-06,1.31346e-06)
+
+This is the code with full unbound wavefunctions.
+1353/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.006 and xi=7.5
+(0.000170943,-8.68271e-07)
+(1.15422e-06,7.53763e-07)
+
+This is the code with full unbound wavefunctions.
+1401/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0072 and xi=9
+(1.28889e-05,-8.37317e-08)
+(9.86389e-08,6.48141e-08)
+
+This is the code with full unbound wavefunctions.
+1449/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.036 and xi=45
+(2.85984e-112,-6.30949e-114)
+(5.91548e-114,4.21387e-114)
+
+This is the code with full unbound wavefunctions.
+1497/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0424 and xi=53
+(3.25533e-157,-6.88759e-159)
+(7.36854e-159,5.2917e-159)
+
+This is the code with full unbound wavefunctions.
+1545/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0448 and xi=56
+(4.44868e-176,-9.17684e-178)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1593/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.048 and xi=60
+(6.10032e-203,-1.20734e-204)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1641/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0568 and xi=71
+(6.29115e-287,-1.06236e-288)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1689/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0456 and xi=57
+(1.30588e-182,-2.6682e-184)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1737/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0464 and xi=58
+(2.89306e-189,-5.85186e-191)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1785/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0472 and xi=59
+(4.8365e-196,-9.67951e-198)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+1833/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00068 and xi=0.85
+(0.0453823,8.95493e-05)
+(0.000143953,0.000101547)
+
+This is the code with full unbound wavefunctions.
+1881/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00072 and xi=0.9
+(0.0444538,5.50623e-05)
+(0.000134811,9.37214e-05)
+
+This is the code with full unbound wavefunctions.
+1929/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00074 and xi=0.925
+(0.0439725,4.20085e-05)
+(0.000130578,9.018e-05)
+
+This is the code with full unbound wavefunctions.
+1977/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00076 and xi=0.95
+(0.0434974,5.19613e-06)
+(0.000126582,8.68668e-05)
+
+This is the code with full unbound wavefunctions.
+2025/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00078 and xi=0.975
+(0.0430504,-3.61265e-05)
+(0.000122853,8.37847e-05)
+
+This is the code with full unbound wavefunctions.
+2073/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.000824 and xi=1.03
+(0.0421179,-7.34801e-05)
+(0.000115488,7.77368e-05)
+
+This is the code with full unbound wavefunctions.
+2121/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.000848 and xi=1.06
+(0.0416,-9.10373e-05)
+(0.000111863,7.48164e-05)
+
+This is the code with full unbound wavefunctions.
+2169/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.000872 and xi=1.09
+(0.0410654,-0.00010942)
+(0.000108478,7.2159e-05)
+
+This is the code with full unbound wavefunctions.
+2217/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.000896 and xi=1.12
+(0.0405222,-0.0001177)
+(0.000105298,6.96606e-05)
+
+This is the code with full unbound wavefunctions.
+2265/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.000944 and xi=1.18
+(0.0394673,-9.14447e-05)
+(9.94909e-05,6.51176e-05)
+
+This is the code with full unbound wavefunctions.
+2313/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00112 and xi=1.4
+(0.0359179,-6.74371e-05)
+(8.34357e-05,5.25386e-05)
+
+This is the code with full unbound wavefunctions.
+2361/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00136 and xi=1.7
+(0.0316175,3.10052e-05)
+(0.000122407,9.32649e-05)
+
+This is the code with full unbound wavefunctions.
+2409/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0014 and xi=1.75
+(0.0309623,2.50785e-05)
+(0.000118887,9.00215e-05)
+
+This is the code with full unbound wavefunctions.
+2457/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00144 and xi=1.8
+(0.0303113,1.9044e-05)
+(0.000115613,8.69485e-05)
+
+This is the code with full unbound wavefunctions.
+2505/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00148 and xi=1.85
+(0.0296623,1.30278e-05)
+(0.000112527,8.40622e-05)
+
+This is the code with full unbound wavefunctions.
+2553/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00152 and xi=1.9
+(0.0290141,6.84779e-06)
+(0.000109605,8.13651e-05)
+
+This is the code with full unbound wavefunctions.
+2601/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00156 and xi=1.95
+(0.0283674,1.42825e-07)
+(0.000106836,7.8838e-05)
+
+This is the code with full unbound wavefunctions.
+2649/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.001648 and xi=2.06
+(0.0269636,-1.60573e-05)
+(0.000101204,7.37998e-05)
+
+This is the code with full unbound wavefunctions.
+2697/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.001696 and xi=2.12
+(0.0262167,-2.50419e-05)
+(9.83545e-05,7.13099e-05)
+
+This is the code with full unbound wavefunctions.
+2745/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.001744 and xi=2.18
+(0.0254861,-3.33892e-05)
+(9.56447e-05,6.89692e-05)
+
+This is the code with full unbound wavefunctions.
+2793/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.001792 and xi=2.24
+(0.0247716,-4.00698e-05)
+(9.30611e-05,6.67601e-05)
+
+This is the code with full unbound wavefunctions.
+2841/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.00224 and xi=2.8
+(0.0186765,-3.11391e-05)
+(7.2854e-05,5.03085e-05)
+
+This is the code with full unbound wavefunctions.
+2889/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0436 and xi=54.5
+(1.65089e-166,-3.45108e-168)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+2937/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.045 and xi=56.25
+(1.06317e-177,-2.18802e-179)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+2985/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0452 and xi=56.5
+(2.49655e-179,-5.12575e-181)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3033/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0454 and xi=56.75
+(5.76023e-181,-1.17982e-182)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3081/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0458 and xi=57.25
+(2.90889e-184,-5.92883e-186)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3129/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.046 and xi=57.5
+(6.36666e-186,-1.29439e-187)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3177/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0462 and xi=57.75
+(1.36916e-187,-2.77657e-189)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+3225/3264 
+Total matrix element for 21/+k1-k2=311=21/+k1-k2:
+At alpha=0.0468 and xi=58.5
+(1.22528e-192,-2.46543e-194)
+(0,0)
+
+Program completed after 6093 s

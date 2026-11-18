@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+53/820 
+Total matrix element for 21/+k1-k2=200=21/+k1-k2:
+At alpha=0.00448 and xi=5.6
+(0.0864998,-0.000250636)
+(0.000238184,0.000102251)
+
+This is the code with full unbound wavefunctions.
+135/820 
+Total matrix element for 21/+k1-k2=200=21/+k1-k2:
+At alpha=0.00536 and xi=6.7
+(0.0813728,-0.000244862)
+(0.000230056,9.89097e-05)
+
+This is the code with full unbound wavefunctions.
+217/820 
+Total matrix element for 21/+k1-k2=200=21/+k1-k2:
+At alpha=0.00568 and xi=7.1
+(0.0800029,-0.000242992)
+(0.000228177,9.80492e-05)
+
+This is the code with full unbound wavefunctions.
+299/820 
+Total matrix element for 21/+k1-k2=200=21/+k1-k2:
+At alpha=0.006 and xi=7.5
+(0.0788211,-0.000241206)
+(0.000226655,9.73165e-05)
+
+This is the code with full unbound wavefunctions.
+381/820 
+Total matrix element for 21/+k1-k2=200=21/+k1-k2:
+At alpha=0.0072 and xi=9
+(0.0755667,-0.000235225)
+(0.00022293,9.53396e-05)
+
+This is the code with full unbound wavefunctions.
+463/820 
+Total matrix element for 21/+k1-k2=200=21/+k1-k2:
+At alpha=0.036 and xi=45
+(0.0144044,-4.95499e-05)
+(7.15479e-05,3.08239e-05)
+
+This is the code with full unbound wavefunctions.
+545/820 
+Total matrix element for 21/+k1-k2=200=21/+k1-k2:
+At alpha=0.0424 and xi=53
+(0.00285385,-9.00271e-06)
+(1.70324e-05,7.43043e-06)
+
+This is the code with full unbound wavefunctions.
+627/820 
+Total matrix element for 21/+k1-k2=200=21/+k1-k2:
+At alpha=0.0448 and xi=56
+(0.00119327,-3.54721e-06)
+(7.60083e-06,3.3317e-06)
+
+This is the code with full unbound wavefunctions.
+709/820 
+Total matrix element for 21/+k1-k2=200=21/+k1-k2:
+At alpha=0.048 and xi=60
+(0.00028118,-7.51848e-07)
+(1.94503e-06,8.57851e-07)
+
+This is the code with full unbound wavefunctions.
+791/820 
+Total matrix element for 21/+k1-k2=200=21/+k1-k2:
+At alpha=0.0568 and xi=71
+(6.26008e-07,-1.02215e-09)
+(5.29108e-09,2.36921e-09)
+
+Program completed after 844 s

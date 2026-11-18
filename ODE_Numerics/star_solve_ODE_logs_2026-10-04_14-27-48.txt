@@ -1,0 +1,3672 @@
+Found a match for (0.5, 0.0004) with 129 elements
+xi=5.000e-01, f=1.000e+04GeV, T=1.370e-11years
+N1s=4.172e-04, N2s=2.225e-02, N2p=2.225e-02
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.250e+04GeV, T=3.678e-11years
+N1s=6.518e-04, N2s=3.476e-02, N2p=3.476e-02
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.600e+04GeV, T=1.313e-10years
+N1s=1.068e-03, N2s=5.696e-02, N2p=5.696e-02
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=2.000e+04GeV, T=3.877e-10years
+N1s=1.669e-03, N2s=8.899e-02, N2p=8.899e-02
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=2.500e+04GeV, T=1.384e-09years
+N1s=2.607e-03, N2s=1.391e-01, N2p=1.391e-01
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=3.150e+04GeV, T=4.637e-09years
+N1s=4.139e-03, N2s=2.208e-01, N2p=2.208e-01
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=4.000e+04GeV, T=1.938e-08years
+N1s=6.675e-03, N2s=3.560e-01, N2p=3.560e-01
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=5.000e+04GeV, T=6.913e-08years
+N1s=1.043e-02, N2s=5.562e-01, N2p=5.562e-01
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=6.300e+04GeV, T=2.546e-07years
+N1s=1.656e-02, N2s=8.830e-01, N2p=8.830e-01
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=8.000e+04GeV, T=1.064e-06years
+N1s=2.670e-02, N2s=1.424e+00, N2p=1.424e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.000e+05GeV, T=5.758e-06years
+N1s=4.172e-02, N2s=2.225e+00, N2p=2.225e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.250e+05GeV, T=4.519e-05years
+N1s=6.518e-02, N2s=2.521e+00, N2p=3.476e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.600e+05GeV, T=1.952e-04years
+N1s=1.068e-01, N2s=2.533e+00, N2p=3.894e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=2.000e+05GeV, T=5.093e-04years
+N1s=1.669e-01, N2s=2.534e+00, N2p=3.895e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=2.500e+05GeV, T=1.839e-03years
+N1s=2.607e-01, N2s=2.537e+00, N2p=3.896e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=3.150e+05GeV, T=6.052e-03years
+N1s=4.139e-01, N2s=2.540e+00, N2p=3.898e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=4.000e+05GeV, T=1.675e-02years
+N1s=6.675e-01, N2s=2.546e+00, N2p=3.901e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=5.000e+05GeV, T=7.200e-02years
+N1s=1.043e+00, N2s=2.555e+00, N2p=3.906e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=6.300e+05GeV, T=3.522e-01years
+N1s=1.656e+00, N2s=2.569e+00, N2p=3.914e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=8.000e+05GeV, T=2.150e+00years
+N1s=2.670e+00, N2s=2.592e+00, N2p=3.926e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.000e+06GeV, T=4.221e+01years
+N1s=4.172e+00, N2s=2.626e+00, N2p=3.945e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.250e+06GeV, T=6.379e+06years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.600e+06GeV, T=1.712e+07years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=2.000e+06GeV, T=4.180e+07years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=2.500e+06GeV, T=1.021e+08years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=3.150e+06GeV, T=2.572e+08years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=4.000e+06GeV, T=6.689e+08years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=5.000e+06GeV, T=1.633e+09years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=6.300e+06GeV, T=4.116e+09years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=8.000e+06GeV, T=1.070e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.000e+07GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.250e+07GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.600e+07GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=2.000e+07GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=2.500e+07GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=3.150e+07GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=4.000e+07GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=5.000e+07GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=6.300e+07GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=8.000e+07GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.000e+08GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.250e+08GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.600e+08GeV, T=1.501e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=2.000e+08GeV, T=1.501e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=2.500e+08GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=3.150e+08GeV, T=1.500e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=4.000e+08GeV, T=1.501e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=5.000e+08GeV, T=1.501e+10years
+N1s=4.570e+00, N2s=2.636e+00, N2p=3.950e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=6.300e+08GeV, T=1.501e+10years
+N1s=4.507e+00, N2s=2.631e+00, N2p=3.934e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=8.000e+08GeV, T=1.500e+10years
+N1s=3.663e+00, N2s=2.461e+00, N2p=3.480e+00
+Found a match for (5.000e-01, 4.000e-04) with 129 elements
+xi=5.000e-01, f=1.000e+09GeV, T=1.500e+10years
+N1s=2.198e+00, N2s=1.803e+00, N2p=2.300e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.000e+04GeV, T=2.525e-11years
+N1s=8.345e-04, N2s=4.451e-02, N2p=4.451e-02
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.250e+04GeV, T=7.454e-11years
+N1s=1.304e-03, N2s=6.954e-02, N2p=6.954e-02
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.600e+04GeV, T=2.660e-10years
+N1s=2.136e-03, N2s=1.139e-01, N2p=1.139e-01
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=2.000e+04GeV, T=9.495e-10years
+N1s=3.338e-03, N2s=1.780e-01, N2p=1.780e-01
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=2.500e+04GeV, T=3.081e-09years
+N1s=5.215e-03, N2s=2.782e-01, N2p=2.782e-01
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=3.150e+04GeV, T=1.149e-08years
+N1s=8.280e-03, N2s=4.416e-01, N2p=4.416e-01
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=4.000e+04GeV, T=4.742e-08years
+N1s=1.335e-02, N2s=7.121e-01, N2p=7.121e-01
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=5.000e+04GeV, T=1.701e-07years
+N1s=2.086e-02, N2s=1.113e+00, N2p=1.113e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=6.300e+04GeV, T=6.850e-07years
+N1s=3.312e-02, N2s=1.766e+00, N2p=1.766e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=8.000e+04GeV, T=2.861e-06years
+N1s=5.341e-02, N2s=2.848e+00, N2p=2.848e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.000e+05GeV, T=1.029e-05years
+N1s=8.345e-02, N2s=4.451e+00, N2p=4.451e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.250e+05GeV, T=1.490e-04years
+N1s=1.304e-01, N2s=6.954e+00, N2p=6.182e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.600e+05GeV, T=4.833e-04years
+N1s=2.136e-01, N2s=7.218e+00, N2p=6.188e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=2.000e+05GeV, T=1.255e-03years
+N1s=3.338e-01, N2s=7.225e+00, N2p=6.191e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=2.500e+05GeV, T=3.672e-03years
+N1s=5.215e-01, N2s=7.235e+00, N2p=6.194e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=3.150e+05GeV, T=1.488e-02years
+N1s=8.280e-01, N2s=7.251e+00, N2p=6.200e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=4.000e+05GeV, T=4.496e-02years
+N1s=1.335e+00, N2s=7.278e+00, N2p=6.209e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=5.000e+05GeV, T=1.936e-01years
+N1s=2.086e+00, N2s=7.319e+00, N2p=6.223e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=6.300e+05GeV, T=8.628e-01years
+N1s=3.312e+00, N2s=7.384e+00, N2p=6.246e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=8.000e+05GeV, T=5.780e+00years
+N1s=5.341e+00, N2s=7.492e+00, N2p=6.284e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.000e+06GeV, T=9.393e+01years
+N1s=8.345e+00, N2s=7.651e+00, N2p=6.339e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.250e+06GeV, T=1.680e+07years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.600e+06GeV, T=4.509e+07years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=2.000e+06GeV, T=1.101e+08years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=2.500e+06GeV, T=2.687e+08years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=3.150e+06GeV, T=6.773e+08years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=4.000e+06GeV, T=1.761e+09years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=5.000e+06GeV, T=4.300e+09years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=6.300e+06GeV, T=1.084e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=8.000e+06GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.000e+07GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.701e+00, N2p=6.353e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.250e+07GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.357e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.600e+07GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=2.000e+07GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=2.500e+07GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=3.150e+07GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=4.000e+07GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=5.000e+07GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=6.300e+07GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=8.000e+07GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.000e+08GeV, T=1.501e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.250e+08GeV, T=1.500e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.600e+08GeV, T=1.501e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=2.000e+08GeV, T=1.501e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=2.500e+08GeV, T=1.501e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=3.150e+08GeV, T=1.501e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=4.000e+08GeV, T=1.501e+10years
+N1s=9.278e+00, N2s=7.700e+00, N2p=6.356e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=5.000e+08GeV, T=1.501e+10years
+N1s=9.106e+00, N2s=7.657e+00, N2p=6.341e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=6.300e+08GeV, T=1.501e+10years
+N1s=7.267e+00, N2s=6.798e+00, N2p=5.859e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=8.000e+08GeV, T=1.501e+10years
+N1s=4.055e+00, N2s=4.347e+00, N2p=4.008e+00
+Found a match for (6.300e-01, 5.040e-04) with 129 elements
+xi=6.300e-01, f=1.000e+09GeV, T=1.500e+10years
+N1s=1.928e+00, N2s=2.224e+00, N2p=2.137e+00
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.000e+04GeV, T=5.157e-11years
+N1s=1.709e-03, N2s=9.113e-02, N2p=9.113e-02
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.250e+04GeV, T=1.674e-10years
+N1s=2.670e-03, N2s=1.424e-01, N2p=1.424e-01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.600e+04GeV, T=6.568e-10years
+N1s=4.374e-03, N2s=2.333e-01, N2p=2.333e-01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=2.000e+04GeV, T=2.343e-09years
+N1s=6.835e-03, N2s=3.645e-01, N2p=3.645e-01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=2.500e+04GeV, T=8.433e-09years
+N1s=1.068e-02, N2s=5.696e-01, N2p=5.696e-01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=3.150e+04GeV, T=3.386e-08years
+N1s=1.695e-02, N2s=9.042e-01, N2p=9.042e-01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=4.000e+04GeV, T=1.414e-07years
+N1s=2.734e-02, N2s=1.458e+00, N2p=1.458e+00
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=5.000e+04GeV, T=5.045e-07years
+N1s=4.272e-02, N2s=2.278e+00, N2p=2.278e+00
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=6.300e+04GeV, T=1.897e-06years
+N1s=6.782e-02, N2s=3.617e+00, N2p=3.617e+00
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=8.000e+04GeV, T=7.856e-06years
+N1s=1.094e-01, N2s=5.832e+00, N2p=5.832e+00
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.000e+05GeV, T=9.924e-05years
+N1s=1.709e-01, N2s=7.936e+00, N2p=9.113e+00
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.250e+05GeV, T=3.575e-04years
+N1s=2.670e-01, N2s=8.095e+00, N2p=1.127e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.600e+05GeV, T=1.195e-03years
+N1s=4.374e-01, N2s=8.105e+00, N2p=1.128e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=2.000e+05GeV, T=3.430e-03years
+N1s=6.835e-01, N2s=8.119e+00, N2p=1.129e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=2.500e+05GeV, T=9.999e-03years
+N1s=1.068e+00, N2s=8.140e+00, N2p=1.130e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=3.150e+05GeV, T=4.047e-02years
+N1s=1.695e+00, N2s=8.175e+00, N2p=1.131e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=4.000e+05GeV, T=1.219e-01years
+N1s=2.734e+00, N2s=8.233e+00, N2p=1.134e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=5.000e+05GeV, T=4.785e-01years
+N1s=4.272e+00, N2s=8.318e+00, N2p=1.138e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=6.300e+05GeV, T=2.337e+00years
+N1s=6.782e+00, N2s=8.457e+00, N2p=1.145e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=8.000e+05GeV, T=1.180e+01years
+N1s=1.094e+01, N2s=8.684e+00, N2p=1.156e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.000e+06GeV, T=8.168e+01years
+N1s=1.709e+01, N2s=9.017e+00, N2p=1.173e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.250e+06GeV, T=2.629e+07years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.600e+06GeV, T=7.056e+07years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=2.000e+06GeV, T=1.723e+08years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=2.500e+06GeV, T=4.206e+08years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=3.150e+06GeV, T=1.060e+09years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=4.000e+06GeV, T=2.756e+09years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=5.000e+06GeV, T=6.730e+09years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=6.300e+06GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=8.000e+06GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.000e+07GeV, T=1.500e+10years
+N1s=2.482e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.250e+07GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.600e+07GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.425e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=2.000e+07GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=2.500e+07GeV, T=1.500e+10years
+N1s=2.482e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=3.150e+07GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=4.000e+07GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=5.000e+07GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=6.300e+07GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=8.000e+07GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.000e+08GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.250e+08GeV, T=1.501e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.600e+08GeV, T=1.501e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=2.000e+08GeV, T=1.501e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=2.500e+08GeV, T=1.500e+10years
+N1s=2.483e+01, N2s=9.430e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=3.150e+08GeV, T=1.500e+10years
+N1s=2.480e+01, N2s=9.428e+00, N2p=1.193e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=4.000e+08GeV, T=1.501e+10years
+N1s=2.305e+01, N2s=9.299e+00, N2p=1.184e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=5.000e+08GeV, T=1.501e+10years
+N1s=1.601e+01, N2s=8.588e+00, N2p=1.092e+01
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=6.300e+08GeV, T=1.500e+10years
+N1s=8.048e+00, N2s=6.505e+00, N2p=7.653e+00
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=8.000e+08GeV, T=1.501e+10years
+N1s=3.379e+00, N2s=3.617e+00, N2p=3.925e+00
+Found a match for (8.000e-01, 6.400e-04) with 129 elements
+xi=8.000e-01, f=1.000e+09GeV, T=1.500e+10years
+N1s=1.424e+00, N2s=1.730e+00, N2p=1.803e+00
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.000e+04GeV, T=1.253e-10years
+N1s=3.337e-03, N2s=1.780e-01, N2p=1.780e-01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.250e+04GeV, T=4.470e-10years
+N1s=5.214e-03, N2s=2.781e-01, N2p=2.781e-01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.600e+04GeV, T=1.928e-09years
+N1s=8.543e-03, N2s=4.556e-01, N2p=4.556e-01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=2.000e+04GeV, T=6.878e-09years
+N1s=1.335e-02, N2s=7.120e-01, N2p=7.120e-01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=2.500e+04GeV, T=2.454e-08years
+N1s=2.086e-02, N2s=1.112e+00, N2p=1.112e+00
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=3.150e+04GeV, T=9.935e-08years
+N1s=3.311e-02, N2s=1.766e+00, N2p=1.766e+00
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=4.000e+04GeV, T=3.827e-07years
+N1s=5.340e-02, N2s=2.848e+00, N2p=2.848e+00
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=5.000e+04GeV, T=1.483e-06years
+N1s=8.343e-02, N2s=4.450e+00, N2p=4.450e+00
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=6.300e+04GeV, T=5.513e-06years
+N1s=1.325e-01, N2s=7.064e+00, N2p=7.064e+00
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=8.000e+04GeV, T=3.189e-05years
+N1s=2.136e-01, N2s=1.139e+01, N2p=1.139e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.000e+05GeV, T=3.199e-04years
+N1s=3.337e-01, N2s=1.404e+01, N2p=1.761e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.250e+05GeV, T=8.186e-04years
+N1s=5.214e-01, N2s=1.405e+01, N2p=1.762e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.600e+05GeV, T=2.938e-03years
+N1s=8.543e-01, N2s=1.407e+01, N2p=1.763e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=2.000e+05GeV, T=6.826e-03years
+N1s=1.335e+00, N2s=1.411e+01, N2p=1.764e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=2.500e+05GeV, T=2.665e-02years
+N1s=2.086e+00, N2s=1.416e+01, N2p=1.767e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=3.150e+05GeV, T=7.092e-02years
+N1s=3.311e+00, N2s=1.425e+01, N2p=1.770e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=4.000e+05GeV, T=2.957e-01years
+N1s=5.340e+00, N2s=1.440e+01, N2p=1.776e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=5.000e+05GeV, T=1.055e+00years
+N1s=8.343e+00, N2s=1.461e+01, N2p=1.785e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=6.300e+05GeV, T=4.265e+00years
+N1s=1.325e+01, N2s=1.496e+01, N2p=1.800e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=8.000e+05GeV, T=1.780e+01years
+N1s=2.136e+01, N2s=1.551e+01, N2p=1.824e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.000e+06GeV, T=6.348e+01years
+N1s=3.337e+01, N2s=1.630e+01, N2p=1.857e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.250e+06GeV, T=2.488e+02years
+N1s=5.214e+01, N2s=1.744e+01, N2p=1.907e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.600e+06GeV, T=9.752e+02years
+N1s=8.543e+01, N2s=1.926e+01, N2p=1.988e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=2.000e+06GeV, T=3.162e+03years
+N1s=1.335e+02, N2s=2.145e+01, N2p=2.091e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=2.500e+06GeV, T=9.328e+03years
+N1s=2.086e+02, N2s=2.409e+01, N2p=2.224e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=3.150e+06GeV, T=2.351e+04years
+N1s=3.311e+02, N2s=2.706e+01, N2p=2.388e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=4.000e+06GeV, T=6.114e+04years
+N1s=5.340e+02, N2s=2.999e+01, N2p=2.570e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=5.000e+06GeV, T=1.493e+05years
+N1s=8.343e+02, N2s=3.229e+01, N2p=2.735e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=6.300e+06GeV, T=3.426e+05years
+N1s=1.325e+03, N2s=3.411e+01, N2p=2.884e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=8.000e+06GeV, T=8.908e+05years
+N1s=2.136e+03, N2s=3.545e+01, N2p=3.004e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.000e+07GeV, T=1.982e+06years
+N1s=3.337e+03, N2s=3.630e+01, N2p=3.087e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.250e+07GeV, T=4.838e+06years
+N1s=5.214e+03, N2s=3.686e+01, N2p=3.146e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.600e+07GeV, T=1.299e+07years
+N1s=8.543e+03, N2s=3.727e+01, N2p=3.189e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=2.000e+07GeV, T=3.171e+07years
+N1s=1.335e+04, N2s=3.750e+01, N2p=3.215e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=2.500e+07GeV, T=7.741e+07years
+N1s=2.086e+04, N2s=3.765e+01, N2p=3.232e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=3.150e+07GeV, T=1.951e+08years
+N1s=3.311e+04, N2s=3.775e+01, N2p=3.243e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=4.000e+07GeV, T=5.073e+08years
+N1s=5.340e+04, N2s=3.781e+01, N2p=3.251e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=5.000e+07GeV, T=1.235e+09years
+N1s=8.343e+04, N2s=3.785e+01, N2p=3.255e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=6.300e+07GeV, T=1.500e+10years
+N1s=1.325e+05, N2s=3.787e+01, N2p=3.258e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=8.000e+07GeV, T=1.500e+10years
+N1s=2.136e+05, N2s=3.789e+01, N2p=3.260e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.000e+08GeV, T=1.500e+10years
+N1s=3.337e+05, N2s=3.790e+01, N2p=3.261e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.250e+08GeV, T=1.500e+10years
+N1s=5.214e+05, N2s=3.791e+01, N2p=3.261e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.600e+08GeV, T=1.500e+10years
+N1s=8.543e+05, N2s=3.791e+01, N2p=3.262e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=2.000e+08GeV, T=1.500e+10years
+N1s=1.128e+05, N2s=3.787e+01, N2p=3.257e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=2.500e+08GeV, T=1.500e+10years
+N1s=8.052e+02, N2s=3.200e+01, N2p=2.703e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=3.150e+08GeV, T=1.501e+10years
+N1s=1.455e+02, N2s=2.145e+01, N2p=2.078e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=4.000e+08GeV, T=1.500e+10years
+N1s=4.671e+01, N2s=1.623e+01, N2p=1.795e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=5.000e+08GeV, T=1.501e+10years
+N1s=1.723e+01, N2s=1.204e+01, N2p=1.331e+01
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=6.300e+08GeV, T=1.501e+10years
+N1s=6.339e+00, N2s=6.942e+00, N2p=7.319e+00
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=8.000e+08GeV, T=1.501e+10years
+N1s=2.340e+00, N2s=3.191e+00, N2p=3.257e+00
+Found a match for (1.000e+00, 8.000e-04) with 129 elements
+xi=1.000e+00, f=1.000e+09GeV, T=1.501e+10years
+N1s=9.423e-01, N2s=1.402e+00, N2p=1.411e+00
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.000e+04GeV, T=4.045e-10years
+N1s=6.518e-03, N2s=3.476e-01, N2p=3.476e-01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.250e+04GeV, T=1.443e-09years
+N1s=1.018e-02, N2s=5.432e-01, N2p=5.432e-01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.600e+04GeV, T=6.223e-09years
+N1s=1.669e-02, N2s=8.899e-01, N2p=8.899e-01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=2.000e+04GeV, T=2.220e-08years
+N1s=2.607e-02, N2s=1.391e+00, N2p=1.391e+00
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=2.500e+04GeV, T=7.989e-08years
+N1s=4.074e-02, N2s=2.173e+00, N2p=2.173e+00
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=3.150e+04GeV, T=3.212e-07years
+N1s=6.468e-02, N2s=3.449e+00, N2p=3.449e+00
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=4.000e+04GeV, T=1.232e-06years
+N1s=1.043e-01, N2s=5.562e+00, N2p=5.562e+00
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=5.000e+04GeV, T=4.418e-06years
+N1s=1.630e-01, N2s=8.691e+00, N2p=8.691e+00
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=6.300e+04GeV, T=1.636e-05years
+N1s=2.587e-01, N2s=1.380e+01, N2p=1.380e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=8.000e+04GeV, T=5.824e-05years
+N1s=4.172e-01, N2s=2.225e+01, N2p=2.225e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.000e+05GeV, T=8.429e-04years
+N1s=6.518e-01, N2s=2.777e+01, N2p=3.387e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.250e+05GeV, T=2.348e-03years
+N1s=1.018e+00, N2s=2.778e+01, N2p=3.387e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.600e+05GeV, T=7.190e-03years
+N1s=1.669e+00, N2s=2.782e+01, N2p=3.387e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=2.000e+05GeV, T=2.228e-02years
+N1s=2.607e+00, N2s=2.786e+01, N2p=3.387e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=2.500e+05GeV, T=5.927e-02years
+N1s=4.074e+00, N2s=2.793e+01, N2p=3.388e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=3.150e+05GeV, T=2.178e-01years
+N1s=6.468e+00, N2s=2.804e+01, N2p=3.388e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=4.000e+05GeV, T=5.431e-01years
+N1s=1.043e+01, N2s=2.822e+01, N2p=3.389e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=5.000e+05GeV, T=1.926e+00years
+N1s=1.630e+01, N2s=2.848e+01, N2p=3.390e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=6.300e+05GeV, T=6.442e+00years
+N1s=2.587e+01, N2s=2.887e+01, N2p=3.392e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=8.000e+05GeV, T=2.024e+01years
+N1s=4.172e+01, N2s=2.945e+01, N2p=3.394e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.000e+06GeV, T=5.963e+01years
+N1s=6.518e+01, N2s=3.019e+01, N2p=3.395e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.250e+06GeV, T=1.600e+02years
+N1s=1.018e+02, N2s=3.112e+01, N2p=3.394e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.600e+06GeV, T=4.718e+02years
+N1s=1.669e+02, N2s=3.232e+01, N2p=3.390e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=2.000e+06GeV, T=1.265e+03years
+N1s=2.607e+02, N2s=3.346e+01, N2p=3.381e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=2.500e+06GeV, T=3.088e+03years
+N1s=4.074e+02, N2s=3.453e+01, N2p=3.369e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=3.150e+06GeV, T=8.546e+03years
+N1s=6.468e+02, N2s=3.548e+01, N2p=3.353e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=4.000e+06GeV, T=2.222e+04years
+N1s=1.043e+03, N2s=3.624e+01, N2p=3.337e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=5.000e+06GeV, T=5.425e+04years
+N1s=1.630e+03, N2s=3.676e+01, N2p=3.324e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=6.300e+06GeV, T=1.367e+05years
+N1s=2.587e+03, N2s=3.715e+01, N2p=3.313e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=8.000e+06GeV, T=3.555e+05years
+N1s=4.172e+03, N2s=3.741e+01, N2p=3.305e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.000e+07GeV, T=8.680e+05years
+N1s=6.518e+03, N2s=3.757e+01, N2p=3.300e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.250e+07GeV, T=2.119e+06years
+N1s=1.018e+04, N2s=3.768e+01, N2p=3.296e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.600e+07GeV, T=5.688e+06years
+N1s=1.669e+04, N2s=3.775e+01, N2p=3.293e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=2.000e+07GeV, T=1.389e+07years
+N1s=2.607e+04, N2s=3.779e+01, N2p=3.292e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=2.500e+07GeV, T=3.391e+07years
+N1s=4.074e+04, N2s=3.782e+01, N2p=3.291e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=3.150e+07GeV, T=8.546e+07years
+N1s=6.468e+04, N2s=3.784e+01, N2p=3.290e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=4.000e+07GeV, T=2.222e+08years
+N1s=1.043e+05, N2s=3.785e+01, N2p=3.290e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=5.000e+07GeV, T=5.425e+08years
+N1s=1.630e+05, N2s=3.786e+01, N2p=3.290e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=6.300e+07GeV, T=1.500e+10years
+N1s=2.587e+05, N2s=3.786e+01, N2p=3.289e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=8.000e+07GeV, T=1.500e+10years
+N1s=4.172e+05, N2s=3.787e+01, N2p=3.289e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.000e+08GeV, T=1.500e+10years
+N1s=6.518e+05, N2s=3.787e+01, N2p=3.289e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.250e+08GeV, T=1.500e+10years
+N1s=1.018e+06, N2s=3.787e+01, N2p=3.289e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.600e+08GeV, T=1.500e+10years
+N1s=1.669e+06, N2s=3.787e+01, N2p=3.289e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=2.000e+08GeV, T=1.500e+10years
+N1s=2.607e+06, N2s=3.787e+01, N2p=3.289e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=2.500e+08GeV, T=1.500e+10years
+N1s=5.290e+04, N2s=3.783e+01, N2p=3.291e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=3.150e+08GeV, T=1.500e+10years
+N1s=4.276e+02, N2s=3.403e+01, N2p=3.340e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=4.000e+08GeV, T=1.500e+10years
+N1s=4.446e+01, N2s=2.314e+01, N2p=2.480e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=5.000e+08GeV, T=1.500e+10years
+N1s=1.164e+01, N2s=1.307e+01, N2p=1.363e+01
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=6.300e+08GeV, T=1.501e+10years
+N1s=3.809e+00, N2s=6.071e+00, N2p=6.177e+00
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=8.000e+08GeV, T=1.500e+10years
+N1s=1.350e+00, N2s=2.498e+00, N2p=2.510e+00
+Found a match for (1.250e+00, 1.000e-03) with 129 elements
+xi=1.250e+00, f=1.000e+09GeV, T=1.501e+10years
+N1s=5.365e-01, N2s=1.051e+00, N2p=1.050e+00
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.000e+04GeV, T=1.783e-09years
+N1s=1.367e-02, N2s=7.290e-01, N2p=7.290e-01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.250e+04GeV, T=6.973e-09years
+N1s=2.136e-02, N2s=1.139e+00, N2p=1.139e+00
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.600e+04GeV, T=2.753e-08years
+N1s=3.499e-02, N2s=1.866e+00, N2p=1.866e+00
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=2.000e+04GeV, T=1.073e-07years
+N1s=5.468e-02, N2s=2.916e+00, N2p=2.916e+00
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=2.500e+04GeV, T=3.839e-07years
+N1s=8.543e-02, N2s=4.556e+00, N2p=4.556e+00
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=3.150e+04GeV, T=1.418e-06years
+N1s=1.356e-01, N2s=7.234e+00, N2p=7.234e+00
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=4.000e+04GeV, T=4.970e-06years
+N1s=2.187e-01, N2s=1.166e+01, N2p=1.166e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=5.000e+04GeV, T=1.631e-05years
+N1s=3.417e-01, N2s=1.823e+01, N2p=1.823e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=6.300e+04GeV, T=5.130e-05years
+N1s=5.425e-01, N2s=2.894e+01, N2p=2.894e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=8.000e+04GeV, T=1.677e-04years
+N1s=8.748e-01, N2s=4.666e+01, N2p=4.666e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.000e+05GeV, T=1.542e-03years
+N1s=1.367e+00, N2s=6.461e+01, N2p=7.290e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.250e+05GeV, T=7.080e-03years
+N1s=2.136e+00, N2s=6.878e+01, N2p=8.571e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.600e+05GeV, T=2.111e-02years
+N1s=3.499e+00, N2s=6.809e+01, N2p=8.502e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=2.000e+05GeV, T=5.344e-02years
+N1s=5.468e+00, N2s=6.714e+01, N2p=8.405e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=2.500e+05GeV, T=1.395e-01years
+N1s=8.543e+00, N2s=6.576e+01, N2p=8.263e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=3.150e+05GeV, T=3.763e-01years
+N1s=1.356e+01, N2s=6.372e+01, N2p=8.049e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=4.000e+05GeV, T=1.290e+00years
+N1s=2.187e+01, N2s=6.086e+01, N2p=7.739e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=5.000e+05GeV, T=4.151e+00years
+N1s=3.417e+01, N2s=5.745e+01, N2p=7.356e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=6.300e+05GeV, T=8.282e+00years
+N1s=5.425e+01, N2s=5.333e+01, N2p=6.865e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=8.000e+05GeV, T=2.591e+01years
+N1s=8.748e+01, N2s=4.879e+01, N2p=6.277e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.000e+06GeV, T=6.944e+01years
+N1s=1.367e+02, N2s=4.470e+01, N2p=5.692e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.250e+06GeV, T=1.861e+02years
+N1s=2.136e+02, N2s=4.114e+01, N2p=5.115e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.600e+06GeV, T=5.483e+02years
+N1s=3.499e+02, N2s=3.803e+01, N2p=4.533e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=2.000e+06GeV, T=1.339e+03years
+N1s=5.468e+02, N2s=3.601e+01, N2p=4.088e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=2.500e+06GeV, T=3.586e+03years
+N1s=8.543e+02, N2s=3.462e+01, N2p=3.731e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=3.150e+06GeV, T=9.040e+03years
+N1s=1.356e+03, N2s=3.367e+01, N2p=3.453e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=4.000e+06GeV, T=2.350e+04years
+N1s=2.187e+03, N2s=3.306e+01, N2p=3.249e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=5.000e+06GeV, T=6.294e+04years
+N1s=3.417e+03, N2s=3.270e+01, N2p=3.117e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=6.300e+06GeV, T=1.586e+05years
+N1s=5.425e+03, N2s=3.247e+01, N2p=3.026e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=8.000e+06GeV, T=4.125e+05years
+N1s=8.748e+03, N2s=3.232e+01, N2p=2.965e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.000e+07GeV, T=1.007e+06years
+N1s=1.367e+04, N2s=3.223e+01, N2p=2.928e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.250e+07GeV, T=2.459e+06years
+N1s=2.136e+04, N2s=3.217e+01, N2p=2.903e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.600e+07GeV, T=6.600e+06years
+N1s=3.499e+04, N2s=3.213e+01, N2p=2.887e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=2.000e+07GeV, T=1.611e+07years
+N1s=5.468e+04, N2s=3.211e+01, N2p=2.877e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=2.500e+07GeV, T=3.934e+07years
+N1s=8.543e+04, N2s=3.210e+01, N2p=2.871e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=3.150e+07GeV, T=9.915e+07years
+N1s=1.356e+05, N2s=3.209e+01, N2p=2.867e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=4.000e+07GeV, T=2.578e+08years
+N1s=2.187e+05, N2s=3.208e+01, N2p=2.864e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=5.000e+07GeV, T=6.294e+08years
+N1s=3.417e+05, N2s=3.208e+01, N2p=2.863e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=6.300e+07GeV, T=1.577e+09years
+N1s=5.425e+05, N2s=3.208e+01, N2p=2.862e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=8.000e+07GeV, T=1.500e+10years
+N1s=8.748e+05, N2s=3.208e+01, N2p=2.861e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.000e+08GeV, T=1.500e+10years
+N1s=1.367e+06, N2s=3.208e+01, N2p=2.861e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.250e+08GeV, T=1.500e+10years
+N1s=2.136e+06, N2s=3.207e+01, N2p=2.860e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.600e+08GeV, T=1.500e+10years
+N1s=3.499e+06, N2s=3.207e+01, N2p=2.860e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=2.000e+08GeV, T=1.500e+10years
+N1s=5.468e+06, N2s=3.207e+01, N2p=2.860e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=2.500e+08GeV, T=1.500e+10years
+N1s=1.858e+04, N2s=3.219e+01, N2p=2.911e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=3.150e+08GeV, T=1.500e+10years
+N1s=2.048e+02, N2s=4.083e+01, N2p=4.705e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=4.000e+08GeV, T=1.501e+10years
+N1s=1.877e+01, N2s=2.341e+01, N2p=2.427e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=5.000e+08GeV, T=1.501e+10years
+N1s=4.802e+00, N2s=1.062e+01, N2p=1.070e+01
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=6.300e+08GeV, T=1.501e+10years
+N1s=1.567e+00, N2s=4.394e+00, N2p=4.374e+00
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=8.000e+08GeV, T=1.500e+10years
+N1s=5.565e-01, N2s=1.719e+00, N2p=1.702e+00
+Found a match for (1.600e+00, 1.280e-03) with 129 elements
+xi=1.600e+00, f=1.000e+09GeV, T=1.501e+10years
+N1s=2.214e-01, N2s=7.088e-01, N2p=7.004e-01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.000e+04GeV, T=1.115e-08years
+N1s=2.670e-02, N2s=1.424e+00, N2p=1.424e+00
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.250e+04GeV, T=3.980e-08years
+N1s=4.172e-02, N2s=2.225e+00, N2p=2.225e+00
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.600e+04GeV, T=1.565e-07years
+N1s=6.835e-02, N2s=3.645e+00, N2p=3.645e+00
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=2.000e+04GeV, T=5.587e-07years
+N1s=1.068e-01, N2s=5.696e+00, N2p=5.696e+00
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=2.500e+04GeV, T=1.821e-06years
+N1s=1.669e-01, N2s=8.899e+00, N2p=8.899e+00
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=3.150e+04GeV, T=6.129e-06years
+N1s=2.649e-01, N2s=1.413e+01, N2p=1.413e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=4.000e+04GeV, T=1.950e-05years
+N1s=4.272e-01, N2s=2.278e+01, N2p=2.278e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=5.000e+04GeV, T=5.810e-05years
+N1s=6.675e-01, N2s=3.560e+01, N2p=3.560e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=6.300e+04GeV, T=1.522e-04years
+N1s=1.060e+00, N2s=5.651e+01, N2p=5.651e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=8.000e+04GeV, T=3.914e-04years
+N1s=1.709e+00, N2s=9.113e+01, N2p=9.113e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.000e+05GeV, T=2.895e-03years
+N1s=2.670e+00, N2s=1.410e+02, N2p=1.424e+02
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.250e+05GeV, T=7.678e-03years
+N1s=4.172e+00, N2s=1.735e+02, N2p=2.225e+02
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.600e+05GeV, T=4.397e-02years
+N1s=6.835e+00, N2s=1.867e+02, N2p=2.729e+02
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=2.000e+05GeV, T=1.058e-01years
+N1s=1.068e+01, N2s=1.712e+02, N2p=2.528e+02
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=2.500e+05GeV, T=2.620e-01years
+N1s=1.669e+01, N2s=1.522e+02, N2p=2.276e+02
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=3.150e+05GeV, T=6.805e-01years
+N1s=2.649e+01, N2s=1.297e+02, N2p=1.974e+02
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=4.000e+05GeV, T=2.022e+00years
+N1s=4.272e+01, N2s=1.056e+02, N2p=1.641e+02
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=5.000e+05GeV, T=5.248e+00years
+N1s=6.675e+01, N2s=8.452e+01, N2p=1.339e+02
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=6.300e+05GeV, T=1.142e+01years
+N1s=1.060e+02, N2s=6.587e+01, N2p=1.059e+02
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=8.000e+05GeV, T=3.566e+01years
+N1s=1.709e+02, N2s=5.087e+01, N2p=8.189e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.000e+06GeV, T=1.046e+02years
+N1s=2.670e+02, N2s=4.070e+01, N2p=6.423e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.250e+06GeV, T=2.803e+02years
+N1s=4.172e+02, N2s=3.367e+01, N2p=5.082e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.600e+06GeV, T=8.254e+02years
+N1s=6.835e+02, N2s=2.862e+01, N2p=4.012e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=2.000e+06GeV, T=2.211e+03years
+N1s=1.068e+03, N2s=2.576e+01, N2p=3.339e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=2.500e+06GeV, T=5.398e+03years
+N1s=1.669e+03, N2s=2.394e+01, N2p=2.875e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=3.150e+06GeV, T=1.361e+04years
+N1s=2.649e+03, N2s=2.277e+01, N2p=2.553e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=4.000e+06GeV, T=3.880e+04years
+N1s=4.272e+03, N2s=2.202e+01, N2p=2.336e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=5.000e+06GeV, T=9.473e+04years
+N1s=6.675e+03, N2s=2.158e+01, N2p=2.205e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=6.300e+06GeV, T=2.388e+05years
+N1s=1.060e+04, N2s=2.130e+01, N2p=2.117e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=8.000e+06GeV, T=6.208e+05years
+N1s=1.709e+04, N2s=2.112e+01, N2p=2.060e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.000e+07GeV, T=1.516e+06years
+N1s=2.670e+04, N2s=2.101e+01, N2p=2.026e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.250e+07GeV, T=3.700e+06years
+N1s=4.172e+04, N2s=2.094e+01, N2p=2.005e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.600e+07GeV, T=9.933e+06years
+N1s=6.835e+04, N2s=2.090e+01, N2p=1.990e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=2.000e+07GeV, T=2.425e+07years
+N1s=1.068e+05, N2s=2.087e+01, N2p=1.981e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=2.500e+07GeV, T=5.920e+07years
+N1s=1.669e+05, N2s=2.085e+01, N2p=1.976e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=3.150e+07GeV, T=1.492e+08years
+N1s=2.649e+05, N2s=2.084e+01, N2p=1.972e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=4.000e+07GeV, T=1.500e+10years
+N1s=4.272e+05, N2s=2.084e+01, N2p=1.970e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=5.000e+07GeV, T=1.500e+10years
+N1s=6.675e+05, N2s=2.083e+01, N2p=1.968e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=6.300e+07GeV, T=2.367e+09years
+N1s=1.060e+06, N2s=2.083e+01, N2p=1.967e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=8.000e+07GeV, T=1.500e+10years
+N1s=1.709e+06, N2s=2.082e+01, N2p=1.967e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.000e+08GeV, T=1.500e+10years
+N1s=2.670e+06, N2s=2.082e+01, N2p=1.966e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.250e+08GeV, T=1.500e+10years
+N1s=4.172e+06, N2s=2.082e+01, N2p=1.966e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.600e+08GeV, T=1.500e+10years
+N1s=6.835e+06, N2s=2.082e+01, N2p=1.966e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=2.000e+08GeV, T=1.500e+10years
+N1s=1.419e+06, N2s=2.083e+01, N2p=1.967e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=2.500e+08GeV, T=1.500e+10years
+N1s=1.955e+03, N2s=2.412e+01, N2p=3.272e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=3.150e+08GeV, T=1.500e+10years
+N1s=3.906e+01, N2s=4.282e+01, N2p=4.739e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=4.000e+08GeV, T=1.500e+10years
+N1s=4.952e+00, N2s=1.739e+01, N2p=1.789e+01
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=5.000e+08GeV, T=1.500e+10years
+N1s=1.386e+00, N2s=7.164e+00, N2p=7.212e+00
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=6.300e+08GeV, T=1.501e+10years
+N1s=4.688e-01, N2s=2.849e+00, N2p=2.842e+00
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=8.000e+08GeV, T=1.501e+10years
+N1s=1.689e-01, N2s=1.096e+00, N2p=1.090e+00
+Found a match for (2.000e+00, 1.600e-03) with 129 elements
+xi=2.000e+00, f=1.000e+09GeV, T=1.500e+10years
+N1s=6.757e-02, N2s=4.490e-01, N2p=4.457e-01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.000e+04GeV, T=1.023e-07years
+N1s=5.214e-02, N2s=2.781e+00, N2p=2.781e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.250e+04GeV, T=3.647e-07years
+N1s=8.148e-02, N2s=4.345e+00, N2p=4.345e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.600e+04GeV, T=1.302e-06years
+N1s=1.335e-01, N2s=7.120e+00, N2p=7.120e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=2.000e+04GeV, T=3.850e-06years
+N1s=2.086e-01, N2s=1.112e+01, N2p=1.112e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=2.500e+04GeV, T=1.138e-05years
+N1s=3.259e-01, N2s=1.738e+01, N2p=1.738e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=3.150e+04GeV, T=3.167e-05years
+N1s=5.174e-01, N2s=2.760e+01, N2p=2.760e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=4.000e+04GeV, T=8.315e-05years
+N1s=8.343e-01, N2s=4.450e+01, N2p=4.450e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=5.000e+04GeV, T=1.728e-04years
+N1s=1.304e+00, N2s=6.953e+01, N2p=6.953e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=6.300e+04GeV, T=3.776e-04years
+N1s=2.070e+00, N2s=1.104e+02, N2p=1.104e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=8.000e+04GeV, T=8.131e-04years
+N1s=3.337e+00, N2s=1.780e+02, N2p=1.780e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.000e+05GeV, T=1.649e-03years
+N1s=5.214e+00, N2s=2.781e+02, N2p=2.781e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.250e+05GeV, T=1.126e-02years
+N1s=8.148e+00, N2s=3.807e+02, N2p=4.345e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.600e+05GeV, T=5.447e-02years
+N1s=1.335e+01, N2s=4.310e+02, N2p=6.871e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=2.000e+05GeV, T=1.359e-01years
+N1s=2.086e+01, N2s=3.498e+02, N2p=5.704e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=2.500e+05GeV, T=3.507e-01years
+N1s=3.259e+01, N2s=2.676e+02, N2p=4.489e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=3.150e+05GeV, T=9.447e-01years
+N1s=5.174e+01, N2s=1.901e+02, N2p=3.307e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=4.000e+05GeV, T=3.327e+00years
+N1s=8.343e+01, N2s=1.253e+02, N2p=2.279e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=5.000e+05GeV, T=8.746e+00years
+N1s=1.304e+02, N2s=8.120e+01, N2p=1.547e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=6.300e+05GeV, T=2.069e+01years
+N1s=2.070e+02, N2s=5.094e+01, N2p=1.012e+02
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=8.000e+05GeV, T=7.085e+01years
+N1s=3.337e+02, N2s=3.223e+01, N2p=6.525e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.000e+06GeV, T=2.081e+02years
+N1s=5.214e+02, N2s=2.229e+01, N2p=4.419e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.250e+06GeV, T=5.577e+02years
+N1s=8.148e+02, N2s=1.662e+01, N2p=3.099e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.600e+06GeV, T=1.643e+03years
+N1s=1.335e+03, N2s=1.310e+01, N2p=2.205e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=2.000e+06GeV, T=4.009e+03years
+N1s=2.086e+03, N2s=1.129e+01, N2p=1.710e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=2.500e+06GeV, T=9.787e+03years
+N1s=3.259e+03, N2s=1.021e+01, N2p=1.398e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=3.150e+06GeV, T=2.467e+04years
+N1s=5.174e+03, N2s=9.525e+00, N2p=1.195e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=4.000e+06GeV, T=7.034e+04years
+N1s=8.343e+03, N2s=9.097e+00, N2p=1.064e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=5.000e+06GeV, T=1.717e+05years
+N1s=1.304e+04, N2s=8.851e+00, N2p=9.873e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=6.300e+06GeV, T=4.328e+05years
+N1s=2.070e+04, N2s=8.691e+00, N2p=9.370e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=8.000e+06GeV, T=1.125e+06years
+N1s=3.337e+04, N2s=8.588e+00, N2p=9.046e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.000e+07GeV, T=2.748e+06years
+N1s=5.214e+04, N2s=8.528e+00, N2p=8.856e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.250e+07GeV, T=6.708e+06years
+N1s=8.148e+04, N2s=8.490e+00, N2p=8.734e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.600e+07GeV, T=1.801e+07years
+N1s=1.335e+05, N2s=8.464e+00, N2p=8.650e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=2.000e+07GeV, T=4.396e+07years
+N1s=2.086e+05, N2s=8.449e+00, N2p=8.602e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=2.500e+07GeV, T=1.073e+08years
+N1s=3.259e+05, N2s=8.439e+00, N2p=8.572e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=3.150e+07GeV, T=1.500e+10years
+N1s=5.174e+05, N2s=8.433e+00, N2p=8.552e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=4.000e+07GeV, T=1.500e+10years
+N1s=8.343e+05, N2s=8.429e+00, N2p=8.539e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=5.000e+07GeV, T=1.500e+10years
+N1s=1.304e+06, N2s=8.427e+00, N2p=8.532e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=6.300e+07GeV, T=1.500e+10years
+N1s=2.070e+06, N2s=8.425e+00, N2p=8.527e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=8.000e+07GeV, T=1.500e+10years
+N1s=3.337e+06, N2s=8.424e+00, N2p=8.523e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.000e+08GeV, T=1.500e+10years
+N1s=5.214e+06, N2s=8.423e+00, N2p=8.521e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.250e+08GeV, T=1.500e+10years
+N1s=8.148e+06, N2s=8.423e+00, N2p=8.520e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.600e+08GeV, T=1.500e+10years
+N1s=1.335e+07, N2s=8.423e+00, N2p=8.519e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=2.000e+08GeV, T=1.500e+10years
+N1s=1.416e+04, N2s=8.823e+00, N2p=9.826e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=2.500e+08GeV, T=1.500e+10years
+N1s=1.046e+02, N2s=7.343e+01, N2p=9.120e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=3.150e+08GeV, T=1.501e+10years
+N1s=4.051e+00, N2s=2.918e+01, N2p=3.021e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=4.000e+08GeV, T=1.501e+10years
+N1s=7.082e-01, N2s=1.026e+01, N2p=1.038e+01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=5.000e+08GeV, T=1.500e+10years
+N1s=2.163e-01, N2s=4.060e+00, N2p=4.077e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=6.300e+08GeV, T=1.501e+10years
+N1s=7.582e-02, N2s=1.589e+00, N2p=1.590e+00
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=8.000e+08GeV, T=1.501e+10years
+N1s=2.776e-02, N2s=6.073e-01, N2p=6.071e-01
+Found a match for (2.500e+00, 2.000e-03) with 129 elements
+xi=2.500e+00, f=1.000e+09GeV, T=1.501e+10years
+N1s=1.122e-02, N2s=2.484e-01, N2p=2.482e-01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.000e+04GeV, T=1.254e-06years
+N1s=1.043e-01, N2s=5.563e+00, N2p=5.563e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.250e+04GeV, T=4.064e-06years
+N1s=1.630e-01, N2s=8.692e+00, N2p=8.692e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.600e+04GeV, T=1.198e-05years
+N1s=2.670e-01, N2s=1.424e+01, N2p=1.424e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=2.000e+04GeV, T=2.925e-05years
+N1s=4.172e-01, N2s=2.225e+01, N2p=2.225e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=2.500e+04GeV, T=5.923e-05years
+N1s=6.519e-01, N2s=3.477e+01, N2p=3.477e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=3.150e+04GeV, T=1.243e-04years
+N1s=1.035e+00, N2s=5.520e+01, N2p=5.520e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=4.000e+04GeV, T=2.471e-04years
+N1s=1.669e+00, N2s=8.901e+01, N2p=8.901e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=5.000e+04GeV, T=4.665e-04years
+N1s=2.608e+00, N2s=1.391e+02, N2p=1.391e+02
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=6.300e+04GeV, T=8.542e-04years
+N1s=4.140e+00, N2s=2.208e+02, N2p=2.208e+02
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=8.000e+04GeV, T=1.477e-03years
+N1s=6.676e+00, N2s=3.560e+02, N2p=3.560e+02
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.000e+05GeV, T=2.837e-03years
+N1s=1.043e+01, N2s=5.563e+02, N2p=5.563e+02
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.250e+05GeV, T=1.560e-02years
+N1s=1.630e+01, N2s=7.128e+02, N2p=8.692e+02
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.600e+05GeV, T=7.852e-02years
+N1s=2.670e+01, N2s=6.460e+02, N2p=1.090e+03
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=2.000e+05GeV, T=2.139e-01years
+N1s=4.172e+01, N2s=4.368e+02, N2p=7.635e+02
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=2.500e+05GeV, T=5.404e-01years
+N1s=6.519e+01, N2s=2.757e+02, N2p=5.045e+02
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=3.150e+05GeV, T=1.805e+00years
+N1s=1.035e+02, N2s=1.577e+02, N2p=3.078e+02
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=4.000e+05GeV, T=6.521e+00years
+N1s=1.669e+02, N2s=8.027e+01, N2p=1.713e+02
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=5.000e+05GeV, T=1.639e+01years
+N1s=2.608e+02, N2s=3.971e+01, N2p=9.335e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=6.300e+05GeV, T=5.931e+01years
+N1s=4.140e+02, N2s=1.926e+01, N2p=4.924e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=8.000e+05GeV, T=1.706e+02years
+N1s=6.676e+02, N2s=1.005e+01, N2p=2.672e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.000e+06GeV, T=4.559e+02years
+N1s=1.043e+03, N2s=6.152e+00, N2p=1.609e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.250e+06GeV, T=1.218e+03years
+N1s=1.630e+03, N2s=4.179e+00, N2p=1.027e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.600e+06GeV, T=3.259e+03years
+N1s=2.670e+03, N2s=3.024e+00, N2p=6.657e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=2.000e+06GeV, T=7.949e+03years
+N1s=4.172e+03, N2s=2.443e+00, N2p=4.757e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=2.500e+06GeV, T=1.941e+04years
+N1s=6.519e+03, N2s=2.095e+00, N2p=3.590e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=3.150e+06GeV, T=4.892e+04years
+N1s=1.035e+04, N2s=1.876e+00, N2p=2.844e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=4.000e+06GeV, T=1.272e+05years
+N1s=1.669e+04, N2s=1.739e+00, N2p=2.370e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=5.000e+06GeV, T=3.105e+05years
+N1s=2.608e+04, N2s=1.660e+00, N2p=2.094e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=6.300e+06GeV, T=7.826e+05years
+N1s=4.140e+04, N2s=1.609e+00, N2p=1.914e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=8.000e+06GeV, T=2.035e+06years
+N1s=6.676e+04, N2s=1.576e+00, N2p=1.798e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.000e+07GeV, T=4.968e+06years
+N1s=1.043e+05, N2s=1.556e+00, N2p=1.730e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.250e+07GeV, T=1.213e+07years
+N1s=1.630e+05, N2s=1.544e+00, N2p=1.687e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.600e+07GeV, T=3.256e+07years
+N1s=2.670e+05, N2s=1.535e+00, N2p=1.657e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=2.000e+07GeV, T=1.500e+10years
+N1s=4.172e+05, N2s=1.531e+00, N2p=1.640e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=2.500e+07GeV, T=1.500e+10years
+N1s=6.519e+05, N2s=1.528e+00, N2p=1.629e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=3.150e+07GeV, T=1.500e+10years
+N1s=1.035e+06, N2s=1.525e+00, N2p=1.622e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=4.000e+07GeV, T=1.500e+10years
+N1s=1.669e+06, N2s=1.524e+00, N2p=1.618e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=5.000e+07GeV, T=1.500e+10years
+N1s=2.608e+06, N2s=1.523e+00, N2p=1.615e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=6.300e+07GeV, T=1.500e+10years
+N1s=4.140e+06, N2s=1.523e+00, N2p=1.613e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=8.000e+07GeV, T=1.500e+10years
+N1s=6.676e+06, N2s=1.523e+00, N2p=1.612e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.000e+08GeV, T=1.500e+10years
+N1s=1.043e+07, N2s=1.522e+00, N2p=1.611e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.250e+08GeV, T=1.500e+10years
+N1s=1.630e+07, N2s=1.522e+00, N2p=1.611e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.600e+08GeV, T=1.500e+10years
+N1s=7.073e+04, N2s=1.573e+00, N2p=1.789e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=2.000e+08GeV, T=1.500e+10years
+N1s=3.278e+02, N2s=8.263e+01, N2p=1.419e+02
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=2.500e+08GeV, T=1.500e+10years
+N1s=1.598e+00, N2s=4.117e+01, N2p=4.245e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=3.150e+08GeV, T=1.500e+10years
+N1s=1.596e-01, N2s=1.270e+01, N2p=1.293e+01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=4.000e+08GeV, T=1.501e+10years
+N1s=3.403e-02, N2s=4.429e+00, N2p=4.486e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=5.000e+08GeV, T=1.500e+10years
+N1s=1.109e-02, N2s=1.751e+00, N2p=1.770e+00
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=6.300e+08GeV, T=1.501e+10years
+N1s=4.039e-03, N2s=6.849e-01, N2p=6.919e-01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=8.000e+08GeV, T=1.501e+10years
+N1s=1.552e-03, N2s=2.619e-01, N2p=2.645e-01
+Found a match for (3.150e+00, 2.520e-03) with 129 elements
+xi=3.150e+00, f=1.000e+09GeV, T=1.500e+10years
+N1s=6.853e-04, N2s=1.070e-01, N2p=1.081e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.000e+04GeV, T=5.475e-06years
+N1s=2.136e-01, N2s=1.139e+01, N2p=1.139e+01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.250e+04GeV, T=1.768e-05years
+N1s=3.337e-01, N2s=1.780e+01, N2p=1.780e+01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.600e+04GeV, T=4.310e-05years
+N1s=5.468e-01, N2s=2.916e+01, N2p=2.916e+01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=2.000e+04GeV, T=8.712e-05years
+N1s=8.543e-01, N2s=4.556e+01, N2p=4.556e+01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=2.500e+04GeV, T=1.764e-04years
+N1s=1.335e+00, N2s=7.120e+01, N2p=7.120e+01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=3.150e+04GeV, T=3.082e-04years
+N1s=2.119e+00, N2s=1.130e+02, N2p=1.130e+02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=4.000e+04GeV, T=5.149e-04years
+N1s=3.417e+00, N2s=1.823e+02, N2p=1.823e+02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=5.000e+04GeV, T=8.311e-04years
+N1s=5.340e+00, N2s=2.848e+02, N2p=2.848e+02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=6.300e+04GeV, T=1.353e-03years
+N1s=8.477e+00, N2s=4.521e+02, N2p=4.521e+02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=8.000e+04GeV, T=2.299e-03years
+N1s=1.367e+01, N2s=7.290e+02, N2p=7.290e+02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.000e+05GeV, T=1.132e-02years
+N1s=2.136e+01, N2s=1.007e+03, N2p=1.139e+03
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.250e+05GeV, T=4.912e-02years
+N1s=3.337e+01, N2s=9.269e+02, N2p=1.533e+03
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.600e+05GeV, T=1.520e-01years
+N1s=5.468e+01, N2s=5.293e+02, N2p=9.059e+02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=2.000e+05GeV, T=4.446e-01years
+N1s=8.543e+01, N2s=2.988e+02, N2p=5.355e+02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=2.500e+05GeV, T=1.579e+00years
+N1s=1.335e+02, N2s=1.527e+02, N2p=2.935e+02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=3.150e+05GeV, T=6.066e+00years
+N1s=2.119e+02, N2s=6.412e+01, N2p=1.375e+02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=4.000e+05GeV, T=1.772e+01years
+N1s=3.417e+02, N2s=2.125e+01, N2p=5.272e+01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=5.000e+05GeV, T=5.244e+01years
+N1s=5.340e+02, N2s=7.916e+00, N2p=2.219e+01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=6.300e+05GeV, T=1.449e+02years
+N1s=8.477e+02, N2s=3.505e+00, N2p=1.073e+01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=8.000e+05GeV, T=4.106e+02years
+N1s=1.367e+03, N2s=1.774e+00, N2p=5.742e+00
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.000e+06GeV, T=9.962e+02years
+N1s=2.136e+03, N2s=1.031e+00, N2p=3.414e+00
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.250e+06GeV, T=2.421e+03years
+N1s=3.337e+03, N2s=6.387e-01, N2p=2.108e+00
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.600e+06GeV, T=6.491e+03years
+N1s=5.468e+03, N2s=3.995e-01, N2p=1.276e+00
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=2.000e+06GeV, T=1.585e+04years
+N1s=8.543e+03, N2s=2.753e-01, N2p=8.301e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=2.500e+06GeV, T=3.869e+04years
+N1s=1.335e+04, N2s=1.997e-01, N2p=5.534e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=3.150e+06GeV, T=9.752e+04years
+N1s=2.119e+04, N2s=1.515e-01, N2p=3.748e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=4.000e+06GeV, T=2.536e+05years
+N1s=3.417e+04, N2s=1.211e-01, N2p=2.608e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=5.000e+06GeV, T=6.191e+05years
+N1s=5.340e+04, N2s=1.034e-01, N2p=1.943e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=6.300e+06GeV, T=1.560e+06years
+N1s=8.477e+04, N2s=9.184e-02, N2p=1.507e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=8.000e+06GeV, T=4.057e+06years
+N1s=1.367e+05, N2s=8.442e-02, N2p=1.226e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.000e+07GeV, T=9.905e+06years
+N1s=2.136e+05, N2s=8.007e-02, N2p=1.062e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.250e+07GeV, T=1.188e+10years
+N1s=3.337e+05, N2s=7.729e-02, N2p=9.565e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.600e+07GeV, T=1.500e+10years
+N1s=5.468e+05, N2s=7.538e-02, N2p=8.837e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=2.000e+07GeV, T=1.500e+10years
+N1s=8.543e+05, N2s=7.429e-02, N2p=8.426e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=2.500e+07GeV, T=1.500e+10years
+N1s=1.335e+06, N2s=7.360e-02, N2p=8.163e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=3.150e+07GeV, T=1.500e+10years
+N1s=2.119e+06, N2s=7.315e-02, N2p=7.991e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=4.000e+07GeV, T=1.500e+10years
+N1s=3.417e+06, N2s=7.285e-02, N2p=7.879e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=5.000e+07GeV, T=1.500e+10years
+N1s=5.340e+06, N2s=7.268e-02, N2p=7.813e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=6.300e+07GeV, T=1.500e+10years
+N1s=8.477e+06, N2s=7.256e-02, N2p=7.770e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=8.000e+07GeV, T=1.500e+10years
+N1s=1.367e+07, N2s=7.249e-02, N2p=7.742e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.000e+08GeV, T=1.500e+10years
+N1s=2.136e+07, N2s=7.245e-02, N2p=7.726e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.250e+08GeV, T=1.500e+10years
+N1s=5.781e+05, N2s=7.521e-02, N2p=8.776e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.600e+08GeV, T=1.500e+10years
+N1s=5.200e+02, N2s=9.225e+01, N2p=1.880e+02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=2.000e+08GeV, T=1.500e+10years
+N1s=1.373e-01, N2s=3.795e+01, N2p=3.890e+01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=2.500e+08GeV, T=1.500e+10years
+N1s=7.390e-03, N2s=1.004e+01, N2p=1.028e+01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=3.150e+08GeV, T=1.501e+10years
+N1s=1.135e-03, N2s=3.367e+00, N2p=3.446e+00
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=4.000e+08GeV, T=1.500e+10years
+N1s=3.408e-04, N2s=1.211e+00, N2p=1.240e+00
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=5.000e+08GeV, T=1.500e+10years
+N1s=1.802e-04, N2s=4.844e-01, N2p=4.957e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=6.300e+08GeV, T=1.501e+10years
+N1s=1.290e-04, N2s=1.904e-01, N2p=1.948e-01
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=8.000e+08GeV, T=1.501e+10years
+N1s=1.108e-04, N2s=7.299e-02, N2p=7.469e-02
+Found a match for (4.000e+00, 3.200e-03) with 129 elements
+xi=4.000e+00, f=1.000e+09GeV, T=1.500e+10years
+N1s=1.043e-04, N2s=2.991e-02, N2p=3.060e-02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.000e+04GeV, T=1.622e-05years
+N1s=4.172e-01, N2s=2.225e+01, N2p=2.225e+01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.250e+04GeV, T=3.594e-05years
+N1s=6.518e-01, N2s=3.476e+01, N2p=3.476e+01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.600e+04GeV, T=7.301e-05years
+N1s=1.068e+00, N2s=5.696e+01, N2p=5.696e+01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=2.000e+04GeV, T=1.353e-04years
+N1s=1.669e+00, N2s=8.899e+01, N2p=8.899e+01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=2.500e+04GeV, T=2.309e-04years
+N1s=2.607e+00, N2s=1.391e+02, N2p=1.391e+02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=3.150e+04GeV, T=3.795e-04years
+N1s=4.139e+00, N2s=2.208e+02, N2p=2.208e+02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=4.000e+04GeV, T=6.182e-04years
+N1s=6.675e+00, N2s=3.560e+02, N2p=3.560e+02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=5.000e+04GeV, T=1.018e-03years
+N1s=1.043e+01, N2s=5.562e+02, N2p=5.562e+02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=6.300e+04GeV, T=1.786e-03years
+N1s=1.656e+01, N2s=8.830e+02, N2p=8.830e+02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=8.000e+04GeV, T=7.569e-03years
+N1s=2.670e+01, N2s=1.156e+03, N2p=1.424e+03
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.000e+05GeV, T=3.882e-02years
+N1s=4.172e+01, N2s=9.014e+02, N2p=1.369e+03
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.250e+05GeV, T=1.056e-01years
+N1s=6.518e+01, N2s=5.205e+02, N2p=8.139e+02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.600e+05GeV, T=3.979e-01years
+N1s=1.068e+02, N2s=2.604e+02, N2p=4.269e+02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=2.000e+05GeV, T=1.267e+00years
+N1s=1.669e+02, N2s=1.189e+02, N2p=2.087e+02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=2.500e+05GeV, T=6.356e+00years
+N1s=2.607e+02, N2s=3.797e+01, N2p=7.420e+01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=3.150e+05GeV, T=1.777e+01years
+N1s=4.139e+02, N2s=6.954e+00, N2p=1.577e+01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=4.000e+05GeV, T=5.168e+01years
+N1s=6.675e+02, N2s=1.985e+00, N2p=5.176e+00
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=5.000e+05GeV, T=1.259e+02years
+N1s=1.043e+03, N2s=8.816e-01, N2p=2.559e+00
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=6.300e+05GeV, T=3.142e+02years
+N1s=1.656e+03, N2s=4.444e-01, N2p=1.405e+00
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=8.000e+05GeV, T=8.098e+02years
+N1s=2.670e+03, N2s=2.393e-01, N2p=8.065e-01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.000e+06GeV, T=1.967e+03years
+N1s=4.172e+03, N2s=1.410e-01, N2p=4.950e-01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.250e+06GeV, T=4.795e+03years
+N1s=6.518e+03, N2s=8.568e-02, N2p=3.089e-01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.600e+06GeV, T=1.287e+04years
+N1s=1.068e+04, N2s=5.058e-02, N2p=1.856e-01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=2.000e+06GeV, T=3.142e+04years
+N1s=1.669e+04, N2s=3.189e-02, N2p=1.178e-01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=2.500e+06GeV, T=7.670e+04years
+N1s=2.607e+04, N2s=2.033e-02, N2p=7.518e-02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=3.150e+06GeV, T=1.933e+05years
+N1s=4.139e+04, N2s=1.290e-02, N2p=4.738e-02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=4.000e+06GeV, T=5.027e+05years
+N1s=6.675e+04, N2s=8.165e-03, N2p=2.954e-02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=5.000e+06GeV, T=1.227e+06years
+N1s=1.043e+05, N2s=5.409e-03, N2p=1.909e-02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=6.300e+06GeV, T=3.093e+06years
+N1s=1.656e+05, N2s=3.606e-03, N2p=1.223e-02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=8.000e+06GeV, T=8.043e+06years
+N1s=2.670e+05, N2s=2.445e-03, N2p=7.803e-03
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.000e+07GeV, T=7.338e+09years
+N1s=4.172e+05, N2s=1.764e-03, N2p=5.204e-03
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.250e+07GeV, T=1.154e+10years
+N1s=6.518e+05, N2s=1.329e-03, N2p=3.542e-03
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.600e+07GeV, T=9.511e+08years
+N1s=1.068e+06, N2s=1.028e-03, N2p=2.391e-03
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=2.000e+07GeV, T=9.923e+07years
+N1s=1.669e+06, N2s=8.581e-04, N2p=1.742e-03
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=2.500e+07GeV, T=1.753e+08years
+N1s=2.607e+06, N2s=7.496e-04, N2p=1.327e-03
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=3.150e+07GeV, T=2.630e+08years
+N1s=4.139e+06, N2s=6.782e-04, N2p=1.054e-03
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=4.000e+07GeV, T=7.045e+08years
+N1s=6.675e+06, N2s=6.320e-04, N2p=8.771e-04
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=5.000e+07GeV, T=1.267e+09years
+N1s=1.043e+07, N2s=6.048e-04, N2p=7.734e-04
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=6.300e+07GeV, T=3.293e+09years
+N1s=1.656e+07, N2s=5.870e-04, N2p=7.051e-04
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=8.000e+07GeV, T=8.032e+09years
+N1s=2.670e+07, N2s=5.754e-04, N2p=6.609e-04
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.000e+08GeV, T=1.500e+10years
+N1s=2.630e+06, N2s=7.479e-04, N2p=1.321e-03
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.250e+08GeV, T=1.500e+10years
+N1s=1.191e+03, N2s=3.939e+01, N2p=1.407e+02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.600e+08GeV, T=1.500e+10years
+N1s=2.604e-03, N2s=2.077e+01, N2p=2.117e+01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=2.000e+08GeV, T=1.500e+10years
+N1s=2.708e-04, N2s=4.503e+00, N2p=4.576e+00
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=2.500e+08GeV, T=1.500e+10years
+N1s=1.422e-04, N2s=1.459e+00, N2p=1.480e+00
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=3.150e+08GeV, T=1.500e+10years
+N1s=1.142e-04, N2s=5.277e-01, N2p=5.344e-01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=4.000e+08GeV, T=1.501e+10years
+N1s=1.052e-04, N2s=1.958e-01, N2p=1.981e-01
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=5.000e+08GeV, T=1.501e+10years
+N1s=1.021e-04, N2s=7.917e-02, N2p=8.011e-02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=6.300e+08GeV, T=1.501e+10years
+N1s=1.008e-04, N2s=3.130e-02, N2p=3.166e-02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=8.000e+08GeV, T=1.501e+10years
+N1s=1.003e-04, N2s=1.207e-02, N2p=1.221e-02
+Found a match for (5.000e+00, 4.000e-03) with 129 elements
+xi=5.000e+00, f=1.000e+09GeV, T=1.501e+10years
+N1s=1.001e-04, N2s=5.000e-03, N2p=5.057e-03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.000e+04GeV, T=2.545e-05years
+N1s=8.345e-01, N2s=4.451e+01, N2p=4.451e+01
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.250e+04GeV, T=5.185e-05years
+N1s=1.304e+00, N2s=6.954e+01, N2p=6.954e+01
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.600e+04GeV, T=9.784e-05years
+N1s=2.136e+00, N2s=1.139e+02, N2p=1.139e+02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=2.000e+04GeV, T=1.705e-04years
+N1s=3.338e+00, N2s=1.780e+02, N2p=1.780e+02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=2.500e+04GeV, T=2.816e-04years
+N1s=5.215e+00, N2s=2.782e+02, N2p=2.782e+02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=3.150e+04GeV, T=4.451e-04years
+N1s=8.280e+00, N2s=4.416e+02, N2p=4.416e+02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=4.000e+04GeV, T=8.228e-04years
+N1s=1.335e+01, N2s=7.121e+02, N2p=7.121e+02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=5.000e+04GeV, T=1.860e-03years
+N1s=2.086e+01, N2s=1.113e+03, N2p=1.113e+03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=6.300e+04GeV, T=1.233e-02years
+N1s=3.312e+01, N2s=1.275e+03, N2p=1.726e+03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=8.000e+04GeV, T=3.557e-02years
+N1s=5.341e+01, N2s=7.252e+02, N2p=1.001e+03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.000e+05GeV, T=1.090e-01years
+N1s=8.345e+01, N2s=4.048e+02, N2p=5.720e+02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.250e+05GeV, T=3.538e-01years
+N1s=1.304e+02, N2s=2.025e+02, N2p=2.965e+02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.600e+05GeV, T=1.683e+00years
+N1s=2.136e+02, N2s=6.712e+01, N2p=1.048e+02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=2.000e+05GeV, T=1.257e+01years
+N1s=3.338e+02, N2s=4.266e+00, N2p=7.372e+00
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=2.500e+05GeV, T=1.625e+01years
+N1s=5.215e+02, N2s=4.386e-01, N2p=8.732e-01
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=3.150e+05GeV, T=4.111e+01years
+N1s=8.280e+02, N2s=1.558e-01, N2p=3.595e-01
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=4.000e+05GeV, T=1.053e+02years
+N1s=1.335e+03, N2s=7.002e-02, N2p=1.855e-01
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=5.000e+05GeV, T=2.544e+02years
+N1s=2.086e+03, N2s=3.693e-02, N2p=1.090e-01
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=6.300e+05GeV, T=6.352e+02years
+N1s=3.312e+03, N2s=2.032e-02, N2p=6.541e-02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=8.000e+05GeV, T=1.642e+03years
+N1s=5.341e+03, N2s=1.148e-02, N2p=3.943e-02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.000e+06GeV, T=4.004e+03years
+N1s=8.345e+03, N2s=6.936e-03, N2p=2.485e-02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.250e+06GeV, T=9.776e+03years
+N1s=1.304e+04, N2s=4.272e-03, N2p=1.575e-02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.600e+06GeV, T=2.624e+04years
+N1s=2.136e+04, N2s=2.538e-03, N2p=9.555e-03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=2.000e+06GeV, T=6.407e+04years
+N1s=3.338e+04, N2s=1.599e-03, N2p=6.094e-03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=2.500e+06GeV, T=1.564e+05years
+N1s=5.215e+04, N2s=1.013e-03, N2p=3.891e-03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=3.150e+06GeV, T=3.942e+05years
+N1s=8.280e+04, N2s=6.339e-04, N2p=2.448e-03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=4.000e+06GeV, T=1.025e+06years
+N1s=1.335e+05, N2s=3.915e-04, N2p=1.517e-03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=5.000e+06GeV, T=2.503e+06years
+N1s=2.086e+05, N2s=2.499e-04, N2p=9.701e-04
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=6.300e+06GeV, T=5.295e+06years
+N1s=3.312e+05, N2s=1.572e-04, N2p=6.109e-04
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=8.000e+06GeV, T=8.840e+06years
+N1s=5.341e+05, N2s=9.743e-05, N2p=3.788e-04
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.000e+07GeV, T=3.921e+07years
+N1s=8.345e+05, N2s=6.235e-05, N2p=2.424e-04
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.250e+07GeV, T=2.632e+07years
+N1s=1.304e+06, N2s=3.993e-05, N2p=1.552e-04
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.600e+07GeV, T=5.181e+07years
+N1s=2.136e+06, N2s=2.440e-05, N2p=9.475e-05
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=2.000e+07GeV, T=1.013e+08years
+N1s=3.338e+06, N2s=1.565e-05, N2p=6.068e-05
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=2.500e+07GeV, T=2.100e+08years
+N1s=5.215e+06, N2s=1.006e-05, N2p=3.887e-05
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=3.150e+07GeV, T=4.706e+08years
+N1s=8.280e+06, N2s=6.379e-06, N2p=2.453e-05
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=4.000e+07GeV, T=1.136e+09years
+N1s=1.335e+07, N2s=3.992e-06, N2p=1.525e-05
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=5.000e+07GeV, T=2.855e+09years
+N1s=2.086e+07, N2s=2.759e-06, N2p=9.801e-06
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=6.300e+07GeV, T=6.933e+09years
+N1s=3.312e+07, N2s=1.672e-06, N2p=6.214e-06
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=8.000e+07GeV, T=1.500e+10years
+N1s=4.379e+06, N2s=1.196e-05, N2p=4.628e-05
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.000e+08GeV, T=1.500e+10years
+N1s=1.157e+00, N2s=1.739e+02, N2p=1.769e+02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.250e+08GeV, T=1.500e+10years
+N1s=1.375e-03, N2s=4.566e+00, N2p=4.646e+00
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.600e+08GeV, T=1.500e+10years
+N1s=2.614e-04, N2s=6.372e-01, N2p=6.494e-01
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=2.000e+08GeV, T=1.501e+10years
+N1s=1.481e-04, N2s=1.931e-01, N2p=1.972e-01
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=2.500e+08GeV, T=1.500e+10years
+N1s=1.174e-04, N2s=7.038e-02, N2p=7.198e-02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=3.150e+08GeV, T=1.501e+10years
+N1s=1.066e-04, N2s=2.669e-02, N2p=2.732e-02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=4.000e+08GeV, T=1.501e+10years
+N1s=1.025e-04, N2s=1.013e-02, N2p=1.037e-02
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=5.000e+08GeV, T=1.501e+10years
+N1s=1.010e-04, N2s=4.180e-03, N2p=4.279e-03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=6.300e+08GeV, T=1.500e+10years
+N1s=1.004e-04, N2s=1.713e-03, N2p=1.752e-03
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=8.000e+08GeV, T=1.503e+10years
+N1s=1.002e-04, N2s=7.210e-04, N2p=7.361e-04
+Found a match for (6.300e+00, 5.040e-03) with 129 elements
+xi=6.300e+00, f=1.000e+09GeV, T=1.503e+10years
+N1s=1.001e-04, N2s=3.542e-04, N2p=3.604e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.000e+04GeV, T=3.845e-05years
+N1s=1.709e+00, N2s=9.113e+01, N2p=9.113e+01
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.250e+04GeV, T=6.801e-05years
+N1s=2.670e+00, N2s=1.424e+02, N2p=1.424e+02
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.600e+04GeV, T=1.265e-04years
+N1s=4.374e+00, N2s=2.333e+02, N2p=2.333e+02
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=2.000e+04GeV, T=2.129e-04years
+N1s=6.835e+00, N2s=3.645e+02, N2p=3.645e+02
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=2.500e+04GeV, T=3.778e-04years
+N1s=1.068e+01, N2s=5.696e+02, N2p=5.696e+02
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=3.150e+04GeV, T=7.722e-04years
+N1s=1.695e+01, N2s=9.042e+02, N2p=9.042e+02
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=4.000e+04GeV, T=2.450e-03years
+N1s=2.734e+01, N2s=1.288e+03, N2p=1.458e+03
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=5.000e+04GeV, T=1.190e-02years
+N1s=4.272e+01, N2s=9.875e+02, N2p=1.228e+03
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=6.300e+04GeV, T=3.311e-02years
+N1s=6.782e+01, N2s=5.573e+02, N2p=7.028e+02
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=8.000e+04GeV, T=1.275e-01years
+N1s=1.094e+02, N2s=2.811e+02, N2p=3.619e+02
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.000e+05GeV, T=4.016e-01years
+N1s=1.709e+02, N2s=1.210e+02, N2p=1.604e+02
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.250e+05GeV, T=3.072e+00years
+N1s=2.670e+02, N2s=2.187e+01, N2p=3.042e+01
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.600e+05GeV, T=5.848e+00years
+N1s=4.374e+02, N2s=1.109e-02, N2p=1.733e-02
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=2.000e+05GeV, T=1.439e+01years
+N1s=6.835e+02, N2s=3.520e-03, N2p=6.303e-03
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=2.500e+05GeV, T=3.437e+01years
+N1s=1.068e+03, N2s=1.577e-03, N2p=3.267e-03
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=3.150e+05GeV, T=8.529e+01years
+N1s=1.695e+03, N2s=7.780e-04, N2p=1.868e-03
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=4.000e+05GeV, T=2.195e+02years
+N1s=2.734e+03, N2s=4.026e-04, N2p=1.107e-03
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=5.000e+05GeV, T=5.320e+02years
+N1s=4.272e+03, N2s=2.277e-04, N2p=6.945e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=6.300e+05GeV, T=1.336e+03years
+N1s=6.782e+03, N2s=1.307e-04, N2p=4.331e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=8.000e+05GeV, T=3.474e+03years
+N1s=1.094e+04, N2s=7.590e-05, N2p=2.672e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.000e+06GeV, T=8.482e+03years
+N1s=1.709e+04, N2s=4.659e-05, N2p=1.706e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.250e+06GeV, T=2.071e+04years
+N1s=2.670e+04, N2s=2.900e-05, N2p=1.090e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.600e+06GeV, T=5.559e+04years
+N1s=4.374e+04, N2s=1.735e-05, N2p=6.648e-05
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=2.000e+06GeV, T=1.357e+05years
+N1s=6.835e+04, N2s=1.097e-05, N2p=4.253e-05
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=2.500e+06GeV, T=3.313e+05years
+N1s=1.068e+05, N2s=6.971e-06, N2p=2.721e-05
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=3.150e+06GeV, T=8.351e+05years
+N1s=1.695e+05, N2s=4.369e-06, N2p=1.714e-05
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=4.000e+06GeV, T=2.121e+06years
+N1s=2.734e+05, N2s=2.701e-06, N2p=1.063e-05
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=5.000e+06GeV, T=3.499e+06years
+N1s=4.272e+05, N2s=2.068e-06, N2p=6.800e-06
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=6.300e+06GeV, T=6.075e+06years
+N1s=6.782e+05, N2s=1.085e-06, N2p=4.283e-06
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=8.000e+06GeV, T=1.221e+07years
+N1s=1.094e+06, N2s=6.725e-07, N2p=2.656e-06
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.000e+07GeV, T=2.079e+07years
+N1s=1.709e+06, N2s=3.539e-56, N2p=1.700e-06
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.250e+07GeV, T=4.264e+07years
+N1s=2.670e+06, N2s=3.539e-56, N2p=1.088e-06
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.600e+07GeV, T=1.014e+08years
+N1s=4.374e+06, N2s=3.539e-56, N2p=6.641e-07
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=2.000e+07GeV, T=2.248e+08years
+N1s=6.835e+06, N2s=3.539e-56, N2p=4.250e-07
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=2.500e+07GeV, T=5.166e+08years
+N1s=1.068e+07, N2s=3.539e-56, N2p=2.720e-07
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=3.150e+07GeV, T=1.234e+09years
+N1s=1.695e+07, N2s=3.539e-56, N2p=1.713e-07
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=4.000e+07GeV, T=3.073e+09years
+N1s=2.734e+07, N2s=3.539e-56, N2p=1.063e-07
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=5.000e+07GeV, T=8.020e+09years
+N1s=4.272e+07, N2s=1.343e-07, N2p=6.574e-08
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=6.300e+07GeV, T=1.500e+10years
+N1s=3.690e+06, N2s=5.101e-07, N2p=7.874e-07
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=8.000e+07GeV, T=1.500e+10years
+N1s=1.986e-01, N2s=8.049e+00, N2p=8.166e+00
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.000e+08GeV, T=1.500e+10years
+N1s=2.141e-03, N2s=1.105e-01, N2p=1.121e-01
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.250e+08GeV, T=1.500e+10years
+N1s=3.507e-04, N2s=1.447e-02, N2p=1.471e-02
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.600e+08GeV, T=1.501e+10years
+N1s=1.596e-04, N2s=3.572e-03, N2p=3.651e-03
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=2.000e+08GeV, T=1.501e+10years
+N1s=1.211e-04, N2s=1.331e-03, N2p=1.367e-03
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=2.500e+08GeV, T=1.502e+10years
+N1s=1.082e-04, N2s=5.761e-04, N2p=5.917e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=3.150e+08GeV, T=1.506e+10years
+N1s=1.032e-04, N2s=2.848e-04, N2p=2.913e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=4.000e+08GeV, T=1.521e+10years
+N1s=1.012e-04, N2s=1.711e-04, N2p=1.737e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=5.000e+08GeV, T=1.539e+10years
+N1s=1.005e-04, N2s=1.293e-04, N2p=1.304e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=6.300e+08GeV, T=1.605e+10years
+N1s=1.002e-04, N2s=1.121e-04, N2p=1.126e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=8.000e+08GeV, T=1.739e+10years
+N1s=1.001e-04, N2s=1.050e-04, N2p=1.052e-04
+Found a match for (8.000e+00, 6.400e-03) with 129 elements
+xi=8.000e+00, f=1.000e+09GeV, T=1.698e+10years
+N1s=1.000e-04, N2s=1.020e-04, N2p=1.021e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.000e+04GeV, T=5.190e-05years
+N1s=3.337e+00, N2s=1.780e+02, N2p=1.780e+02
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.250e+04GeV, T=8.717e-05years
+N1s=5.214e+00, N2s=2.781e+02, N2p=2.781e+02
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.600e+04GeV, T=1.691e-04years
+N1s=8.543e+00, N2s=4.556e+02, N2p=4.556e+02
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=2.000e+04GeV, T=3.370e-04years
+N1s=1.335e+01, N2s=7.120e+02, N2p=7.120e+02
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=2.500e+04GeV, T=7.979e-04years
+N1s=2.086e+01, N2s=1.112e+03, N2p=1.112e+03
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=3.150e+04GeV, T=3.871e-03years
+N1s=3.311e+01, N2s=1.357e+03, N2p=1.568e+03
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=4.000e+04GeV, T=1.097e-02years
+N1s=5.340e+01, N2s=7.720e+02, N2p=9.008e+02
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=5.000e+04GeV, T=3.251e-02years
+N1s=8.343e+01, N2s=4.297e+02, N2p=5.067e+02
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=6.300e+04GeV, T=1.198e-01years
+N1s=1.325e+02, N2s=2.058e+02, N2p=2.465e+02
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=8.000e+04GeV, T=5.752e-01years
+N1s=2.136e+02, N2s=6.298e+01, N2p=7.734e+01
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.000e+05GeV, T=2.793e+00years
+N1s=3.337e+02, N2s=4.337e-05, N2p=5.595e-05
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.250e+05GeV, T=4.595e+00years
+N1s=5.214e+02, N2s=6.908e-06, N2p=9.857e-06
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.600e+05GeV, T=1.215e+01years
+N1s=8.543e+02, N2s=2.569e-06, N2p=4.210e-06
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=2.000e+05GeV, T=2.923e+01years
+N1s=1.335e+03, N2s=1.262e-06, N2p=2.384e-06
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=2.500e+05GeV, T=7.075e+01years
+N1s=2.086e+03, N2s=6.640e-07, N2p=1.454e-06
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=3.150e+05GeV, T=1.771e+02years
+N1s=3.311e+03, N2s=3.563e-07, N2p=9.014e-07
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=4.000e+05GeV, T=4.592e+02years
+N1s=5.340e+03, N2s=1.939e-07, N2p=5.583e-07
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=5.000e+05GeV, T=1.121e+03years
+N1s=8.343e+03, N2s=1.131e-07, N2p=3.585e-07
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=6.300e+05GeV, T=2.826e+03years
+N1s=1.325e+04, N2s=6.636e-08, N2p=2.267e-07
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=8.000e+05GeV, T=7.348e+03years
+N1s=2.136e+04, N2s=3.911e-08, N2p=1.411e-07
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.000e+06GeV, T=1.794e+04years
+N1s=3.337e+04, N2s=2.424e-08, N2p=9.054e-08
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.250e+06GeV, T=4.379e+04years
+N1s=5.214e+04, N2s=1.518e-08, N2p=5.805e-08
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.600e+06GeV, T=1.176e+05years
+N1s=8.543e+04, N2s=9.122e-09, N2p=3.547e-08
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=2.000e+06GeV, T=2.870e+05years
+N1s=1.335e+05, N2s=5.786e-09, N2p=2.272e-08
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=2.500e+06GeV, T=7.007e+05years
+N1s=2.086e+05, N2s=3.682e-09, N2p=1.455e-08
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=3.150e+06GeV, T=1.766e+06years
+N1s=3.311e+05, N2s=1.350e-55, N2p=9.172e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=4.000e+06GeV, T=4.592e+06years
+N1s=5.340e+05, N2s=1.350e-55, N2p=5.694e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=5.000e+06GeV, T=1.121e+07years
+N1s=8.343e+05, N2s=1.350e-55, N2p=3.659e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=6.300e+06GeV, T=2.826e+07years
+N1s=1.325e+06, N2s=1.350e-55, N2p=6.172e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=8.000e+06GeV, T=7.348e+07years
+N1s=2.136e+06, N2s=1.350e-55, N2p=6.172e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.000e+07GeV, T=1.794e+08years
+N1s=3.337e+06, N2s=1.350e-55, N2p=6.172e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.250e+07GeV, T=4.379e+08years
+N1s=5.214e+06, N2s=1.350e-55, N2p=6.172e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.600e+07GeV, T=1.176e+09years
+N1s=8.543e+06, N2s=1.350e-55, N2p=6.172e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=2.000e+07GeV, T=2.870e+09years
+N1s=1.335e+07, N2s=1.350e-55, N2p=6.172e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=2.500e+07GeV, T=7.007e+09years
+N1s=2.086e+07, N2s=1.350e-55, N2p=6.172e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=3.150e+07GeV, T=1.387e+10years
+N1s=3.311e+07, N2s=4.449e-09, N2p=1.350e-55
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=4.000e+07GeV, T=1.500e+10years
+N1s=5.340e+07, N2s=3.674e-09, N2p=1.350e-55
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=5.000e+07GeV, T=1.500e+10years
+N1s=2.536e+07, N2s=1.350e-55, N2p=5.610e-09
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=6.300e+07GeV, T=1.500e+10years
+N1s=2.133e+00, N2s=1.436e+00, N2p=1.455e+00
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=8.000e+07GeV, T=1.500e+10years
+N1s=4.578e-03, N2s=4.104e-03, N2p=4.151e-03
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.000e+08GeV, T=1.503e+10years
+N1s=4.794e-04, N2s=4.671e-04, N2p=4.725e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.250e+08GeV, T=1.511e+10years
+N1s=1.907e-04, N2s=1.894e-04, N2p=1.916e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.600e+08GeV, T=1.517e+10years
+N1s=1.273e-04, N2s=1.268e-04, N2p=1.280e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=2.000e+08GeV, T=1.537e+10years
+N1s=1.105e-04, N2s=1.102e-04, N2p=1.109e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=2.500e+08GeV, T=1.535e+10years
+N1s=1.042e-04, N2s=1.040e-04, N2p=1.043e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=3.150e+08GeV, T=1.720e+10years
+N1s=1.018e-04, N2s=1.018e-04, N2p=1.019e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=4.000e+08GeV, T=2.236e+10years
+N1s=1.009e-04, N2s=1.009e-04, N2p=1.010e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=5.000e+08GeV, T=2.729e+10years
+N1s=1.005e-04, N2s=1.004e-04, N2p=1.005e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=6.300e+08GeV, T=6.878e+10years
+N1s=1.005e-04, N2s=1.004e-04, N2p=1.005e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=8.000e+08GeV, T=1.789e+11years
+N1s=1.005e-04, N2s=1.004e-04, N2p=1.005e-04
+Found a match for (1.000e+01, 8.000e-03) with 129 elements
+xi=1.000e+01, f=1.000e+09GeV, T=4.366e+11years
+N1s=1.005e-04, N2s=1.004e-04, N2p=1.005e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.000e+04GeV, T=6.079e-05years
+N1s=6.518e+00, N2s=3.476e+02, N2p=3.476e+02
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.250e+04GeV, T=1.126e-04years
+N1s=1.018e+01, N2s=5.432e+02, N2p=5.432e+02
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.600e+04GeV, T=2.543e-04years
+N1s=1.669e+01, N2s=8.899e+02, N2p=8.899e+02
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=2.000e+04GeV, T=6.879e-04years
+N1s=2.607e+01, N2s=1.326e+03, N2p=1.391e+03
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=2.500e+04GeV, T=3.130e-03years
+N1s=4.074e+01, N2s=1.084e+03, N2p=1.196e+03
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=3.150e+04GeV, T=8.664e-03years
+N1s=6.468e+01, N2s=6.140e+02, N2p=6.829e+02
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=4.000e+04GeV, T=3.241e-02years
+N1s=1.043e+02, N2s=3.114e+02, N2p=3.495e+02
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=5.000e+04GeV, T=1.302e-01years
+N1s=1.630e+02, N2s=1.346e+02, N2p=1.528e+02
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=6.300e+04GeV, T=8.289e-01years
+N1s=2.587e+02, N2s=1.957e+01, N2p=2.265e+01
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=8.000e+04GeV, T=1.419e+00years
+N1s=4.172e+02, N2s=1.416e-10, N2p=1.741e-10
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.000e+05GeV, T=3.458e+00years
+N1s=6.518e+02, N2s=4.795e-11, N2p=6.437e-11
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.250e+05GeV, T=8.263e+00years
+N1s=1.018e+03, N2s=2.243e-11, N2p=3.366e-11
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.600e+05GeV, T=2.191e+01years
+N1s=1.669e+03, N2s=1.087e-11, N2p=1.891e-11
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=2.000e+05GeV, T=5.315e+01years
+N1s=2.607e+03, N2s=5.896e-12, N2p=1.189e-11
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=2.500e+05GeV, T=1.292e+02years
+N1s=4.074e+03, N2s=3.276e-12, N2p=7.651e-12
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=3.150e+05GeV, T=3.254e+02years
+N1s=6.468e+03, N2s=1.822e-12, N2p=4.891e-12
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=4.000e+05GeV, T=8.462e+02years
+N1s=1.043e+04, N2s=1.018e-12, N2p=3.082e-12
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=5.000e+05GeV, T=2.066e+03years
+N1s=1.630e+04, N2s=6.048e-13, N2p=1.997e-12
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=6.300e+05GeV, T=5.207e+03years
+N1s=2.587e+04, N2s=3.599e-13, N2p=1.270e-12
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=8.000e+05GeV, T=1.354e+04years
+N1s=4.172e+04, N2s=2.143e-13, N2p=7.928e-13
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.000e+06GeV, T=3.305e+04years
+N1s=6.518e+04, N2s=1.337e-13, N2p=5.095e-13
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.250e+06GeV, T=8.070e+04years
+N1s=1.018e+05, N2s=8.411e-14, N2p=3.270e-13
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.600e+06GeV, T=2.166e+05years
+N1s=1.669e+05, N2s=5.072e-14, N2p=2.000e-13
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=2.000e+06GeV, T=5.289e+05years
+N1s=2.607e+05, N2s=3.223e-14, N2p=1.282e-13
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=2.500e+06GeV, T=1.291e+06years
+N1s=4.074e+05, N2s=5.150e-55, N2p=8.218e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=3.150e+06GeV, T=3.254e+06years
+N1s=6.468e+05, N2s=5.150e-55, N2p=5.187e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=4.000e+06GeV, T=8.462e+06years
+N1s=1.043e+06, N2s=5.150e-55, N2p=3.675e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=5.000e+06GeV, T=2.066e+07years
+N1s=1.630e+06, N2s=5.150e-55, N2p=6.377e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=6.300e+06GeV, T=5.207e+07years
+N1s=2.587e+06, N2s=5.150e-55, N2p=6.377e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=8.000e+06GeV, T=1.354e+08years
+N1s=4.172e+06, N2s=5.150e-55, N2p=6.377e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.000e+07GeV, T=3.305e+08years
+N1s=6.518e+06, N2s=5.150e-55, N2p=6.377e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.250e+07GeV, T=8.070e+08years
+N1s=1.018e+07, N2s=5.150e-55, N2p=6.377e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.600e+07GeV, T=2.166e+09years
+N1s=1.669e+07, N2s=5.150e-55, N2p=6.377e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=2.000e+07GeV, T=5.289e+09years
+N1s=2.607e+07, N2s=5.150e-55, N2p=6.377e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=2.500e+07GeV, T=1.291e+10years
+N1s=4.074e+07, N2s=5.150e-55, N2p=6.377e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=3.150e+07GeV, T=1.500e+10years
+N1s=6.468e+07, N2s=5.150e-55, N2p=6.377e-14
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=4.000e+07GeV, T=1.500e+10years
+N1s=1.043e+08, N2s=6.085e-14, N2p=5.150e-55
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=5.000e+07GeV, T=1.500e+10years
+N1s=5.043e+01, N2s=1.777e+01, N2p=1.837e+01
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=6.300e+07GeV, T=1.500e+10years
+N1s=1.627e-02, N2s=1.292e-02, N2p=1.304e-02
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=8.000e+07GeV, T=1.501e+10years
+N1s=7.090e-04, N2s=6.462e-04, N2p=6.521e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.000e+08GeV, T=1.501e+10years
+N1s=2.230e-04, N2s=2.138e-04, N2p=2.158e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.250e+08GeV, T=1.507e+10years
+N1s=1.391e-04, N2s=1.362e-04, N2p=1.374e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.600e+08GeV, T=1.502e+10years
+N1s=1.130e-04, N2s=1.119e-04, N2p=1.126e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=2.000e+08GeV, T=1.572e+10years
+N1s=1.054e-04, N2s=1.048e-04, N2p=1.053e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=2.500e+08GeV, T=1.706e+10years
+N1s=1.024e-04, N2s=1.021e-04, N2p=1.023e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=3.150e+08GeV, T=1.612e+10years
+N1s=1.009e-04, N2s=1.008e-04, N2p=1.009e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=4.000e+08GeV, T=2.795e+10years
+N1s=1.006e-04, N2s=1.005e-04, N2p=1.006e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=5.000e+08GeV, T=3.411e+10years
+N1s=1.003e-04, N2s=1.003e-04, N2p=1.003e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=6.300e+08GeV, T=8.598e+10years
+N1s=1.003e-04, N2s=1.003e-04, N2p=1.003e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=8.000e+08GeV, T=2.236e+11years
+N1s=1.003e-04, N2s=1.003e-04, N2p=1.003e-04
+Found a match for (1.250e+01, 1.000e-02) with 129 elements
+xi=1.250e+01, f=1.000e+09GeV, T=5.458e+11years
+N1s=1.003e-04, N2s=1.003e-04, N2p=1.003e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.000e+04GeV, T=8.699e-05years
+N1s=1.367e+01, N2s=7.290e+02, N2p=7.290e+02
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.250e+04GeV, T=2.057e-04years
+N1s=2.136e+01, N2s=1.139e+03, N2p=1.139e+03
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.600e+04GeV, T=1.059e-03years
+N1s=3.499e+01, N2s=1.306e+03, N2p=1.383e+03
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=2.000e+04GeV, T=2.819e-03years
+N1s=5.468e+01, N2s=7.671e+02, N2p=8.175e+02
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=2.500e+04GeV, T=8.954e-03years
+N1s=8.543e+01, N2s=4.232e+02, N2p=4.539e+02
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=3.150e+04GeV, T=3.340e-02years
+N1s=1.356e+02, N2s=1.978e+02, N2p=2.137e+02
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=4.000e+04GeV, T=1.621e-01years
+N1s=2.187e+02, N2s=5.289e+01, N2p=5.775e+01
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=5.000e+04GeV, T=6.676e-01years
+N1s=3.417e+02, N2s=1.869e-19, N2p=2.093e-19
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=6.300e+04GeV, T=1.127e+00years
+N1s=5.425e+02, N2s=4.089e-20, N2p=4.842e-20
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=8.000e+04GeV, T=2.875e+00years
+N1s=8.748e+02, N2s=1.721e-20, N2p=2.212e-20
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.000e+05GeV, T=6.927e+00years
+N1s=1.367e+03, N2s=8.906e-21, N2p=1.266e-20
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.250e+05GeV, T=1.678e+01years
+N1s=2.136e+03, N2s=4.856e-21, N2p=7.821e-21
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.600e+05GeV, T=4.483e+01years
+N1s=3.499e+03, N2s=2.544e-21, N2p=4.802e-21
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=2.000e+05GeV, T=1.093e+02years
+N1s=5.468e+03, N2s=1.434e-21, N2p=3.147e-21
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=2.500e+05GeV, T=2.668e+02years
+N1s=8.543e+03, N2s=8.173e-22, N2p=2.071e-21
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=3.150e+05GeV, T=6.724e+02years
+N1s=1.356e+04, N2s=4.640e-22, N2p=1.340e-21
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=4.000e+05GeV, T=1.748e+03years
+N1s=2.187e+04, N2s=2.639e-22, N2p=8.496e-22
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=5.000e+05GeV, T=4.269e+03years
+N1s=3.417e+04, N2s=1.588e-22, N2p=5.519e-22
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=6.300e+05GeV, T=1.076e+04years
+N1s=5.425e+04, N2s=9.556e-23, N2p=3.514e-22
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=8.000e+05GeV, T=2.797e+04years
+N1s=8.748e+04, N2s=5.737e-23, N2p=2.196e-22
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.000e+06GeV, T=6.830e+04years
+N1s=1.367e+05, N2s=3.598e-23, N2p=1.412e-22
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.250e+06GeV, T=1.667e+05years
+N1s=2.136e+05, N2s=2.272e-23, N2p=9.062e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.600e+06GeV, T=4.476e+05years
+N1s=3.499e+05, N2s=2.265e-54, N2p=5.550e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=2.000e+06GeV, T=1.093e+06years
+N1s=5.468e+05, N2s=2.265e-54, N2p=3.562e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=2.500e+06GeV, T=2.668e+06years
+N1s=8.543e+05, N2s=2.265e-54, N2p=2.295e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=3.150e+06GeV, T=6.724e+06years
+N1s=1.356e+06, N2s=2.265e-54, N2p=3.648e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=4.000e+06GeV, T=1.748e+07years
+N1s=2.187e+06, N2s=2.265e-54, N2p=3.648e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=5.000e+06GeV, T=4.269e+07years
+N1s=3.417e+06, N2s=2.265e-54, N2p=3.648e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=6.300e+06GeV, T=1.076e+08years
+N1s=5.425e+06, N2s=2.265e-54, N2p=3.648e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=8.000e+06GeV, T=2.797e+08years
+N1s=8.748e+06, N2s=2.265e-54, N2p=3.648e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.000e+07GeV, T=6.830e+08years
+N1s=1.367e+07, N2s=2.265e-54, N2p=3.648e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.250e+07GeV, T=1.667e+09years
+N1s=2.136e+07, N2s=2.265e-54, N2p=3.648e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.600e+07GeV, T=4.476e+09years
+N1s=3.499e+07, N2s=2.265e-54, N2p=3.648e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=2.000e+07GeV, T=1.093e+10years
+N1s=5.468e+07, N2s=2.265e-54, N2p=3.648e-23
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=2.500e+07GeV, T=1.500e+10years
+N1s=8.543e+07, N2s=3.431e-23, N2p=2.265e-54
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=3.150e+07GeV, T=1.500e+10years
+N1s=1.356e+08, N2s=3.431e-23, N2p=2.265e-54
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=4.000e+07GeV, T=1.500e+10years
+N1s=8.880e+02, N2s=1.052e+01, N2p=1.374e+01
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=5.000e+07GeV, T=1.500e+10years
+N1s=4.547e-02, N2s=3.426e-02, N2p=3.451e-02
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=6.300e+07GeV, T=1.501e+10years
+N1s=1.134e-03, N2s=1.010e-03, N2p=1.018e-03
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=8.000e+07GeV, T=1.501e+10years
+N1s=2.544e-04, N2s=2.426e-04, N2p=2.443e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.000e+08GeV, T=1.507e+10years
+N1s=1.468e-04, N2s=1.435e-04, N2p=1.446e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.250e+08GeV, T=1.501e+10years
+N1s=1.170e-04, N2s=1.155e-04, N2p=1.163e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.600e+08GeV, T=1.511e+10years
+N1s=1.061e-04, N2s=1.054e-04, N2p=1.059e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=2.000e+08GeV, T=1.565e+10years
+N1s=1.025e-04, N2s=1.022e-04, N2p=1.025e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=2.500e+08GeV, T=1.637e+10years
+N1s=1.011e-04, N2s=1.009e-04, N2p=1.011e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=3.150e+08GeV, T=2.064e+10years
+N1s=1.005e-04, N2s=1.005e-04, N2p=1.005e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=4.000e+08GeV, T=1.789e+10years
+N1s=1.002e-04, N2s=1.002e-04, N2p=1.002e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=5.000e+08GeV, T=4.366e+10years
+N1s=1.002e-04, N2s=1.002e-04, N2p=1.002e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=6.300e+08GeV, T=1.101e+11years
+N1s=1.002e-04, N2s=1.002e-04, N2p=1.002e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=8.000e+08GeV, T=2.862e+11years
+N1s=1.002e-04, N2s=1.002e-04, N2p=1.002e-04
+Found a match for (1.600e+01, 1.280e-02) with 129 elements
+xi=1.600e+01, f=1.000e+09GeV, T=6.986e+11years
+N1s=1.002e-04, N2s=1.002e-04, N2p=1.002e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.000e+04GeV, T=1.690e-04years
+N1s=2.670e+01, N2s=1.406e+03, N2p=1.424e+03
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.250e+04GeV, T=7.853e-04years
+N1s=4.172e+01, N2s=1.071e+03, N2p=1.108e+03
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.600e+04GeV, T=2.436e-03years
+N1s=6.835e+01, N2s=5.783e+02, N2p=6.031e+02
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=2.000e+04GeV, T=8.441e-03years
+N1s=1.068e+02, N2s=3.018e+02, N2p=3.167e+02
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=2.500e+04GeV, T=2.832e-02years
+N1s=1.669e+02, N2s=1.254e+02, N2p=1.325e+02
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=3.150e+04GeV, T=3.181e-01years
+N1s=2.649e+02, N2s=1.006e+01, N2p=1.071e+01
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=4.000e+04GeV, T=3.669e-01years
+N1s=4.272e+02, N2s=1.086e-33, N2p=1.194e-33
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=5.000e+04GeV, T=8.901e-01years
+N1s=6.675e+02, N2s=4.037e-34, N2p=4.648e-34
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=6.300e+04GeV, T=2.199e+00years
+N1s=1.060e+03, N2s=1.941e-34, N2p=2.393e-34
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=8.000e+04GeV, T=5.664e+00years
+N1s=1.709e+03, N2s=1.008e-34, N2p=1.369e-34
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.000e+05GeV, T=1.375e+01years
+N1s=2.670e+03, N2s=5.653e-35, N2p=8.632e-35
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.250e+05GeV, T=3.346e+01years
+N1s=4.172e+03, N2s=3.204e-35, N2p=5.623e-35
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.600e+05GeV, T=8.977e+01years
+N1s=6.835e+03, N2s=1.715e-35, N2p=3.564e-35
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=2.000e+05GeV, T=2.192e+02years
+N1s=1.068e+04, N2s=9.781e-36, N2p=2.370e-35
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=2.500e+05GeV, T=5.351e+02years
+N1s=1.669e+04, N2s=5.631e-36, N2p=1.571e-35
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=3.150e+05GeV, T=1.349e+03years
+N1s=2.649e+04, N2s=3.229e-36, N2p=1.019e-35
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=4.000e+05GeV, T=3.507e+03years
+N1s=4.272e+04, N2s=1.855e-36, N2p=6.460e-36
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=5.000e+05GeV, T=8.561e+03years
+N1s=6.675e+04, N2s=1.126e-36, N2p=4.195e-36
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=6.300e+05GeV, T=2.158e+04years
+N1s=1.060e+05, N2s=6.821e-37, N2p=2.669e-36
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=8.000e+05GeV, T=5.611e+04years
+N1s=1.709e+05, N2s=4.116e-37, N2p=1.667e-36
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.000e+06GeV, T=1.370e+05years
+N1s=2.670e+05, N2s=2.590e-37, N2p=1.071e-36
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.250e+06GeV, T=3.344e+05years
+N1s=4.172e+05, N2s=8.640e-54, N2p=6.896e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.600e+06GeV, T=8.977e+05years
+N1s=6.835e+05, N2s=8.640e-54, N2p=4.236e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=2.000e+06GeV, T=2.192e+06years
+N1s=1.068e+06, N2s=8.640e-54, N2p=5.579e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=2.500e+06GeV, T=5.351e+06years
+N1s=1.669e+06, N2s=8.640e-54, N2p=5.579e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=3.150e+06GeV, T=1.349e+07years
+N1s=2.649e+06, N2s=8.640e-54, N2p=5.579e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=4.000e+06GeV, T=3.507e+07years
+N1s=4.272e+06, N2s=8.640e-54, N2p=5.579e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=5.000e+06GeV, T=8.561e+07years
+N1s=6.675e+06, N2s=8.640e-54, N2p=5.579e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=6.300e+06GeV, T=2.158e+08years
+N1s=1.060e+07, N2s=8.640e-54, N2p=5.579e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=8.000e+06GeV, T=5.611e+08years
+N1s=1.709e+07, N2s=8.640e-54, N2p=5.579e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.000e+07GeV, T=1.370e+09years
+N1s=2.670e+07, N2s=8.640e-54, N2p=5.579e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.250e+07GeV, T=3.344e+09years
+N1s=4.172e+07, N2s=8.640e-54, N2p=5.579e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.600e+07GeV, T=8.977e+09years
+N1s=6.835e+07, N2s=8.640e-54, N2p=5.579e-37
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=2.000e+07GeV, T=1.500e+10years
+N1s=1.068e+08, N2s=5.050e-37, N2p=8.640e-54
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=2.500e+07GeV, T=1.500e+10years
+N1s=1.669e+08, N2s=5.050e-37, N2p=8.640e-54
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=3.150e+07GeV, T=1.500e+10years
+N1s=1.315e+05, N2s=5.430e-37, N2p=2.167e-36
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=4.000e+07GeV, T=1.500e+10years
+N1s=2.105e-01, N2s=1.466e-01, N2p=1.475e-01
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=5.000e+07GeV, T=1.500e+10years
+N1s=2.295e-03, N2s=1.976e-03, N2p=1.988e-03
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=6.300e+07GeV, T=1.500e+10years
+N1s=3.467e-04, N2s=3.258e-04, N2p=3.278e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=8.000e+07GeV, T=1.501e+10years
+N1s=1.613e-04, N2s=1.571e-04, N2p=1.580e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.000e+08GeV, T=1.506e+10years
+N1s=1.217e-04, N2s=1.201e-04, N2p=1.208e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.250e+08GeV, T=1.514e+10years
+N1s=1.084e-04, N2s=1.076e-04, N2p=1.082e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.600e+08GeV, T=1.545e+10years
+N1s=1.031e-04, N2s=1.027e-04, N2p=1.031e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=2.000e+08GeV, T=1.537e+10years
+N1s=1.013e-04, N2s=1.011e-04, N2p=1.012e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=2.500e+08GeV, T=1.706e+10years
+N1s=1.006e-04, N2s=1.005e-04, N2p=1.006e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=3.150e+08GeV, T=1.720e+10years
+N1s=1.002e-04, N2s=1.002e-04, N2p=1.002e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=4.000e+08GeV, T=2.236e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=5.000e+08GeV, T=5.458e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=6.300e+08GeV, T=1.376e+11years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=8.000e+08GeV, T=3.577e+11years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (2.000e+01, 1.600e-02) with 129 elements
+xi=2.000e+01, f=1.000e+09GeV, T=8.733e+11years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.000e+04GeV, T=6.941e-04years
+N1s=5.214e+01, N2s=8.203e+02, N2p=8.358e+02
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.250e+04GeV, T=1.970e-03years
+N1s=8.148e+01, N2s=4.552e+02, N2p=4.677e+02
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.600e+04GeV, T=8.265e-03years
+N1s=1.335e+02, N2s=2.034e+02, N2p=2.105e+02
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=2.000e+04GeV, T=3.467e-02years
+N1s=2.086e+02, N2s=6.201e+01, N2p=6.459e+01
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=2.500e+04GeV, T=1.677e-01years
+N1s=3.259e+02, N2s=4.293e-19, N2p=4.523e-19
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=3.150e+04GeV, T=2.832e-01years
+N1s=5.174e+02, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=4.000e+04GeV, T=7.217e-01years
+N1s=8.343e+02, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=5.000e+04GeV, T=1.740e+00years
+N1s=1.304e+03, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=6.300e+04GeV, T=4.358e+00years
+N1s=2.070e+03, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=8.000e+04GeV, T=1.127e+01years
+N1s=3.337e+03, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.000e+05GeV, T=2.749e+01years
+N1s=5.214e+03, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.250e+05GeV, T=6.712e+01years
+N1s=8.148e+03, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.600e+05GeV, T=1.802e+02years
+N1s=1.335e+04, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=2.000e+05GeV, T=4.399e+02years
+N1s=2.086e+04, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=2.500e+05GeV, T=1.074e+03years
+N1s=3.259e+04, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=3.150e+05GeV, T=2.707e+03years
+N1s=5.174e+04, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=4.000e+05GeV, T=7.038e+03years
+N1s=8.343e+04, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=5.000e+05GeV, T=1.718e+04years
+N1s=1.304e+05, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=6.300e+05GeV, T=4.331e+04years
+N1s=2.070e+05, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=8.000e+05GeV, T=1.126e+05years
+N1s=3.337e+05, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.000e+06GeV, T=2.749e+05years
+N1s=5.214e+05, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.250e+06GeV, T=6.712e+05years
+N1s=8.148e+05, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.600e+06GeV, T=1.802e+06years
+N1s=1.335e+06, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=2.000e+06GeV, T=4.399e+06years
+N1s=2.086e+06, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=2.500e+06GeV, T=1.074e+07years
+N1s=3.259e+06, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=3.150e+06GeV, T=2.707e+07years
+N1s=5.174e+06, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=4.000e+06GeV, T=7.038e+07years
+N1s=8.343e+06, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=5.000e+06GeV, T=1.718e+08years
+N1s=1.304e+07, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=6.300e+06GeV, T=4.331e+08years
+N1s=2.070e+07, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=8.000e+06GeV, T=1.126e+09years
+N1s=3.337e+07, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.000e+07GeV, T=2.749e+09years
+N1s=5.214e+07, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.250e+07GeV, T=6.712e+09years
+N1s=8.148e+07, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.600e+07GeV, T=1.500e+10years
+N1s=1.335e+08, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=2.000e+07GeV, T=1.500e+10years
+N1s=2.086e+08, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=2.500e+07GeV, T=1.500e+10years
+N1s=4.229e+07, N2s=3.296e-53, N2p=3.296e-53
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=3.150e+07GeV, T=1.500e+10years
+N1s=2.716e+00, N2s=1.619e+00, N2p=1.629e+00
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=4.000e+07GeV, T=1.500e+10years
+N1s=5.024e-03, N2s=4.159e-03, N2p=4.184e-03
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=5.000e+07GeV, T=1.501e+10years
+N1s=4.982e-04, N2s=4.598e-04, N2p=4.625e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=6.300e+07GeV, T=1.502e+10years
+N1s=1.891e-04, N2s=1.827e-04, N2p=1.838e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=8.000e+07GeV, T=1.501e+10years
+N1s=1.278e-04, N2s=1.257e-04, N2p=1.265e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.000e+08GeV, T=1.511e+10years
+N1s=1.106e-04, N2s=1.096e-04, N2p=1.103e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.250e+08GeV, T=1.519e+10years
+N1s=1.042e-04, N2s=1.037e-04, N2p=1.042e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.600e+08GeV, T=1.502e+10years
+N1s=1.015e-04, N2s=1.013e-04, N2p=1.015e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=2.000e+08GeV, T=1.572e+10years
+N1s=1.007e-04, N2s=1.005e-04, N2p=1.007e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=2.500e+08GeV, T=1.706e+10years
+N1s=1.003e-04, N2s=1.002e-04, N2p=1.003e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=3.150e+08GeV, T=2.150e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=4.000e+08GeV, T=2.795e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=5.000e+08GeV, T=6.823e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=6.300e+08GeV, T=1.720e+11years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=8.000e+08GeV, T=4.471e+11years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (2.500e+01, 2.000e-02) with 129 elements
+xi=2.500e+01, f=1.000e+09GeV, T=1.092e+12years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.000e+04GeV, T=2.111e-03years
+N1s=1.043e+02, N2s=3.134e+02, N2p=3.196e+02
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.250e+04GeV, T=6.719e-03years
+N1s=1.630e+02, N2s=1.317e+02, N2p=1.354e+02
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.600e+04GeV, T=1.209e-01years
+N1s=2.670e+02, N2s=6.493e+00, N2p=6.727e+00
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=2.000e+04GeV, T=9.291e-02years
+N1s=4.172e+02, N2s=6.287e-37, N2p=6.615e-37
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=2.500e+04GeV, T=2.254e-01years
+N1s=6.519e+02, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=3.150e+04GeV, T=5.576e-01years
+N1s=1.035e+03, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=4.000e+04GeV, T=1.436e+00years
+N1s=1.669e+03, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=5.000e+04GeV, T=3.488e+00years
+N1s=2.608e+03, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=6.300e+04GeV, T=8.763e+00years
+N1s=4.140e+03, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=8.000e+04GeV, T=2.279e+01years
+N1s=6.676e+03, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.000e+05GeV, T=5.563e+01years
+N1s=1.043e+04, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.250e+05GeV, T=1.358e+02years
+N1s=1.630e+04, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.600e+05GeV, T=3.646e+02years
+N1s=2.670e+04, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=2.000e+05GeV, T=8.900e+02years
+N1s=4.172e+04, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=2.500e+05GeV, T=2.173e+03years
+N1s=6.519e+04, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=3.150e+05GeV, T=5.477e+03years
+N1s=1.035e+05, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=4.000e+05GeV, T=1.424e+04years
+N1s=1.669e+05, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=5.000e+05GeV, T=3.477e+04years
+N1s=2.608e+05, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=6.300e+05GeV, T=8.763e+04years
+N1s=4.140e+05, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=8.000e+05GeV, T=2.279e+05years
+N1s=6.676e+05, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.000e+06GeV, T=5.563e+05years
+N1s=1.043e+06, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.250e+06GeV, T=1.358e+06years
+N1s=1.630e+06, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.600e+06GeV, T=3.646e+06years
+N1s=2.670e+06, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=2.000e+06GeV, T=8.900e+06years
+N1s=4.172e+06, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=2.500e+06GeV, T=2.173e+07years
+N1s=6.519e+06, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=3.150e+06GeV, T=5.477e+07years
+N1s=1.035e+07, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=4.000e+06GeV, T=1.424e+08years
+N1s=1.669e+07, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=5.000e+06GeV, T=3.477e+08years
+N1s=2.608e+07, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=6.300e+06GeV, T=8.763e+08years
+N1s=4.140e+07, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=8.000e+06GeV, T=2.279e+09years
+N1s=6.676e+07, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.000e+07GeV, T=5.563e+09years
+N1s=1.043e+08, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.250e+07GeV, T=1.358e+10years
+N1s=1.630e+08, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.600e+07GeV, T=1.500e+10years
+N1s=2.670e+08, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=2.000e+07GeV, T=1.500e+10years
+N1s=4.172e+08, N2s=1.319e-52, N2p=1.319e-52
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=2.500e+07GeV, T=1.500e+10years
+N1s=4.985e+01, N2s=1.720e+01, N2p=1.739e+01
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=3.150e+07GeV, T=1.500e+10years
+N1s=1.628e-02, N2s=1.270e-02, N2p=1.278e-02
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=4.000e+07GeV, T=1.501e+10years
+N1s=7.094e-04, N2s=6.429e-04, N2p=6.470e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=5.000e+07GeV, T=1.502e+10years
+N1s=2.233e-04, N2s=2.139e-04, N2p=2.152e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=6.300e+07GeV, T=1.500e+10years
+N1s=1.375e-04, N2s=1.348e-04, N2p=1.356e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=8.000e+07GeV, T=1.502e+10years
+N1s=1.130e-04, N2s=1.118e-04, N2p=1.126e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.000e+08GeV, T=1.510e+10years
+N1s=1.052e-04, N2s=1.045e-04, N2p=1.051e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.250e+08GeV, T=1.511e+10years
+N1s=1.021e-04, N2s=1.017e-04, N2p=1.021e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.600e+08GeV, T=1.532e+10years
+N1s=1.008e-04, N2s=1.006e-04, N2p=1.008e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=2.000e+08GeV, T=1.540e+10years
+N1s=1.003e-04, N2s=1.002e-04, N2p=1.003e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=2.500e+08GeV, T=1.612e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=3.150e+08GeV, T=2.708e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=4.000e+08GeV, T=3.521e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=5.000e+08GeV, T=8.596e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=6.300e+08GeV, T=2.167e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=8.000e+08GeV, T=5.634e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (3.150e+01, 2.520e-02) with 129 elements
+xi=3.150e+01, f=1.000e+09GeV, T=1.375e+12years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.000e+04GeV, T=9.677e-03years
+N1s=2.136e+02, N2s=5.522e+01, N2p=5.704e+01
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.250e+04GeV, T=4.334e-02years
+N1s=3.337e+02, N2s=4.994e-23, N2p=5.226e-23
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.600e+04GeV, T=7.784e-02years
+N1s=5.468e+02, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=2.000e+04GeV, T=1.861e-01years
+N1s=8.543e+02, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=2.500e+04GeV, T=4.490e-01years
+N1s=1.335e+03, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=3.150e+04GeV, T=1.124e+00years
+N1s=2.119e+03, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=4.000e+04GeV, T=2.909e+00years
+N1s=3.417e+03, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=5.000e+04GeV, T=7.095e+00years
+N1s=5.340e+03, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=6.300e+04GeV, T=1.788e+01years
+N1s=8.477e+03, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=8.000e+04GeV, T=4.650e+01years
+N1s=1.367e+04, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.000e+05GeV, T=1.135e+02years
+N1s=2.136e+04, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.250e+05GeV, T=2.772e+02years
+N1s=3.337e+04, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.600e+05GeV, T=7.440e+02years
+N1s=5.468e+04, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=2.000e+05GeV, T=1.816e+03years
+N1s=8.543e+04, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=2.500e+05GeV, T=4.435e+03years
+N1s=1.335e+05, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=3.150e+05GeV, T=1.118e+04years
+N1s=2.119e+05, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=4.000e+05GeV, T=2.906e+04years
+N1s=3.417e+05, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=5.000e+05GeV, T=7.095e+04years
+N1s=5.340e+05, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=6.300e+05GeV, T=1.788e+05years
+N1s=8.477e+05, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=8.000e+05GeV, T=4.650e+05years
+N1s=1.367e+06, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.000e+06GeV, T=1.135e+06years
+N1s=2.136e+06, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.250e+06GeV, T=2.772e+06years
+N1s=3.337e+06, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.600e+06GeV, T=7.440e+06years
+N1s=5.468e+06, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=2.000e+06GeV, T=1.816e+07years
+N1s=8.543e+06, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=2.500e+06GeV, T=4.435e+07years
+N1s=1.335e+07, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=3.150e+06GeV, T=1.118e+08years
+N1s=2.119e+07, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=4.000e+06GeV, T=2.906e+08years
+N1s=3.417e+07, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=5.000e+06GeV, T=7.095e+08years
+N1s=5.340e+07, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=6.300e+06GeV, T=1.788e+09years
+N1s=8.477e+07, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=8.000e+06GeV, T=4.650e+09years
+N1s=1.367e+08, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.000e+07GeV, T=1.135e+10years
+N1s=2.136e+08, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.250e+07GeV, T=1.500e+10years
+N1s=3.337e+08, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.600e+07GeV, T=1.500e+10years
+N1s=5.468e+08, N2s=5.530e-52, N2p=5.530e-52
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=2.000e+07GeV, T=1.500e+10years
+N1s=1.302e+03, N2s=3.924e+00, N2p=4.551e+00
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=2.500e+07GeV, T=1.500e+10years
+N1s=5.295e-02, N2s=3.880e-02, N2p=3.912e-02
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=3.150e+07GeV, T=1.501e+10years
+N1s=1.205e-03, N2s=1.062e-03, N2p=1.070e-03
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=4.000e+07GeV, T=1.500e+10years
+N1s=2.605e-04, N2s=2.472e-04, N2p=2.491e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=5.000e+07GeV, T=1.502e+10years
+N1s=1.481e-04, N2s=1.444e-04, N2p=1.456e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=6.300e+07GeV, T=1.503e+10years
+N1s=1.169e-04, N2s=1.153e-04, N2p=1.162e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=8.000e+07GeV, T=1.502e+10years
+N1s=1.062e-04, N2s=1.053e-04, N2p=1.061e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.000e+08GeV, T=1.502e+10years
+N1s=1.025e-04, N2s=1.019e-04, N2p=1.025e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.250e+08GeV, T=1.535e+10years
+N1s=1.010e-04, N2s=1.007e-04, N2p=1.011e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.600e+08GeV, T=1.603e+10years
+N1s=1.004e-04, N2s=1.003e-04, N2p=1.004e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=2.000e+08GeV, T=1.677e+10years
+N1s=1.002e-04, N2s=1.001e-04, N2p=1.002e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=2.500e+08GeV, T=2.047e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=3.150e+08GeV, T=1.720e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=4.000e+08GeV, T=4.471e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=5.000e+08GeV, T=1.092e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=6.300e+08GeV, T=2.751e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=8.000e+08GeV, T=7.154e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (4.000e+01, 3.200e-02) with 129 elements
+xi=4.000e+01, f=1.000e+09GeV, T=1.747e+12years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.000e+04GeV, T=2.179e-02years
+N1s=4.172e+02, N2s=5.843e-32, N2p=6.679e-32
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.250e+04GeV, T=5.300e-02years
+N1s=6.518e+02, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.600e+04GeV, T=1.392e-01years
+N1s=1.068e+03, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=2.000e+04GeV, T=3.364e-01years
+N1s=1.669e+03, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=2.500e+04GeV, T=8.168e-01years
+N1s=2.607e+03, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=3.150e+04GeV, T=2.051e+00years
+N1s=4.139e+03, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=4.000e+04GeV, T=5.329e+00years
+N1s=6.675e+03, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=5.000e+04GeV, T=1.301e+01years
+N1s=1.043e+04, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=6.300e+04GeV, T=3.279e+01years
+N1s=1.656e+04, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=8.000e+04GeV, T=8.526e+01years
+N1s=2.670e+04, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.000e+05GeV, T=2.081e+02years
+N1s=4.172e+04, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.250e+05GeV, T=5.082e+02years
+N1s=6.518e+04, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.600e+05GeV, T=1.364e+03years
+N1s=1.068e+05, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=2.000e+05GeV, T=3.330e+03years
+N1s=1.669e+05, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=2.500e+05GeV, T=8.131e+03years
+N1s=2.607e+05, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=3.150e+05GeV, T=2.049e+04years
+N1s=4.139e+05, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=4.000e+05GeV, T=5.329e+04years
+N1s=6.675e+05, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=5.000e+05GeV, T=1.301e+05years
+N1s=1.043e+06, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=6.300e+05GeV, T=3.279e+05years
+N1s=1.656e+06, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=8.000e+05GeV, T=8.526e+05years
+N1s=2.670e+06, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.000e+06GeV, T=2.081e+06years
+N1s=4.172e+06, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.250e+06GeV, T=5.082e+06years
+N1s=6.518e+06, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.600e+06GeV, T=1.364e+07years
+N1s=1.068e+07, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=2.000e+06GeV, T=3.330e+07years
+N1s=1.669e+07, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=2.500e+06GeV, T=8.131e+07years
+N1s=2.607e+07, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=3.150e+06GeV, T=2.049e+08years
+N1s=4.139e+07, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=4.000e+06GeV, T=5.329e+08years
+N1s=6.675e+07, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=5.000e+06GeV, T=1.301e+09years
+N1s=1.043e+08, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=6.300e+06GeV, T=3.279e+09years
+N1s=1.656e+08, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=8.000e+06GeV, T=8.526e+09years
+N1s=2.670e+08, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.000e+07GeV, T=1.500e+10years
+N1s=4.172e+08, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.250e+07GeV, T=1.500e+10years
+N1s=6.518e+08, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.600e+07GeV, T=1.500e+10years
+N1s=6.112e+04, N2s=2.109e-51, N2p=2.109e-51
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=2.000e+07GeV, T=1.500e+10years
+N1s=2.560e-01, N2s=1.718e-01, N2p=1.740e-01
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=2.500e+07GeV, T=1.500e+10years
+N1s=2.485e-03, N2s=2.102e-03, N2p=2.128e-03
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=3.150e+07GeV, T=1.501e+10years
+N1s=3.582e-04, N2s=3.332e-04, N2p=3.374e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=4.000e+07GeV, T=1.500e+10years
+N1s=1.633e-04, N2s=1.579e-04, N2p=1.599e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=5.000e+07GeV, T=1.502e+10years
+N1s=1.223e-04, N2s=1.200e-04, N2p=1.214e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=6.300e+07GeV, T=1.502e+10years
+N1s=1.083e-04, N2s=1.071e-04, N2p=1.082e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=8.000e+07GeV, T=1.503e+10years
+N1s=1.031e-04, N2s=1.025e-04, N2p=1.031e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.000e+08GeV, T=1.506e+10years
+N1s=1.013e-04, N2s=1.010e-04, N2p=1.013e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.250e+08GeV, T=1.546e+10years
+N1s=1.005e-04, N2s=1.004e-04, N2p=1.005e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.600e+08GeV, T=1.574e+10years
+N1s=1.002e-04, N2s=1.002e-04, N2p=1.002e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=2.000e+08GeV, T=1.747e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=2.500e+08GeV, T=1.706e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=3.150e+08GeV, T=2.150e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=4.000e+08GeV, T=5.589e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=5.000e+08GeV, T=1.365e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=6.300e+08GeV, T=3.439e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=8.000e+08GeV, T=8.943e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (5.000e+01, 4.000e-02) with 129 elements
+xi=5.000e+01, f=1.000e+09GeV, T=2.183e+12years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.000e+04GeV, T=4.387e-02years
+N1s=8.345e+02, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.250e+04GeV, T=1.047e-01years
+N1s=1.304e+03, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.600e+04GeV, T=2.763e-01years
+N1s=2.136e+03, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=2.000e+04GeV, T=6.686e-01years
+N1s=3.338e+03, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=2.500e+04GeV, T=1.626e+00years
+N1s=5.215e+03, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=3.150e+04GeV, T=4.094e+00years
+N1s=8.280e+03, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=4.000e+04GeV, T=1.065e+01years
+N1s=1.335e+04, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=5.000e+04GeV, T=2.599e+01years
+N1s=2.086e+04, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=6.300e+04GeV, T=6.551e+01years
+N1s=3.312e+04, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=8.000e+04GeV, T=1.703e+02years
+N1s=5.341e+04, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.000e+05GeV, T=4.159e+02years
+N1s=8.345e+04, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.250e+05GeV, T=1.015e+03years
+N1s=1.304e+05, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.600e+05GeV, T=2.725e+03years
+N1s=2.136e+05, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=2.000e+05GeV, T=6.654e+03years
+N1s=3.338e+05, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=2.500e+05GeV, T=1.624e+04years
+N1s=5.215e+05, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=3.150e+05GeV, T=4.094e+04years
+N1s=8.280e+05, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=4.000e+05GeV, T=1.065e+05years
+N1s=1.335e+06, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=5.000e+05GeV, T=2.599e+05years
+N1s=2.086e+06, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=6.300e+05GeV, T=6.551e+05years
+N1s=3.312e+06, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=8.000e+05GeV, T=1.703e+06years
+N1s=5.341e+06, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.000e+06GeV, T=4.159e+06years
+N1s=8.345e+06, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.250e+06GeV, T=1.015e+07years
+N1s=1.304e+07, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.600e+06GeV, T=2.725e+07years
+N1s=2.136e+07, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=2.000e+06GeV, T=6.654e+07years
+N1s=3.338e+07, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=2.500e+06GeV, T=1.624e+08years
+N1s=5.215e+07, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=3.150e+06GeV, T=4.094e+08years
+N1s=8.280e+07, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=4.000e+06GeV, T=1.065e+09years
+N1s=1.335e+08, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=5.000e+06GeV, T=2.599e+09years
+N1s=2.086e+08, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=6.300e+06GeV, T=6.551e+09years
+N1s=3.312e+08, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=8.000e+06GeV, T=1.500e+10years
+N1s=5.341e+08, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.000e+07GeV, T=1.500e+10years
+N1s=8.345e+08, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.250e+07GeV, T=1.500e+10years
+N1s=4.435e+07, N2s=8.441e-51, N2p=8.441e-51
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.600e+07GeV, T=1.500e+10years
+N1s=1.475e+00, N2s=7.789e-01, N2p=9.609e-01
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=2.000e+07GeV, T=1.500e+10years
+N1s=5.071e-03, N2s=3.657e-03, N2p=4.365e-03
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=2.500e+07GeV, T=1.502e+10years
+N1s=5.003e-04, N2s=4.248e-04, N2p=4.743e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=3.150e+07GeV, T=1.500e+10years
+N1s=1.894e-04, N2s=1.762e-04, N2p=1.858e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=4.000e+07GeV, T=1.501e+10years
+N1s=1.278e-04, N2s=1.242e-04, N2p=1.270e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=5.000e+07GeV, T=1.501e+10years
+N1s=1.106e-04, N2s=1.093e-04, N2p=1.103e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=6.300e+07GeV, T=1.501e+10years
+N1s=1.041e-04, N2s=1.036e-04, N2p=1.040e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=8.000e+07GeV, T=1.510e+10years
+N1s=1.016e-04, N2s=1.014e-04, N2p=1.015e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.000e+08GeV, T=1.513e+10years
+N1s=1.006e-04, N2s=1.006e-04, N2p=1.006e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.250e+08GeV, T=1.545e+10years
+N1s=1.003e-04, N2s=1.002e-04, N2p=1.003e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.600e+08GeV, T=1.623e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=2.000e+08GeV, T=1.761e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=2.500e+08GeV, T=2.149e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=3.150e+08GeV, T=2.708e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=4.000e+08GeV, T=7.042e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=5.000e+08GeV, T=1.719e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=6.300e+08GeV, T=4.333e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=8.000e+08GeV, T=1.127e+12years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (6.300e+01, 5.040e-02) with 129 elements
+xi=6.300e+01, f=1.000e+09GeV, T=2.751e+12years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.000e+04GeV, T=8.448e-02years
+N1s=1.709e+03, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.250e+04GeV, T=2.042e-01years
+N1s=2.670e+03, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.600e+04GeV, T=5.453e-01years
+N1s=4.374e+03, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=2.000e+04GeV, T=1.327e+00years
+N1s=6.835e+03, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=2.500e+04GeV, T=3.240e+00years
+N1s=1.068e+04, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=3.150e+04GeV, T=8.165e+00years
+N1s=1.695e+04, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=4.000e+04GeV, T=2.123e+01years
+N1s=2.734e+04, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=5.000e+04GeV, T=5.183e+01years
+N1s=4.272e+04, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=6.300e+04GeV, T=1.306e+02years
+N1s=6.782e+04, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=8.000e+04GeV, T=3.397e+02years
+N1s=1.094e+05, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.000e+05GeV, T=8.293e+02years
+N1s=1.709e+05, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.250e+05GeV, T=2.025e+03years
+N1s=2.670e+05, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.600e+05GeV, T=5.435e+03years
+N1s=4.374e+05, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=2.000e+05GeV, T=1.327e+04years
+N1s=6.835e+05, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=2.500e+05GeV, T=3.240e+04years
+N1s=1.068e+06, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=3.150e+05GeV, T=8.165e+04years
+N1s=1.695e+06, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=4.000e+05GeV, T=2.123e+05years
+N1s=2.734e+06, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=5.000e+05GeV, T=5.183e+05years
+N1s=4.272e+06, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=6.300e+05GeV, T=1.306e+06years
+N1s=6.782e+06, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=8.000e+05GeV, T=3.397e+06years
+N1s=1.094e+07, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.000e+06GeV, T=8.293e+06years
+N1s=1.709e+07, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.250e+06GeV, T=2.025e+07years
+N1s=2.670e+07, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.600e+06GeV, T=5.435e+07years
+N1s=4.374e+07, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=2.000e+06GeV, T=1.327e+08years
+N1s=6.835e+07, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=2.500e+06GeV, T=3.240e+08years
+N1s=1.068e+08, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=3.150e+06GeV, T=8.165e+08years
+N1s=1.695e+08, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=4.000e+06GeV, T=2.123e+09years
+N1s=2.734e+08, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=5.000e+06GeV, T=5.183e+09years
+N1s=4.272e+08, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=6.300e+06GeV, T=1.306e+10years
+N1s=6.782e+08, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=8.000e+06GeV, T=1.500e+10years
+N1s=1.094e+09, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.000e+07GeV, T=1.500e+10years
+N1s=1.709e+09, N2s=3.539e-50, N2p=3.539e-50
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.250e+07GeV, T=1.500e+10years
+N1s=3.521e+01, N2s=5.422e+00, N2p=1.873e+01
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.600e+07GeV, T=1.500e+10years
+N1s=1.089e-02, N2s=6.158e-03, N2p=9.489e-03
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=2.000e+07GeV, T=1.501e+10years
+N1s=6.841e-04, N2s=5.415e-04, N2p=6.466e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=2.500e+07GeV, T=1.500e+10years
+N1s=2.197e-04, N2s=1.997e-04, N2p=2.147e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=3.150e+07GeV, T=1.501e+10years
+N1s=1.367e-04, N2s=1.316e-04, N2p=1.354e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=4.000e+07GeV, T=1.502e+10years
+N1s=1.128e-04, N2s=1.111e-04, N2p=1.124e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=5.000e+07GeV, T=1.501e+10years
+N1s=1.050e-04, N2s=1.044e-04, N2p=1.049e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=6.300e+07GeV, T=1.500e+10years
+N1s=1.020e-04, N2s=1.017e-04, N2p=1.019e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=8.000e+07GeV, T=1.508e+10years
+N1s=1.008e-04, N2s=1.007e-04, N2p=1.007e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.000e+08GeV, T=1.502e+10years
+N1s=1.003e-04, N2s=1.003e-04, N2p=1.003e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.250e+08GeV, T=1.535e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.600e+08GeV, T=1.603e+10years
+N1s=1.001e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=2.000e+08GeV, T=1.677e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=2.500e+08GeV, T=2.729e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=3.150e+08GeV, T=3.439e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=4.000e+08GeV, T=8.943e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=5.000e+08GeV, T=2.183e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=6.300e+08GeV, T=5.503e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=8.000e+08GeV, T=1.431e+12years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (8.000e+01, 6.400e-02) with 129 elements
+xi=8.000e+01, f=1.000e+09GeV, T=3.493e+12years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.000e+04GeV, T=1.671e-01years
+N1s=3.337e+03, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.250e+04GeV, T=4.064e-01years
+N1s=5.214e+03, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.600e+04GeV, T=1.089e+00years
+N1s=8.543e+03, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=2.000e+04GeV, T=2.659e+00years
+N1s=1.335e+04, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=2.500e+04GeV, T=6.491e+00years
+N1s=2.086e+04, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=3.150e+04GeV, T=1.636e+01years
+N1s=3.311e+04, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=4.000e+04GeV, T=4.254e+01years
+N1s=5.340e+04, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=5.000e+04GeV, T=1.039e+02years
+N1s=8.343e+04, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=6.300e+04GeV, T=2.618e+02years
+N1s=1.325e+05, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=8.000e+04GeV, T=6.806e+02years
+N1s=2.136e+05, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.000e+05GeV, T=1.662e+03years
+N1s=3.337e+05, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.250e+05GeV, T=4.057e+03years
+N1s=5.214e+05, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.600e+05GeV, T=1.089e+04years
+N1s=8.543e+05, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=2.000e+05GeV, T=2.659e+04years
+N1s=1.335e+06, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=2.500e+05GeV, T=6.491e+04years
+N1s=2.086e+06, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=3.150e+05GeV, T=1.636e+05years
+N1s=3.311e+06, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=4.000e+05GeV, T=4.254e+05years
+N1s=5.340e+06, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=5.000e+05GeV, T=1.039e+06years
+N1s=8.343e+06, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=6.300e+05GeV, T=2.618e+06years
+N1s=1.325e+07, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=8.000e+05GeV, T=6.806e+06years
+N1s=2.136e+07, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.000e+06GeV, T=1.662e+07years
+N1s=3.337e+07, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.250e+06GeV, T=4.057e+07years
+N1s=5.214e+07, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.600e+06GeV, T=1.089e+08years
+N1s=8.543e+07, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=2.000e+06GeV, T=2.659e+08years
+N1s=1.335e+08, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=2.500e+06GeV, T=6.491e+08years
+N1s=2.086e+08, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=3.150e+06GeV, T=1.636e+09years
+N1s=3.311e+08, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=4.000e+06GeV, T=4.254e+09years
+N1s=5.340e+08, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=5.000e+06GeV, T=1.039e+10years
+N1s=8.343e+08, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=6.300e+06GeV, T=1.500e+10years
+N1s=1.325e+09, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=8.000e+06GeV, T=1.500e+10years
+N1s=2.136e+09, N2s=1.350e-49, N2p=1.350e-49
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.000e+07GeV, T=1.500e+10years
+N1s=2.084e+03, N2s=1.777e-04, N2p=6.902e+00
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.250e+07GeV, T=1.500e+10years
+N1s=6.420e-02, N2s=2.859e-02, N2p=5.229e-02
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.600e+07GeV, T=1.501e+10years
+N1s=1.113e-03, N2s=8.233e-04, N2p=1.031e-03
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=2.000e+07GeV, T=1.500e+10years
+N1s=2.683e-04, N2s=2.371e-04, N2p=2.600e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=2.500e+07GeV, T=1.500e+10years
+N1s=1.498e-04, N2s=1.424e-04, N2p=1.479e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=3.150e+07GeV, T=1.502e+10years
+N1s=1.174e-04, N2s=1.151e-04, N2p=1.168e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=4.000e+07GeV, T=1.502e+10years
+N1s=1.064e-04, N2s=1.056e-04, N2p=1.062e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=5.000e+07GeV, T=1.503e+10years
+N1s=1.026e-04, N2s=1.022e-04, N2p=1.025e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=6.300e+07GeV, T=1.501e+10years
+N1s=1.010e-04, N2s=1.009e-04, N2p=1.010e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=8.000e+07GeV, T=1.502e+10years
+N1s=1.004e-04, N2s=1.003e-04, N2p=1.004e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.000e+08GeV, T=1.528e+10years
+N1s=1.002e-04, N2s=1.001e-04, N2p=1.002e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.250e+08GeV, T=1.599e+10years
+N1s=1.001e-04, N2s=1.001e-04, N2p=1.001e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.600e+08GeV, T=1.717e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=2.000e+08GeV, T=2.096e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=2.500e+08GeV, T=1.706e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=3.150e+08GeV, T=4.299e+10years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=4.000e+08GeV, T=1.118e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=5.000e+08GeV, T=2.729e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=6.300e+08GeV, T=6.878e+11years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=8.000e+08GeV, T=1.789e+12years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04
+Found a match for (1.000e+02, 8.000e-02) with 129 elements
+xi=1.000e+02, f=1.000e+09GeV, T=4.366e+12years
+N1s=1.000e-04, N2s=1.000e-04, N2p=1.000e-04

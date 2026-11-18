@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+33/820 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.00448 and xi=5.6
+(9.83919e-05,1.30083e-08)
+(5.71448e-08,3.8273e-08)
+
+This is the code with full unbound wavefunctions.
+115/820 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.00536 and xi=6.7
+(9.84017e-05,1.30102e-08)
+(5.71498e-08,3.82749e-08)
+
+This is the code with full unbound wavefunctions.
+197/820 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.00568 and xi=7.1
+(9.84057e-05,1.3011e-08)
+(5.71518e-08,3.82756e-08)
+
+This is the code with full unbound wavefunctions.
+279/820 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.006 and xi=7.5
+(9.84099e-05,1.30118e-08)
+(5.7154e-08,3.82764e-08)
+
+This is the code with full unbound wavefunctions.
+361/820 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0072 and xi=9
+(9.84277e-05,1.30153e-08)
+(5.71631e-08,3.82799e-08)
+
+This is the code with full unbound wavefunctions.
+443/820 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.036 and xi=45
+(9.98245e-05,1.32892e-08)
+(5.78764e-08,3.85473e-08)
+
+This is the code with full unbound wavefunctions.
+525/820 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0424 and xi=53
+(0.000100386,1.33999e-08)
+(5.81634e-08,3.86544e-08)
+
+This is the code with full unbound wavefunctions.
+607/820 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0448 and xi=56
+(0.00010062,1.34461e-08)
+(5.8283e-08,3.86989e-08)
+
+This is the code with full unbound wavefunctions.
+689/820 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.048 and xi=60
+(0.000100952,1.35117e-08)
+(5.84526e-08,3.87619e-08)
+
+This is the code with full unbound wavefunctions.
+771/820 
+Total matrix element for 211+200-100=k1=211+200-100:
+At alpha=0.0568 and xi=71
+(0.000101981,1.37156e-08)
+(5.89782e-08,3.89566e-08)
+
+Program completed after 780 s

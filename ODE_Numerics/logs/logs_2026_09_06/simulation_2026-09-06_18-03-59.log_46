@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+46/820 
+Total matrix element for 210+k1-k3=k2=210+k1-k3:
+At alpha=0.00448 and xi=5.6
+(13.5202,0.433635)
+(0.327145,0.243052)
+
+This is the code with full unbound wavefunctions.
+128/820 
+Total matrix element for 210+k1-k3=k2=210+k1-k3:
+At alpha=0.00536 and xi=6.7
+(1.08699,0.0430063)
+(0.0272397,0.0202586)
+
+This is the code with full unbound wavefunctions.
+210/820 
+Total matrix element for 210+k1-k3=k2=210+k1-k3:
+At alpha=0.00568 and xi=7.1
+(0.377865,0.0159012)
+(0.00960177,0.00715242)
+
+This is the code with full unbound wavefunctions.
+292/820 
+Total matrix element for 210+k1-k3=k2=210+k1-k3:
+At alpha=0.006 and xi=7.5
+(0.121783,0.00538984)
+(0.00314018,0.00234275)
+
+This is the code with full unbound wavefunctions.
+374/820 
+Total matrix element for 210+k1-k3=k2=210+k1-k3:
+At alpha=0.0072 and xi=9
+(0.000883022,4.38277e-05)
+(2.41934e-05,1.80443e-05)
+
+This is the code with full unbound wavefunctions.
+456/820 
+Total matrix element for 210+k1-k3=k2=210+k1-k3:
+At alpha=0.036 and xi=45
+(2.59375e-200,7.81278e-202)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+538/820 
+Total matrix element for 210+k1-k3=k2=210+k1-k3:
+At alpha=0.0424 and xi=53
+(2.63507e-282,5.81666e-284)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+620/820 
+Total matrix element for 210+k1-k3=k2=210+k1-k3:
+At alpha=0.0448 and xi=56
+(1.13628e-316,2.16184e-318)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+702/820 
+Total matrix element for 210+k1-k3=k2=210+k1-k3:
+At alpha=0.048 and xi=60
+(0,0)
+(0,0)
+
+This is the code with full unbound wavefunctions.
+784/820 
+Total matrix element for 210+k1-k3=k2=210+k1-k3:
+At alpha=0.0568 and xi=71
+(0,0)
+(0,0)
+
+Program completed after 1149 s

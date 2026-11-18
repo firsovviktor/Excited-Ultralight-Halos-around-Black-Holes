@@ -1,0 +1,74 @@
+Threads used: 8
+Points to calculate: 3e+10@0.2/1e+10@1.5/2.5e+09@4.5/5e+08@1e+09/ x 820
+
+This is the code with full unbound wavefunctions.
+28/820 
+Total matrix element for 200+k1-210=k2=200+k1-210:
+At alpha=0.00448 and xi=5.6
+(0.487673,0.00182316)
+(0.003491,0.000992578)
+
+This is the code with full unbound wavefunctions.
+110/820 
+Total matrix element for 200+k1-210=k2=200+k1-210:
+At alpha=0.00536 and xi=6.7
+(0.491982,0.00152471)
+(0.00360035,0.000879832)
+
+This is the code with full unbound wavefunctions.
+192/820 
+Total matrix element for 200+k1-210=k2=200+k1-210:
+At alpha=0.00568 and xi=7.1
+(0.493075,0.00144242)
+(0.00363253,0.000844738)
+
+This is the code with full unbound wavefunctions.
+274/820 
+Total matrix element for 200+k1-210=k2=200+k1-210:
+At alpha=0.006 and xi=7.5
+(0.493973,0.00137098)
+(0.00366125,0.000812213)
+
+This is the code with full unbound wavefunctions.
+356/820 
+Total matrix element for 200+k1-210=k2=200+k1-210:
+At alpha=0.0072 and xi=9
+(0.496047,0.00116298)
+(0.00374415,0.000708765)
+
+This is the code with full unbound wavefunctions.
+438/820 
+Total matrix element for 200+k1-210=k2=200+k1-210:
+At alpha=0.036 and xi=45
+(0.130531,7.59435e-05)
+(0.00127542,7.42242e-05)
+
+This is the code with full unbound wavefunctions.
+520/820 
+Total matrix element for 200+k1-210=k2=200+k1-210:
+At alpha=0.0424 and xi=53
+(0.028261,1.22417e-05)
+(0.000304726,1.99064e-05)
+
+This is the code with full unbound wavefunctions.
+602/820 
+Total matrix element for 200+k1-210=k2=200+k1-210:
+At alpha=0.0448 and xi=56
+(0.0121747,4.39002e-06)
+(0.00013628,9.38808e-06)
+
+This is the code with full unbound wavefunctions.
+684/820 
+Total matrix element for 200+k1-210=k2=200+k1-210:
+At alpha=0.048 and xi=60
+(0.00297386,7.39761e-07)
+(3.49773e-05,2.59133e-06)
+
+This is the code with full unbound wavefunctions.
+766/820 
+Total matrix element for 200+k1-210=k2=200+k1-210:
+At alpha=0.0568 and xi=71
+(7.14215e-06,-9.85319e-10)
+(9.57266e-08,8.60061e-09)
+
+Program completed after 967 s
