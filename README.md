@@ -3,7 +3,7 @@
 Code accompanying the paper
 
 > S. Bottaro, V. Firsov, G. Perez, H. Steuer, O. Telem,
-> *Capturing Ultralight Dark Matter Around Black Holes*, arXiv:XXXX.XXXXX
+> *Capturing Ultralight Dark Matter Around Black Holes*, arXiv:2611.23384
 
 ## Citation
 
